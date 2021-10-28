@@ -87,7 +87,7 @@ def scrape_hospital_data(): # For now, hospitals that are a member of the WSHA
             else: members_json[hospital_name]['county'] = hospital_data
         #if not hospital_name or not wsha_link: continue
     with open('./data/hospital_urls.json', 'w') as fp:
-        json.dump(members_json, fp)
+        json.dump(members_json, fp, indent=4)
 
 if __name__ == '__main__':
     if scrape_urls: 

@@ -18,3 +18,13 @@ like congressional or legislative districts, hospital size, and county location.
 They can then see the hospitals fitting the criteria and compare their costs
 side to side for the specific services and/or medical goods/attention they may
 need.
+
+Procedural Steps:
+1. Consumer views dashboard
+2. Consumer selects appropriate filter criteria:
+    2.1 This can be county location, hospital size, legislative/congressional
+    districts, and medical services/goods they may need
+3. Consumer can then view the hospitals fitting that criteria
+4. From this specified hospital list, they can then compare costs for the
+   specific services, procedures, or mix that they need and make their decision.
+   4.1 This may be things such as gauging driving distance to cost savings

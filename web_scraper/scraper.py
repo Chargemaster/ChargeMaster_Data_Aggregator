@@ -78,7 +78,7 @@ def scrape_hospital_data(): # For now, hospitals that are a member of the WSHA
             members_json[hospital_name] = {'wsha_url': wsha_url,
                                             'hospital_url': hospital_json['hospital_url'],
                                             'county': None,
-                                            'nbeds': -1,
+                                            'nbeds': None,
                                             'congressional_district': hospital_json['congressional_district'], 
                                             'legislative_district': hospital_json['legislative_district']
                                         }

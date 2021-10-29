@@ -11,7 +11,7 @@
         "wsha_url": "https://www.wsha.org/members/astria-health",
         "hospital_url": "http://www.astria.health/",
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "4",
         "legislative_district": "13,14,15"
     },
@@ -75,7 +75,7 @@
         "wsha_url": "https://www.wsha.org/members/confluence-health",
         "hospital_url": "http://www.confluencehealth.org",
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -139,7 +139,7 @@
         "wsha_url": "https://www.wsha.org/members/fairfax-behavioral-health-everett",
         "hospital_url": "https://www.fairfaxhospital.com/",
         "county": "Snohomish",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "2",
         "legislative_district": "38"
     },
@@ -155,7 +155,7 @@
         "wsha_url": "https://www.wsha.org/members/fairfax-behavioral-health-monroe",
         "hospital_url": "https://www.fairfaxhospital.com/",
         "county": "Snohomish",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "1",
         "legislative_district": "39"
     },
@@ -267,7 +267,7 @@
         "wsha_url": "https://www.wsha.org/members/legacy-health",
         "hospital_url": "http://www.legacyhealth.org",
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "3",
         "legislative_district": "17,18,49"
     },
@@ -379,7 +379,7 @@
         "wsha_url": "https://www.wsha.org/members/multicare-health-system",
         "hospital_url": "http://www.multicare.org",
         "county": "Pierce",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -411,7 +411,7 @@
         "wsha_url": "https://www.wsha.org/members/multimedical-systems",
         "hospital_url": null,
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -619,7 +619,7 @@
         "wsha_url": "https://www.wsha.org/members/rainier-springs",
         "hospital_url": "https://rainiersprings.com/",
         "county": "Clark",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "3",
         "legislative_district": "17"
     },
@@ -659,7 +659,7 @@
         "wsha_url": "https://www.wsha.org/members/skagit-regional-health",
         "hospital_url": "http://www.skagitregionalhealth.org",
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -699,7 +699,7 @@
         "wsha_url": "https://www.wsha.org/members/south-sound-behavioral-hospital",
         "hospital_url": "https://www.southsoundbehavioralhospital.com/",
         "county": "Thurston",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "10",
         "legislative_district": "22"
     },
@@ -811,7 +811,7 @@
         "wsha_url": "https://www.wsha.org/members/swedish-health-services",
         "hospital_url": "http://www.swedish.org",
         "county": "King",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": "7",
         "legislative_district": "1, 5, 11, 21, 32, 34, 36, 37, 41, 43, 45, 46, 48"
     },
@@ -859,7 +859,7 @@
         "wsha_url": "https://www.wsha.org/members/uw-medicine",
         "hospital_url": "http://www.uwmedicine.org",
         "county": "King",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -899,7 +899,7 @@
         "wsha_url": "https://www.wsha.org/members/chi-franciscan-health",
         "hospital_url": "https://www.innovativecareahead.org/",
         "county": null,
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },
@@ -915,7 +915,7 @@
         "wsha_url": "https://www.wsha.org/members/wellfound-behavioral-health-hospital",
         "hospital_url": "https://www.wellfound.org/",
         "county": "Pierce",
-        "nbeds": -1,
+        "nbeds": null,
         "congressional_district": null,
         "legislative_district": null
     },

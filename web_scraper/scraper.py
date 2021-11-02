@@ -10,6 +10,7 @@ the information. The USER_AGENT field listed is what I found locally.
 """
 # URL for Washington State Hospital Association
 WSHA_URL = 'https://www.wsha.org/?p=61'
+URLS_PATH = './data/hospital_urls.json'
 # May need to update user agent. Look in Chrome Developer Tools > Network > Headers
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'
 HEADERS = {'User-Agent': USER_AGENT}
@@ -89,9 +90,20 @@ def scrape_hospital_data(): # For now, hospitals that are a member of the WSHA
     with open('./data/hospital_urls.json', 'w+') as fp:
         json.dump(members_json, fp, indent=4)
 
+def scrape_hospital_cdms():
+    if not exists(URLS_PATH):
+        print("Hospital URLs need to be scraped first... run with --scrape_urls")
+        return
+    hospital_urls = json.load(open(URLS_PATH))
+    for k, v in hospital_urls.items():
+        print(v['hospital_url']) # Use this url to web crawl
+
+
+
 if __name__ == '__main__':
     if scrape_urls: 
         print("Scraping WSHA for hospital URLS...")
         scrape_hospital_data()
     if scrape_cdms:
         print("Scraping hospital webpages for CDM files.")
+        scrape_hospital_cdms()

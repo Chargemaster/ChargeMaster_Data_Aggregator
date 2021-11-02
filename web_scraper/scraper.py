@@ -14,8 +14,8 @@ WSHA_URL = 'https://www.wsha.org/?p=61'
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'
 HEADERS = {'User-Agent': USER_AGENT}
 parser = argparse.ArgumentParser(description="Scrape hospital URLS, CDM from hospital URLS, etc. WIP")
-parser.add_argument('--scrape_urls', nargs='?', const=True, default=True, type=bool)
-parser.add_argument('--scrape_cdms', nargs='?', const=True, default=True, type=bool)
+parser.add_argument('--scrape_urls', help="Scrape hospital website URLs and general hospital information", action="store_true")
+parser.add_argument('--scrape_cdms', help="Scrape Charge Master data for registered Hospitals", action="store_true")
 args = parser.parse_args()
 scrape_urls, scrape_cdms = args.scrape_urls, args.scrape_cdms
 
@@ -86,7 +86,7 @@ def scrape_hospital_data(): # For now, hospitals that are a member of the WSHA
             if hospital_data.isnumeric(): members_json[hospital_name]['nbeds'] = int(hospital_data)
             else: members_json[hospital_name]['county'] = hospital_data
         #if not hospital_name or not wsha_link: continue
-    with open('./data/hospital_urls.json', 'w') as fp:
+    with open('./data/hospital_urls.json', 'w+') as fp:
         json.dump(members_json, fp, indent=4)
 
 if __name__ == '__main__':

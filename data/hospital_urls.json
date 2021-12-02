@@ -5,47 +5,44 @@
         "county": "Lewis",
         "nbeds": 25,
         "congressional_district": "3",
-        "legislative_district": "20"
-    },
-    "Astria Health": {
-        "wsha_url": "https://www.wsha.org/members/astria-health",
-        "hospital_url": "http://www.astria.health/",
-        "county": null,
-        "nbeds": null,
-        "congressional_district": "4",
-        "legislative_district": "13,14,15"
+        "legislative_district": "20",
+        "scraped_cdm": true
     },
     "Astria Sunnyside Hospital": {
         "wsha_url": "https://www.wsha.org/members/sunnyside-community-hospital-clinics",
-        "hospital_url": "http://www.sunnysidehospital.org",
+        "hospital_url": "https://www.astria.health/locations/astria-sunnyside-hospital",
         "county": "Yakima",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "15"
+        "legislative_district": "15",
+        "scraped_cdm": true
     },
     "Astria Toppenish Hospital": {
         "wsha_url": "https://www.wsha.org/members/toppenish-community-hospital",
-        "hospital_url": "http://www.toppenishhospital.com",
+        "hospital_url": "https://www.astria.health/locations/astria-toppenish-hospital",
         "county": "Yakima",
         "nbeds": 48,
         "congressional_district": "4",
-        "legislative_district": "15"
+        "legislative_district": "15",
+        "scraped_cdm": true
     },
     "Cascade Behavioral Health": {
         "wsha_url": "https://www.wsha.org/members/cascade-behavioral-health",
-        "hospital_url": "http://www.cascadebh.com",
+        "hospital_url": "https://www.cascadebh.com/admissions/insurance-payment-information/rates-pricing/",
         "county": "King",
         "nbeds": 137,
         "congressional_district": "9",
-        "legislative_district": "11,33,34,47"
+        "legislative_district": "11,33,34,47",
+        "scraped_cdm": true
     },
     "Cascade Medical": {
         "wsha_url": "https://www.wsha.org/members/cascade-medical-center",
-        "hospital_url": "http://www.cascademedical.org",
+        "hospital_url": "https://cascademedical.org/patient-resources/billing",
         "county": "Chelan",
         "nbeds": 25,
         "congressional_district": "8",
-        "legislative_district": "12"
+        "legislative_district": "12",
+        "scraped_cdm": true
     },
     "Cascade Valley Hospital and Clinics": {
         "wsha_url": "https://www.wsha.org/members/cascade-valley-hospital-and-clinics",
@@ -53,7 +50,8 @@
         "county": "Snohomish",
         "nbeds": 48,
         "congressional_district": "2",
-        "legislative_district": "10,39"
+        "legislative_district": "10,39",
+        "scraped_cdm": true
     },
     "Columbia Basin Hospital": {
         "wsha_url": "https://www.wsha.org/members/columbia-basin-hospital",
@@ -61,7 +59,8 @@
         "county": "Grant",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "12,13"
+        "legislative_district": "12,13",
+        "scraped_cdm": true
     },
     "Columbia County Health System": {
         "wsha_url": "https://www.wsha.org/members/columbia-county-health-system",
@@ -69,15 +68,18 @@
         "county": "Columbia",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "16"
+        "legislative_district": "16",
+        "scraped_cdm": false,
+        "cdm_missing": true
     },
     "Confluence Health": {
         "wsha_url": "https://www.wsha.org/members/confluence-health",
-        "hospital_url": "http://www.confluencehealth.org",
+        "hospital_url": "https://www.confluencehealth.org/patient-information/billing-insurance-information/hospital-pricing-transparency/",
         "county": null,
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": true
     },
     "Confluence Health/Central Washington Hospital": {
         "wsha_url": "https://www.wsha.org/members/confluence-healthcentral-washington-hospital-2",
@@ -85,7 +87,8 @@
         "county": "Chelan",
         "nbeds": 198,
         "congressional_district": "8",
-        "legislative_district": "12,13"
+        "legislative_district": "12,13",
+        "scraped_cdm": true
     },
     "Confluence Health/Wenatchee Valley Hospital &amp; Clinics": {
         "wsha_url": "https://www.wsha.org/members/confluence-healthwenatchee-valley-hospital",
@@ -93,7 +96,8 @@
         "county": "Chelan",
         "nbeds": 20,
         "congressional_district": "8",
-        "legislative_district": "12"
+        "legislative_district": "12",
+        "scraped_cdm": true
     },
     "Coulee Medical Center": {
         "wsha_url": "https://www.wsha.org/members/coulee-medical-center",
@@ -101,15 +105,17 @@
         "county": "Grant",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "12,13"
+        "legislative_district": "12,13",
+        "scraped_cdm": true
     },
     "East Adams Rural Healthcare": {
         "wsha_url": "https://www.wsha.org/members/east-adams-rural-healthcare",
-        "hospital_url": "http://www.earh.com",
+        "hospital_url": "https://www.earh.org/",
         "county": "Adams",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": true
     },
     "Eastern State Hospital": {
         "wsha_url": "https://www.wsha.org/members/eastern-state-hospital",
@@ -117,31 +123,35 @@
         "county": "Spokane",
         "nbeds": 317,
         "congressional_district": "5",
-        "legislative_district": "6"
+        "legislative_district": "6",
+        "scraped_cdm": true
     },
     "EvergreenHealth": {
         "wsha_url": "https://www.wsha.org/members/evergreenhealth",
-        "hospital_url": "http://www.evergreenhealth.com",
+        "hospital_url": "https://www.evergreenhealth.com/patients-visitors/billing-financial/cost-estimate-ehk/",
         "county": "King",
         "nbeds": 318,
         "congressional_district": "1",
-        "legislative_district": "1, 45, 48"
+        "legislative_district": "1, 45, 48",
+        "scraped_cdm": true
     },
     "EvergreenHealth Monroe": {
         "wsha_url": "https://www.wsha.org/members/evergreenhealth-monroe",
-        "hospital_url": "http://www.evergreenhealthmonroe.com/eh-monroe",
+        "hospital_url": "https://www.evergreenhealth.com/ehm/patients-visitors/cost-estimate-ehm/",
         "county": "Snohomish",
         "nbeds": 35,
         "congressional_district": "1",
-        "legislative_district": "39"
+        "legislative_district": "39",
+        "scraped_cdm": true
     },
     "Fairfax Behavioral Health Everett": {
         "wsha_url": "https://www.wsha.org/members/fairfax-behavioral-health-everett",
-        "hospital_url": "https://www.fairfaxhospital.com/",
+        "hospital_url": "https://www.inova.org/patient-and-visitor-information/hospital-charges",
         "county": "Snohomish",
         "nbeds": null,
         "congressional_district": "2",
-        "legislative_district": "38"
+        "legislative_district": "38",
+        "scraped_cdm": true
     },
     "Fairfax Behavioral Health Kirkland": {
         "wsha_url": "https://www.wsha.org/members/fairfax-hospital",
@@ -149,7 +159,8 @@
         "county": "King",
         "nbeds": 221,
         "congressional_district": "1",
-        "legislative_district": "1,45,48"
+        "legislative_district": "1,45,48",
+        "scraped_cdm": true
     },
     "Fairfax Behavioral Health Monroe": {
         "wsha_url": "https://www.wsha.org/members/fairfax-behavioral-health-monroe",
@@ -157,7 +168,8 @@
         "county": "Snohomish",
         "nbeds": null,
         "congressional_district": "1",
-        "legislative_district": "39"
+        "legislative_district": "39",
+        "scraped_cdm": true
     },
     "Ferry County Health": {
         "wsha_url": "https://www.wsha.org/members/ferry-county-memorial-hospital",
@@ -165,7 +177,9 @@
         "county": "Ferry",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "7"
+        "legislative_district": "7",
+        "scraped_cdm": false,
+        "cdm_missing": true
     },
     "Forks Community Hospital": {
         "wsha_url": "https://www.wsha.org/members/forks-community-hospital",
@@ -173,7 +187,8 @@
         "county": "Clallam",
         "nbeds": 25,
         "congressional_district": "6",
-        "legislative_district": "24"
+        "legislative_district": "24",
+        "scraped_cdm": true
     },
     "Garfield County Hospital District": {
         "wsha_url": "https://www.wsha.org/members/garfield-county-public-hospital-district",
@@ -181,7 +196,8 @@
         "county": "Garfield",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": false
     },
     "Harbor Regional Health": {
         "wsha_url": "https://www.wsha.org/members/grays-harbor-community-hospital",
@@ -189,7 +205,8 @@
         "county": "Grays Harbor",
         "nbeds": 105,
         "congressional_district": "6",
-        "legislative_district": "19,24"
+        "legislative_district": "19,24",
+        "scraped_cdm": false
     },
     "Inland Northwest Behavioral Health": {
         "wsha_url": "https://www.wsha.org/members/inland-northwest-behavioral-health",
@@ -197,7 +214,8 @@
         "county": "Spokane",
         "nbeds": 100,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Island Hospital": {
         "wsha_url": "https://www.wsha.org/members/island-hospital",
@@ -205,7 +223,8 @@
         "county": "Skagit",
         "nbeds": 43,
         "congressional_district": "2",
-        "legislative_district": "40,10"
+        "legislative_district": "40,10",
+        "scraped_cdm": false
     },
     "Jefferson Healthcare": {
         "wsha_url": "https://www.wsha.org/members/jefferson-healthcare",
@@ -213,7 +232,8 @@
         "county": "Jefferson",
         "nbeds": 25,
         "congressional_district": "6",
-        "legislative_district": "24"
+        "legislative_district": "24",
+        "scraped_cdm": true
     },
     "Kadlec Regional Medical Center": {
         "wsha_url": "https://www.wsha.org/members/kadlec-regional-medical-center",
@@ -221,7 +241,8 @@
         "county": "Benton",
         "nbeds": 270,
         "congressional_district": "4",
-        "legislative_district": "8,9,16"
+        "legislative_district": "8,9,16",
+        "scraped_cdm": false
     },
     "Kaiser Foundation Health Plan of Washington": {
         "wsha_url": "https://www.wsha.org/members/kaiser-foundation-health-plan-washington",
@@ -229,7 +250,8 @@
         "county": "King",
         "nbeds": 15,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Kindred Hospital Seattle \u2013 First Hill": {
         "wsha_url": "https://www.wsha.org/members/kindred-hospital-seattle-first-hill",
@@ -237,7 +259,8 @@
         "county": "King",
         "nbeds": 50,
         "congressional_district": "7",
-        "legislative_district": "43"
+        "legislative_district": "43",
+        "scraped_cdm": false
     },
     "Kittitas Valley Healthcare": {
         "wsha_url": "https://www.wsha.org/members/kittitas-valley-healthcare",
@@ -245,7 +268,8 @@
         "county": "Kittitas",
         "nbeds": 25,
         "congressional_district": "8",
-        "legislative_district": "13"
+        "legislative_district": "13",
+        "scraped_cdm": false
     },
     "Klickitat Valley Health": {
         "wsha_url": "https://www.wsha.org/members/klickitat-valley-health",
@@ -253,7 +277,8 @@
         "county": "Klickitat",
         "nbeds": 25,
         "congressional_district": "3",
-        "legislative_district": "14"
+        "legislative_district": "14",
+        "scraped_cdm": false
     },
     "Lake Chelan Health": {
         "wsha_url": "https://www.wsha.org/members/lake-chelan-community-hospital",
@@ -261,7 +286,8 @@
         "county": "Chelan",
         "nbeds": 25,
         "congressional_district": "8",
-        "legislative_district": "12"
+        "legislative_district": "12",
+        "scraped_cdm": false
     },
     "Legacy Health": {
         "wsha_url": "https://www.wsha.org/members/legacy-health",
@@ -269,7 +295,8 @@
         "county": null,
         "nbeds": null,
         "congressional_district": "3",
-        "legislative_district": "17,18,49"
+        "legislative_district": "17,18,49",
+        "scraped_cdm": false
     },
     "Legacy Salmon Creek Medical Center": {
         "wsha_url": "https://www.wsha.org/members/legacy-salmon-creek-medical-center",
@@ -277,7 +304,8 @@
         "county": "Clark",
         "nbeds": 220,
         "congressional_district": "3",
-        "legislative_district": "17,18,49"
+        "legislative_district": "17,18,49",
+        "scraped_cdm": false
     },
     "Lincoln Hospital": {
         "wsha_url": "https://www.wsha.org/members/lincoln-hospital",
@@ -285,7 +313,8 @@
         "county": "Lincoln",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "13"
+        "legislative_district": "13",
+        "scraped_cdm": false
     },
     "Lourdes Counseling Center": {
         "wsha_url": "https://www.wsha.org/members/lourdes-counseling-center",
@@ -293,7 +322,8 @@
         "county": "Benton",
         "nbeds": 44,
         "congressional_district": "4",
-        "legislative_district": "8,16"
+        "legislative_district": "8,16",
+        "scraped_cdm": false
     },
     "Lourdes Health": {
         "wsha_url": "https://www.wsha.org/members/lourdes-medical-center",
@@ -301,7 +331,8 @@
         "county": "Franklin",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "8,16"
+        "legislative_district": "8,16",
+        "scraped_cdm": false
     },
     "Madigan Army Medical Center": {
         "wsha_url": "https://www.wsha.org/members/madigan-army-medical-center",
@@ -309,7 +340,8 @@
         "county": "Pierce",
         "nbeds": 240,
         "congressional_district": "10",
-        "legislative_district": "28"
+        "legislative_district": "28",
+        "scraped_cdm": false
     },
     "Mason Health": {
         "wsha_url": "https://www.wsha.org/members/mason-general-hospital-family-of-clinics",
@@ -317,7 +349,8 @@
         "county": "Mason",
         "nbeds": 25,
         "congressional_district": "10",
-        "legislative_district": "35"
+        "legislative_district": "35",
+        "scraped_cdm": false
     },
     "Mid-Valley Hospital": {
         "wsha_url": "https://www.wsha.org/members/mid-valley-hospital",
@@ -325,7 +358,8 @@
         "county": "Okanogan",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "7,12"
+        "legislative_district": "7,12",
+        "scraped_cdm": false
     },
     "MultiCare Allenmore Hospital": {
         "wsha_url": "https://www.wsha.org/members/multicare-allenmore-hospital",
@@ -333,7 +367,8 @@
         "county": "Pierce",
         "nbeds": 70,
         "congressional_district": "6",
-        "legislative_district": "25,26,27,28,29"
+        "legislative_district": "25,26,27,28,29",
+        "scraped_cdm": false
     },
     "MultiCare Auburn Medical Center": {
         "wsha_url": "https://www.wsha.org/members/multicare-auburn-medical-center",
@@ -341,7 +376,8 @@
         "county": "King",
         "nbeds": 195,
         "congressional_district": "8",
-        "legislative_district": "30, 47"
+        "legislative_district": "30, 47",
+        "scraped_cdm": false
     },
     "MultiCare Capital Medical Center": {
         "wsha_url": "https://www.wsha.org/members/capital-medical-center",
@@ -349,7 +385,8 @@
         "county": "Thurston",
         "nbeds": 107,
         "congressional_district": "10",
-        "legislative_district": "20,22"
+        "legislative_district": "20,22",
+        "scraped_cdm": false
     },
     "MultiCare Covington Medical Center": {
         "wsha_url": "https://www.wsha.org/members/multicare-covington-medical-center",
@@ -357,7 +394,8 @@
         "county": "Pierce",
         "nbeds": 58,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "MultiCare Deaconess Hospital": {
         "wsha_url": "https://www.wsha.org/members/multicare-deaconess-hospital",
@@ -365,7 +403,8 @@
         "county": "Spokane",
         "nbeds": 388,
         "congressional_district": "5",
-        "legislative_district": "3,6"
+        "legislative_district": "3,6",
+        "scraped_cdm": false
     },
     "MultiCare Good Samaritan  Hospital": {
         "wsha_url": "https://www.wsha.org/members/multicare-good-samaritan-hospital",
@@ -373,7 +412,8 @@
         "county": "Pierce",
         "nbeds": 286,
         "congressional_district": "10",
-        "legislative_district": "2,25,31"
+        "legislative_district": "2,25,31",
+        "scraped_cdm": false
     },
     "MultiCare Health System": {
         "wsha_url": "https://www.wsha.org/members/multicare-health-system",
@@ -381,7 +421,8 @@
         "county": "Pierce",
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "MultiCare Mary Bridge Children\u2019s Hospital &amp; Health Center": {
         "wsha_url": "https://www.wsha.org/members/multicare-mary-bridge-childrens-hospital-health-center",
@@ -389,7 +430,8 @@
         "county": "Pierce",
         "nbeds": 82,
         "congressional_district": "6",
-        "legislative_district": "25,26,27,28,29"
+        "legislative_district": "25,26,27,28,29",
+        "scraped_cdm": false
     },
     "MultiCare Tacoma General Hospital": {
         "wsha_url": "https://www.wsha.org/members/multicare-tacoma-general-hospital",
@@ -397,7 +439,8 @@
         "county": "Pierce",
         "nbeds": 567,
         "congressional_district": "6",
-        "legislative_district": "25,27,28,29"
+        "legislative_district": "25,27,28,29",
+        "scraped_cdm": false
     },
     "MultiCare Valley Hospital": {
         "wsha_url": "https://www.wsha.org/members/multicare-valley-hospital",
@@ -405,7 +448,8 @@
         "county": "Spokane",
         "nbeds": 123,
         "congressional_district": "5",
-        "legislative_district": "4"
+        "legislative_district": "4",
+        "scraped_cdm": false
     },
     "MultiMedical Systems": {
         "wsha_url": "https://www.wsha.org/members/multimedical-systems",
@@ -413,7 +457,8 @@
         "county": null,
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Naval Hospital": {
         "wsha_url": "https://www.wsha.org/members/naval-hospital",
@@ -421,7 +466,8 @@
         "county": "Kitsap",
         "nbeds": 25,
         "congressional_district": "6",
-        "legislative_district": "35"
+        "legislative_district": "35",
+        "scraped_cdm": false
     },
     "Navos": {
         "wsha_url": "https://www.wsha.org/members/navos",
@@ -429,7 +475,8 @@
         "county": "King",
         "nbeds": 43,
         "congressional_district": "7",
-        "legislative_district": "34"
+        "legislative_district": "34",
+        "scraped_cdm": false
     },
     "Newport Hospital &amp; Health Services": {
         "wsha_url": "https://www.wsha.org/members/newport-hospital-health-services",
@@ -437,7 +484,8 @@
         "county": "Pend Oreille",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "7"
+        "legislative_district": "7",
+        "scraped_cdm": false
     },
     "North Valley Hospital": {
         "wsha_url": "https://www.wsha.org/members/north-valley-hospital",
@@ -445,7 +493,8 @@
         "county": "Okanogan",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "7"
+        "legislative_district": "7",
+        "scraped_cdm": false
     },
     "Ocean Beach Hospital &amp; Medical Clinics": {
         "wsha_url": "https://www.wsha.org/members/ocean-beach-hospital",
@@ -453,7 +502,8 @@
         "county": "Pacific",
         "nbeds": 25,
         "congressional_district": "3",
-        "legislative_district": "19"
+        "legislative_district": "19",
+        "scraped_cdm": false
     },
     "Odessa Memorial Healthcare Center": {
         "wsha_url": "https://www.wsha.org/members/odessa-memorial-healthcare-center",
@@ -461,7 +511,8 @@
         "county": "Lincoln",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "13"
+        "legislative_district": "13",
+        "scraped_cdm": false
     },
     "Olympic Medical Center": {
         "wsha_url": "https://www.wsha.org/members/olympic-medical-center",
@@ -469,7 +520,8 @@
         "county": "Clallam",
         "nbeds": 126,
         "congressional_district": "6",
-        "legislative_district": "24"
+        "legislative_district": "24",
+        "scraped_cdm": false
     },
     "Othello Community Hospital": {
         "wsha_url": "https://www.wsha.org/members/othello-community-hospital",
@@ -477,7 +529,8 @@
         "county": "Adams",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": false
     },
     "Overlake Medical Center": {
         "wsha_url": "https://www.wsha.org/members/overlake-medical-center",
@@ -485,7 +538,8 @@
         "county": "King",
         "nbeds": 349,
         "congressional_district": "9",
-        "legislative_district": "5,41,45,48"
+        "legislative_district": "5,41,45,48",
+        "scraped_cdm": false
     },
     "PeaceHealth Peace Island Medical Center": {
         "wsha_url": "https://www.wsha.org/members/peacehealth-peace-island-medical-center",
@@ -493,7 +547,8 @@
         "county": "San Juan",
         "nbeds": 25,
         "congressional_district": "2",
-        "legislative_district": "40"
+        "legislative_district": "40",
+        "scraped_cdm": false
     },
     "PeaceHealth Southwest Medical Center": {
         "wsha_url": "https://www.wsha.org/members/peacehealth-southwest-medical-center",
@@ -501,7 +556,8 @@
         "county": "Clark",
         "nbeds": 450,
         "congressional_district": "3",
-        "legislative_district": "17,18,49"
+        "legislative_district": "17,18,49",
+        "scraped_cdm": false
     },
     "PeaceHealth St. John Medical Center": {
         "wsha_url": "https://www.wsha.org/members/peacehealth-st-john-medical-center",
@@ -509,7 +565,8 @@
         "county": "Cowlitz",
         "nbeds": 346,
         "congressional_district": "3",
-        "legislative_district": "19,20"
+        "legislative_district": "19,20",
+        "scraped_cdm": false
     },
     "PeaceHealth St. Joseph Medical Center": {
         "wsha_url": "https://www.wsha.org/members/peacehealth-st-joseph-medical-center",
@@ -517,7 +574,8 @@
         "county": "Whatcom",
         "nbeds": 255,
         "congressional_district": "2",
-        "legislative_district": "40,42"
+        "legislative_district": "40,42",
+        "scraped_cdm": false
     },
     "PeaceHealth United General Medical Center": {
         "wsha_url": "https://www.wsha.org/members/peacehealth-united-general-medical-center",
@@ -525,7 +583,8 @@
         "county": "Skagit",
         "nbeds": 25,
         "congressional_district": "2",
-        "legislative_district": "39"
+        "legislative_district": "39",
+        "scraped_cdm": false
     },
     "Prosser Memorial Health": {
         "wsha_url": "https://www.wsha.org/members/pmh-medical-center",
@@ -533,7 +592,8 @@
         "county": "Benton",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "16"
+        "legislative_district": "16",
+        "scraped_cdm": false
     },
     "Providence Centralia Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-centralia-hospital",
@@ -541,7 +601,8 @@
         "county": "Lewis",
         "nbeds": 128,
         "congressional_district": "3",
-        "legislative_district": "7,19,20"
+        "legislative_district": "7,19,20",
+        "scraped_cdm": false
     },
     "Providence Holy Family Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-holy-family-hospital",
@@ -549,7 +610,8 @@
         "county": "Spokane",
         "nbeds": 197,
         "congressional_district": "5",
-        "legislative_district": "3,6"
+        "legislative_district": "3,6",
+        "scraped_cdm": false
     },
     "Providence Mount Carmel Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-mount-carmel-hospital",
@@ -557,7 +619,8 @@
         "county": "Stevens",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "7"
+        "legislative_district": "7",
+        "scraped_cdm": false
     },
     "Providence Regional Medical Center Everett": {
         "wsha_url": "https://www.wsha.org/members/providence-regional-medical-center-everett",
@@ -565,7 +628,8 @@
         "county": "Snohomish",
         "nbeds": 530,
         "congressional_district": "2",
-        "legislative_district": "10,21,38,39,44"
+        "legislative_district": "10,21,38,39,44",
+        "scraped_cdm": false
     },
     "Providence Sacred Heart Medical Center &amp; Children\u2019s Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-sacred-heart-medical-center-childrens-hospital",
@@ -573,7 +637,8 @@
         "county": "Spokane",
         "nbeds": 691,
         "congressional_district": "5",
-        "legislative_district": "3,4,6,7,9"
+        "legislative_district": "3,4,6,7,9",
+        "scraped_cdm": false
     },
     "Providence St. Joseph\u2019s Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-st-josephs-hospital",
@@ -581,7 +646,8 @@
         "county": "Stevens",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "7"
+        "legislative_district": "7",
+        "scraped_cdm": false
     },
     "Providence St. Mary Medical Center": {
         "wsha_url": "https://www.wsha.org/members/providence-st-mary-medical-center",
@@ -589,7 +655,8 @@
         "county": "Walla Walla",
         "nbeds": 142,
         "congressional_district": "5",
-        "legislative_district": "8,16"
+        "legislative_district": "8,16",
+        "scraped_cdm": false
     },
     "Providence St. Peter Hospital": {
         "wsha_url": "https://www.wsha.org/members/providence-st-peter-hospital",
@@ -597,7 +664,8 @@
         "county": "Thurston",
         "nbeds": 390,
         "congressional_district": "10",
-        "legislative_district": "2,20,22,35"
+        "legislative_district": "2,20,22,35",
+        "scraped_cdm": false
     },
     "Pullman Regional Hospital": {
         "wsha_url": "https://www.wsha.org/members/pullman-regional-hospital",
@@ -605,7 +673,8 @@
         "county": "Whitman",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": false
     },
     "Quincy Valley Medical Center": {
         "wsha_url": "https://www.wsha.org/members/quincy-valley-medical-center",
@@ -613,7 +682,8 @@
         "county": "Grant",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "13"
+        "legislative_district": "13",
+        "scraped_cdm": false
     },
     "Rainier Springs": {
         "wsha_url": "https://www.wsha.org/members/rainier-springs",
@@ -621,7 +691,8 @@
         "county": "Clark",
         "nbeds": null,
         "congressional_district": "3",
-        "legislative_district": "17"
+        "legislative_district": "17",
+        "scraped_cdm": false
     },
     "Samaritan Healthcare": {
         "wsha_url": "https://www.wsha.org/members/samaritan-healthcare",
@@ -629,7 +700,8 @@
         "county": "Grant",
         "nbeds": 50,
         "congressional_district": "4",
-        "legislative_district": "13"
+        "legislative_district": "13",
+        "scraped_cdm": false
     },
     "Seattle Cancer Care Alliance": {
         "wsha_url": "https://www.wsha.org/members/seattle-cancer-care-alliance",
@@ -637,7 +709,8 @@
         "county": "King",
         "nbeds": 20,
         "congressional_district": "7",
-        "legislative_district": "23, 32, 33, 34, 36, 37, 41, 43, 45, 46, 48"
+        "legislative_district": "23, 32, 33, 34, 36, 37, 41, 43, 45, 46, 48",
+        "scraped_cdm": false
     },
     "Seattle Children\u2019s": {
         "wsha_url": "https://www.wsha.org/members/seattle-childrens",
@@ -645,7 +718,8 @@
         "county": "King",
         "nbeds": 407,
         "congressional_district": "7",
-        "legislative_district": "32, 33, 36, 41, 43, 48"
+        "legislative_district": "32, 33, 36, 41, 43, 48",
+        "scraped_cdm": false
     },
     "Shriners Hospitals for Children \u2013 Spokane": {
         "wsha_url": "https://www.wsha.org/members/shriners-hospitals-for-children-spokane",
@@ -653,7 +727,8 @@
         "county": "Spokane",
         "nbeds": 69,
         "congressional_district": "5",
-        "legislative_district": "3"
+        "legislative_district": "3",
+        "scraped_cdm": false
     },
     "Skagit Regional Health": {
         "wsha_url": "https://www.wsha.org/members/skagit-regional-health",
@@ -661,7 +736,8 @@
         "county": null,
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Skagit Valley Hospital": {
         "wsha_url": "https://www.wsha.org/members/skagit-valley-hospital",
@@ -669,7 +745,8 @@
         "county": "Skagit",
         "nbeds": 173,
         "congressional_district": "1",
-        "legislative_district": "10,40"
+        "legislative_district": "10,40",
+        "scraped_cdm": false
     },
     "Skyline Health": {
         "wsha_url": "https://www.wsha.org/members/skyline-hospital",
@@ -677,7 +754,8 @@
         "county": "Klickitat",
         "nbeds": 25,
         "congressional_district": "3",
-        "legislative_district": "14"
+        "legislative_district": "14",
+        "scraped_cdm": false
     },
     "Smokey Point Behavioral Hospital": {
         "wsha_url": "https://www.wsha.org/members/smokey-point-behavioral-hospital",
@@ -685,7 +763,8 @@
         "county": "Snohomish",
         "nbeds": 115,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Snoqualmie Valley Hospital District": {
         "wsha_url": "https://www.wsha.org/members/snoqualmie-valley-hospital-district",
@@ -693,7 +772,8 @@
         "county": "King",
         "nbeds": 25,
         "congressional_district": "8",
-        "legislative_district": "5"
+        "legislative_district": "5",
+        "scraped_cdm": false
     },
     "South Sound Behavioral Hospital": {
         "wsha_url": "https://www.wsha.org/members/south-sound-behavioral-hospital",
@@ -701,7 +781,8 @@
         "county": "Thurston",
         "nbeds": null,
         "congressional_district": "10",
-        "legislative_district": "22"
+        "legislative_district": "22",
+        "scraped_cdm": false
     },
     "St. Anne Hospital": {
         "wsha_url": "https://www.wsha.org/members/highline-medical-center",
@@ -709,7 +790,8 @@
         "county": "King",
         "nbeds": 133,
         "congressional_district": "7",
-        "legislative_district": "11,33,34,47"
+        "legislative_district": "11,33,34,47",
+        "scraped_cdm": false
     },
     "St. Anthony Hospital": {
         "wsha_url": "https://www.wsha.org/members/st-anthony-hospital",
@@ -717,7 +799,8 @@
         "county": "Pierce",
         "nbeds": 112,
         "congressional_district": "6",
-        "legislative_district": "26"
+        "legislative_district": "26",
+        "scraped_cdm": false
     },
     "St. Clare Hospital": {
         "wsha_url": "https://www.wsha.org/members/st-clare-hospital",
@@ -725,7 +808,8 @@
         "county": "Pierce",
         "nbeds": 106,
         "congressional_district": "10",
-        "legislative_district": "28,29"
+        "legislative_district": "28,29",
+        "scraped_cdm": false
     },
     "St. Elizabeth Hospital": {
         "wsha_url": "https://www.wsha.org/members/st-elizabeth-hospital",
@@ -733,7 +817,8 @@
         "county": "King",
         "nbeds": 25,
         "congressional_district": "8",
-        "legislative_district": "5,31"
+        "legislative_district": "5,31",
+        "scraped_cdm": false
     },
     "St. Francis Hospital": {
         "wsha_url": "https://www.wsha.org/members/st-francis-hospital",
@@ -741,7 +826,8 @@
         "county": "King",
         "nbeds": 124,
         "congressional_district": "9",
-        "legislative_district": "30"
+        "legislative_district": "30",
+        "scraped_cdm": false
     },
     "St. Joseph Medical Center": {
         "wsha_url": "https://www.wsha.org/members/st-joseph-medical-center",
@@ -749,7 +835,8 @@
         "county": "Pierce",
         "nbeds": 366,
         "congressional_district": "6",
-        "legislative_district": "25, 27, 28, 29"
+        "legislative_district": "25, 27, 28, 29",
+        "scraped_cdm": false
     },
     "St. Luke\u2019s Rehabilitation Institute": {
         "wsha_url": "https://www.wsha.org/members/st-lukes-rehabilitation-institute",
@@ -757,7 +844,8 @@
         "county": "Spokane",
         "nbeds": 102,
         "congressional_district": "5",
-        "legislative_district": "3,4,6"
+        "legislative_district": "3,4,6",
+        "scraped_cdm": false
     },
     "St. Michael Medical Center": {
         "wsha_url": "https://www.wsha.org/members/harrison-medical-center",
@@ -765,7 +853,8 @@
         "county": "Kitsap",
         "nbeds": 260,
         "congressional_district": "6",
-        "legislative_district": "23,26,35"
+        "legislative_district": "23,26,35",
+        "scraped_cdm": false
     },
     "Summit Pacific Medical Center": {
         "wsha_url": "https://www.wsha.org/members/summit-pacific-medical-center",
@@ -773,7 +862,8 @@
         "county": "Grays Harbor",
         "nbeds": 25,
         "congressional_district": "6",
-        "legislative_district": "24"
+        "legislative_district": "24",
+        "scraped_cdm": false
     },
     "Swedish Ballard": {
         "wsha_url": "https://www.wsha.org/members/swedish-ballard",
@@ -781,7 +871,8 @@
         "county": "King",
         "nbeds": 75,
         "congressional_district": "7",
-        "legislative_district": "32,36,43,46"
+        "legislative_district": "32,36,43,46",
+        "scraped_cdm": false
     },
     "Swedish Cherry Hill": {
         "wsha_url": "https://www.wsha.org/members/swedish-cherry-hill",
@@ -789,7 +880,8 @@
         "county": "King",
         "nbeds": 227,
         "congressional_district": "9",
-        "legislative_district": "11,34,36,37,41,43,46"
+        "legislative_district": "11,34,36,37,41,43,46",
+        "scraped_cdm": false
     },
     "Swedish Edmonds": {
         "wsha_url": "https://www.wsha.org/members/swedish-edmonds",
@@ -797,7 +889,8 @@
         "county": "Snohomish",
         "nbeds": 186,
         "congressional_district": "7",
-        "legislative_district": "1,21,32"
+        "legislative_district": "1,21,32",
+        "scraped_cdm": false
     },
     "Swedish First Hill": {
         "wsha_url": "https://www.wsha.org/members/swedish-first-hill",
@@ -805,7 +898,8 @@
         "county": "King",
         "nbeds": 637,
         "congressional_district": "9",
-        "legislative_district": "11,34,36,41,43,46"
+        "legislative_district": "11,34,36,41,43,46",
+        "scraped_cdm": false
     },
     "Swedish Health Services": {
         "wsha_url": "https://www.wsha.org/members/swedish-health-services",
@@ -813,7 +907,8 @@
         "county": "King",
         "nbeds": null,
         "congressional_district": "7",
-        "legislative_district": "1, 5, 11, 21, 32, 34, 36, 37, 41, 43, 45, 46, 48"
+        "legislative_district": "1, 5, 11, 21, 32, 34, 36, 37, 41, 43, 45, 46, 48",
+        "scraped_cdm": false
     },
     "Swedish Issaquah": {
         "wsha_url": "https://www.wsha.org/members/swedish-issaquah",
@@ -821,7 +916,8 @@
         "county": "King",
         "nbeds": 144,
         "congressional_district": "8",
-        "legislative_district": "5,41,45,48"
+        "legislative_district": "5,41,45,48",
+        "scraped_cdm": false
     },
     "Three Rivers Hospital": {
         "wsha_url": "https://www.wsha.org/members/three-rivers-hospital",
@@ -829,7 +925,8 @@
         "county": "Okanogan/Douglas",
         "nbeds": 25,
         "congressional_district": "4",
-        "legislative_district": "12"
+        "legislative_district": "12",
+        "scraped_cdm": false
     },
     "Tri-State Memorial Hospital": {
         "wsha_url": "https://www.wsha.org/members/tri-state-memorial-hospital",
@@ -837,7 +934,8 @@
         "county": "Asotin",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": false
     },
     "Trios Health": {
         "wsha_url": "https://www.wsha.org/members/trios-health",
@@ -845,7 +943,8 @@
         "county": "Benton",
         "nbeds": 124,
         "congressional_district": "4",
-        "legislative_district": "8,16"
+        "legislative_district": "8,16",
+        "scraped_cdm": false
     },
     "UW Medical Center Montlake &amp; Northwest": {
         "wsha_url": "https://www.wsha.org/members/uw-medicinenorthwest-hospital-medical-center",
@@ -853,7 +952,8 @@
         "county": "King",
         "nbeds": 281,
         "congressional_district": "7",
-        "legislative_district": "32,36,43,46"
+        "legislative_district": "32,36,43,46",
+        "scraped_cdm": false
     },
     "UW Medicine": {
         "wsha_url": "https://www.wsha.org/members/uw-medicine",
@@ -861,7 +961,8 @@
         "county": "King",
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "UW Medicine/Harborview Medical Center": {
         "wsha_url": "https://www.wsha.org/members/uw-medicineharborview-medical-center",
@@ -869,7 +970,8 @@
         "county": "King",
         "nbeds": 413,
         "congressional_district": "9",
-        "legislative_district": "11, 32, 34, 36, 37, 41, 43, 46"
+        "legislative_district": "11, 32, 34, 36, 37, 41, 43, 46",
+        "scraped_cdm": false
     },
     "UW Medicine/University of Washington Medical Center": {
         "wsha_url": "https://www.wsha.org/members/uw-medicineuniversity-of-washington-medical-center",
@@ -877,7 +979,8 @@
         "county": "King",
         "nbeds": 473,
         "congressional_district": "7",
-        "legislative_district": "32,34,36,37,41,43,46"
+        "legislative_district": "32,34,36,37,41,43,46",
+        "scraped_cdm": false
     },
     "UW Medicine/Valley Medical Center": {
         "wsha_url": "https://www.wsha.org/members/uw-medicinevalley-medical-center",
@@ -885,7 +988,8 @@
         "county": "King",
         "nbeds": 321,
         "congressional_district": "9",
-        "legislative_district": "11,33,34,47"
+        "legislative_district": "11,33,34,47",
+        "scraped_cdm": false
     },
     "VA Puget Sound Health Care System": {
         "wsha_url": "https://www.wsha.org/members/va-puget-sound-health-care-system-tacoma",
@@ -893,7 +997,8 @@
         "county": "King",
         "nbeds": 459,
         "congressional_district": "9",
-        "legislative_district": "28"
+        "legislative_district": "28",
+        "scraped_cdm": false
     },
     "Virginia Mason Franciscan Health": {
         "wsha_url": "https://www.wsha.org/members/chi-franciscan-health",
@@ -901,7 +1006,8 @@
         "county": null,
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Virginia Mason Medical Center": {
         "wsha_url": "https://www.wsha.org/members/virginia-mason-medical-center",
@@ -909,7 +1015,8 @@
         "county": "King",
         "nbeds": 371,
         "congressional_district": "7",
-        "legislative_district": "11, 34, 36, 37, 43, 46"
+        "legislative_district": "11, 34, 36, 37, 43, 46",
+        "scraped_cdm": false
     },
     "Wellfound Behavioral Health Hospital": {
         "wsha_url": "https://www.wsha.org/members/wellfound-behavioral-health-hospital",
@@ -917,7 +1024,8 @@
         "county": "Pierce",
         "nbeds": null,
         "congressional_district": null,
-        "legislative_district": null
+        "legislative_district": null,
+        "scraped_cdm": false
     },
     "Western State Hospital": {
         "wsha_url": "https://www.wsha.org/members/western-state-hospital",
@@ -925,7 +1033,8 @@
         "county": "Pierce",
         "nbeds": 771,
         "congressional_district": "10",
-        "legislative_district": "28"
+        "legislative_district": "28",
+        "scraped_cdm": false
     },
     "WhidbeyHealth": {
         "wsha_url": "https://www.wsha.org/members/whidbeygeneralhospital",
@@ -933,7 +1042,8 @@
         "county": "Island",
         "nbeds": 25,
         "congressional_district": "2",
-        "legislative_district": "10"
+        "legislative_district": "10",
+        "scraped_cdm": false
     },
     "Whitman Hospital and Medical Clinics": {
         "wsha_url": "https://www.wsha.org/members/whitman-hospital-and-medical-center",
@@ -941,7 +1051,8 @@
         "county": "Whitman",
         "nbeds": 25,
         "congressional_district": "5",
-        "legislative_district": "9"
+        "legislative_district": "9",
+        "scraped_cdm": false
     },
     "Willapa Harbor Hospital": {
         "wsha_url": "https://www.wsha.org/members/willapa-harbor-hospital",
@@ -949,7 +1060,8 @@
         "county": "Pacific",
         "nbeds": 25,
         "congressional_district": "3",
-        "legislative_district": "19"
+        "legislative_district": "19",
+        "scraped_cdm": false
     },
     "Yakima Valley Memorial": {
         "wsha_url": "https://www.wsha.org/members/virginia-mason-memorial-hospital",
@@ -957,6 +1069,7 @@
         "county": "Yakima",
         "nbeds": 226,
         "congressional_district": "4",
-        "legislative_district": "13,14,15"
+        "legislative_district": "13,14,15",
+        "scraped_cdm": false
     }
 }

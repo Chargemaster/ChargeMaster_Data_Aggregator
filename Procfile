@@ -1,1 +1,1 @@
-web: python ./dashboard/dashboard.py
+web: gunicorn app:server

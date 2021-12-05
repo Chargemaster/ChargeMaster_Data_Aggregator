@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import dash
@@ -9,16 +8,9 @@ from dash.dependencies import Input, Output, State
 
 
 
-hospital_fee = pd.read_csv('/Users/janiceyang/Desktop/ChargeMaster_Data_Aggregator/data/all_hospital_fee_combined.csv')
-hospital_fee.head()
-
-hospital_address = pd.read_csv('/Users/janiceyang/Desktop/ChargeMaster_Data_Aggregator/data/hospital_address.csv')
-hospital_address.head()
-
+hospital_fee = pd.read_csv('./data/all_hospital_fee_combined.csv')
+hospital_address = pd.read_csv('./data/hospital_address.csv')
 hospital_all = hospital_fee.merge(hospital_address, on = 'hospital', how = 'left')
-hospital_all.head()
-
-
 
 # text that will show when hover
 hospital_all['text'] = hospital_all['hospital'] + ' Size: ' + hospital_all['hospital_size'] + ' Address: ' + hospital_all['address'].astype(str)
@@ -103,6 +95,9 @@ fig_4.show()
 
 # Plot out 4 graphs
 app = dash.Dash(__name__)
+server = app.server
+
+
 app.layout = html.Div(
     children=[
         html.Div(
@@ -356,5 +351,5 @@ def update_charts(Code, County, Size):
         return figure
 
 
-if __name__ == '__main__':
-    app.run_server()
+#if __name__ == '__main__':
+#    app.run_server()

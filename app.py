@@ -95,7 +95,7 @@ fig_4.show()
 
 # Plot out 4 graphs
 app = dash.Dash(__name__)
-server = app.server
+server = app.server # for starting heroku
 
 
 app.layout = html.Div(
@@ -350,6 +350,5 @@ def update_charts(Code, County, Size):
         figure.update_layout(title = "Price Information")
         return figure
 
-
-#if __name__ == '__main__':
-#    app.run_server()
+if __name__ == '__main__':
+    app.run_server(debug=True)

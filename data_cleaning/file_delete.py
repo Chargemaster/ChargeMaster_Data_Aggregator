@@ -1,6 +1,6 @@
 """ This script deletes non .csv and .xlsx files from the scraped file output.
-It should be used before file_rename.py and the source folder "scraped_data" which
-is in the same working directory.
+It should be used before file_rename.py and a source directory should be added
+as path_name.
 """
 
 from os import renames, unlink
@@ -8,10 +8,10 @@ import pathlib
 
 #This program works to delete files in scraper folder that are not data files.
 
-def delete_files():
-    """ This script iterates through all hospital folders in the scraped_data directoy
+def delete_files(path_name):
+    """ This script iterates through all hospital folders in the directory path_name
     and deletes files that are not .csv or .xlsx"""
-    path = pathlib.Path.cwd()/"scraped_data"
+    path = pathlib.Path(path_name)
     #print("This is the path: ", path)
 
     for folder in path.iterdir():
@@ -33,4 +33,4 @@ def delete_files():
             
                     
 
-delete_files()
+#delete_files(path_name)

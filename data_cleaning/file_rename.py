@@ -4,14 +4,14 @@ have been deleted, during the data cleaning process. """
 from os import renames, unlink
 import pathlib
 
-def rename_files():
+def rename_files(path_name):
     """
     The function iterates through each folder, and renames files with the same 
     name as the folder (hospital name) and a number, increasing by one for each file
     in the folder.
     """
-    path = pathlib.Path.cwd()/ 'scraped_data'
-    print("This is the path: ", path)
+    path = pathlib.Path(path_name)
+    #print("This is the path: ", path)
 
     for folder in path.iterdir():
         if folder.is_dir():
@@ -30,5 +30,5 @@ def rename_files():
             
                     
 
-rename_files()
+#rename_files()
 

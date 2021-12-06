@@ -22,8 +22,10 @@ def delete_files():
             for file in folder.iterdir():
                 if file.is_file():
                     if file.suffix == ".csv":
+                       pass
                        #print("this we keep: ", file.suffix)
                     elif file.suffix == ".xlsx":
+                        pass
                         #print("this we keep: ", file.suffix)
                     else:
                         #print("this we delete: ", file.suffix)

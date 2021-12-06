@@ -1,9 +1,15 @@
+"""
+This script is used to rename .csv and .xlsx data files that remain after all other file types
+have been deleted, during the data cleaning process. """
 from os import renames, unlink
 import pathlib
 
-#This program works to rename files in scraper folder with hospital name and a number ID for each file.
-
 def rename_files():
+    """
+    The function iterates through each folder, and renames files with the same 
+    name as the folder (hospital name) and a number, increasing by one for each file
+    in the folder.
+    """
     path = pathlib.Path.cwd()/ 'scraped_data'
     print("This is the path: ", path)
 
@@ -26,5 +32,3 @@ def rename_files():
 
 rename_files()
 
-# directory = file.parent
-#                 old_name = file.stem

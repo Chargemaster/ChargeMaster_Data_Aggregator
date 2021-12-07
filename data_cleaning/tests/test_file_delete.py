@@ -4,12 +4,13 @@
 3 edge tests
 """
 
-import numpy as np
+from os import renames, unlink
+import pathlib
 import unittest
 
 from file_delete import delete_files
 
-class Testdelete_files(unittest.TestCase):
+class TestDelete(unittest.TestCase):
 
     def test_smoke(self):
         """Smoke test to make sure function runs

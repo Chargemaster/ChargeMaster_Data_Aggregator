@@ -1,0 +1,1332 @@
+hospital,drg_code,hospital_size,county,name,price
+PeaceHealth St.Joseph Medical Center,216,Large,Whatcom,Cardiac Valve & Oth Maj Cardiothoracic Proc W Card Cath W Mcc,306198.98
+PeaceHealth St.Joseph Medical Center,743,Large,Whatcom,Uterine & Adnexa Proc For Non-Malignancy W/O Cc/Mcc,33923.7
+PeaceHealth St.Joseph Medical Center,470,Large,Whatcom,Major Hip And Knee Joint Replacement Or Reattachment Of Lower Extremity W/O Mcc,59529.03
+PeaceHealth St.Joseph Medical Center,460,Large,Whatcom,Spinal Fusion Except Cervical W/O Mcc,70992.56
+PeaceHealth St.Joseph Medical Center,473,Large,Whatcom,Cervical Spinal Fusion W/O Cc/Mcc,70391.22
+PeaceHealth St.Joseph Medical Center,96125,Large,Whatcom,"Standardized Thought Processing Testing, Interpretation, And Report Per Hour",365
+PeaceHealth St.Joseph Medical Center,93451,Large,Whatcom,Insertion Of Catheter For Diagnostic Evaluation Of Right Heart Structures,12127
+PeaceHealth St.Joseph Medical Center,93452,Large,Whatcom,Insertion Of Catheter Into Left Heart For Diagnosis,10951
+PeaceHealth St.Joseph Medical Center,93454,Large,Whatcom,"Insertion Of Catheter For Imaging Of Heart Blood Vessels Or Grafts, Coronary Only",12295
+PeaceHealth St.Joseph Medical Center,93456,Large,Whatcom,Insertion Of Catheter In Right Heart For X-Ray Imaging Of Blood Vessels Or Grafts,12295
+PeaceHealth St.Joseph Medical Center,93458,Large,Whatcom,Left Heart Cath With Coronary ,13281
+PeaceHealth St.Joseph Medical Center,93459,Large,Whatcom,Left Heart Cath With Coronary & Grafts,12295
+PeaceHealth St.Joseph Medical Center,93460,Large,Whatcom,Right And Left Heart Cath With Coronary,12295
+PeaceHealth St.Joseph Medical Center,93797,Large,Whatcom,Cardiac Rehab Phase 2 With Out Continuous Ecg,414
+PeaceHealth St.Joseph Medical Center,93798,Large,Whatcom,Cardiac Rehab Phase 2 With Continuous Ecg,414
+PeaceHealth St.Joseph Medical Center,96401,Large,Whatcom,Non-Hormonal Anti-Neoplastic Chemotherapy Beneath The Skin Or Into Muscle,460
+PeaceHealth St.Joseph Medical Center,96402,Large,Whatcom,Hormonal Anti-Neoplastic Chemotherapy Administration Beneath The Skin Or Into Muscle,261
+PeaceHealth St.Joseph Medical Center,96409,Large,Whatcom,Infusion Of Chemotherapy Into A Vein Using Push Technique,661
+PeaceHealth St.Joseph Medical Center,96413,Large,Whatcom,Infusion Of Chemotherapy Into A Vein Up To 1 Hour,1099
+PeaceHealth St.Joseph Medical Center,96415,Large,Whatcom,Infusion Of Chemotherapy Into A Vein,261
+PeaceHealth St.Joseph Medical Center,96416,Large,Whatcom,Prolonged Chemotherapy Infusion Into A Vein By Portable Or Implanted Pump More Than 8,1142
+PeaceHealth St.Joseph Medical Center,96450,Large,Whatcom,Chemotherapy Administration Into Spinal Canal Requiring Spinal Tap,1342
+PeaceHealth St.Joseph Medical Center,96523,Large,Whatcom,Irrigation Of Implanted Venous Access Drug Delivery Device,178
+PeaceHealth St.Joseph Medical Center,96549,Large,Whatcom,Chemotherapy Procedure,166
+PeaceHealth St.Joseph Medical Center,70450,Large,Whatcom,Ct Scan Head Or Brain Without Contrast,1808
+PeaceHealth St.Joseph Medical Center,71250,Large,Whatcom,Ct Scan Chest Without Contrast,2444
+PeaceHealth St.Joseph Medical Center,71260,Large,Whatcom,Ct Scan Chest With Contrast,3078
+PeaceHealth St.Joseph Medical Center,72192,Large,Whatcom,Ct Scan Of Pelvis Without Contrast,1912
+PeaceHealth St.Joseph Medical Center,72193,Large,Whatcom,Ct Scan Pelvis With Contrast,2973
+PeaceHealth St.Joseph Medical Center,74174,Large,Whatcom,Ct Scan Of Abdomen And Pelvis Blood Vessels,5923
+PeaceHealth St.Joseph Medical Center,74176,Large,Whatcom,Ct Scan Of Abdomen And Pelvis Without Contrast,3542
+PeaceHealth St.Joseph Medical Center,74177,Large,Whatcom,Ct Scan Of Abdomen And Pelvis With Contrast,4419
+PeaceHealth St.Joseph Medical Center,74178,Large,Whatcom,Ct Scan Abdomen And Pelvis Before And After Contrast,5922
+PeaceHealth St.Joseph Medical Center,75574,Large,Whatcom,Ct Scan Of Heart Blood Vessels And Grafts With Contrast Dye,5200
+PeaceHealth St.Joseph Medical Center,76700,Large,Whatcom,"Ultrasound Abdomen, Complete",928
+PeaceHealth St.Joseph Medical Center,76706,Large,Whatcom,Ultrasound Evaluation Of Abdominal Aorta To Detect Bulging (Aneurysm) ,481
+PeaceHealth St.Joseph Medical Center,76805,Large,Whatcom,"Ultrasound Pregnant Uterus, Greater Or Equal To 14 Weeks Gestation 1 Fetus",937
+PeaceHealth St.Joseph Medical Center,76815,Large,Whatcom,"Ultrasound Pregnant Uterus, Limited, 1 Or More Feutses",614
+PeaceHealth St.Joseph Medical Center,76819,Large,Whatcom,"Ultrasound Of Fetus, Biophysical Profile",650
+PeaceHealth St.Joseph Medical Center,76830,Large,Whatcom,"Ultrasound Pelvis, Vaginal Approach",646
+PeaceHealth St.Joseph Medical Center,76882,Large,Whatcom,"Ultrasound Of Leg Or Arm, Limited Area",394
+PeaceHealth St.Joseph Medical Center,93880,Large,Whatcom,Ultrasound Scanning Of Blood Flow (Outside The Brain) On Both Sides Of Head And Neck,1368
+PeaceHealth St.Joseph Medical Center,93925,Large,Whatcom,Ultrasound Study Of Arteries And Arterial Grafts Of Both Legs,1576
+PeaceHealth St.Joseph Medical Center,93926,Large,Whatcom,Ultrasound Study Of Arteries And Arterial Grafts Of One Leg Or Limited,1016
+PeaceHealth St.Joseph Medical Center,93930,Large,Whatcom,Ultrasound Study Of Arteries And Arterial Grafts Of Both Arms,1240
+PeaceHealth St.Joseph Medical Center,93931,Large,Whatcom,Ultrasound Study Of Arteries And Arterial Grafts Of One Arm Or Limited,1010
+PeaceHealth St.Joseph Medical Center,93970,Large,Whatcom,Ultrasound Scan Of Veins Of Both Arms Or Legs Including Assessment Of Compression And Functional Maneuvers,1554
+PeaceHealth St.Joseph Medical Center,93971,Large,Whatcom,Ultrasound Scan Of Veins Of One Arm Or Leg Or Limited Including Assessment Of Compression And Functional Maneuvers,1048
+PeaceHealth St.Joseph Medical Center,93978,Large,Whatcom,Ultrasound Scan Of Vena Cava Or Groin Graft Or Vessel Blood Flow,1299
+PeaceHealth St.Joseph Medical Center,93979,Large,Whatcom,"Ultrasound Scan Of Blood Flow Of Aorta, Vena Cava, Bypass Graphs, Or One Side Of The Groin Or Limited Scan",829
+PeaceHealth St.Joseph Medical Center,90935,Large,Whatcom,Hemodialysis Procedure With One Physician Evaluation,2676
+PeaceHealth St.Joseph Medical Center,92960,Large,Whatcom,Electric Cardioversion External,1843
+PeaceHealth St.Joseph Medical Center,93005,Large,Whatcom,"Routine Electrocardiogram (Ekg) With Tracing, Using At Least 12 Leads",265
+PeaceHealth St.Joseph Medical Center,93017,Large,Whatcom,Cardiovascular Stress Test Monitoring With Intrepretation And Report,1104
+PeaceHealth St.Joseph Medical Center,93303,Large,Whatcom,Ultrasound Examination Of Congenital Heart Defect,1842
+PeaceHealth St.Joseph Medical Center,93306,Large,Whatcom,"Ultrasound Examination Of Heart Including Color-Depicted Blood Flow Rate, Direction, And Valve Function",2263
+PeaceHealth St.Joseph Medical Center,93308,Large,Whatcom,Follow-Up Or Limited Ultrasound Examination Of Heart,935
+PeaceHealth St.Joseph Medical Center,93312,Large,Whatcom,Insertion Of Probe In Esophagus For Heart Ultrasound Examination Including Interpretation,2176
+PeaceHealth St.Joseph Medical Center,93351,Large,Whatcom,"Ultrasound Examination And Continuous Monitoring Of The Heart Performed During Rest, Exercise, And/Or Drug-Induced Stress With Interpretation And Report",1790
+PeaceHealth St.Joseph Medical Center,95816,Large,Whatcom,Measurement Of Brain Wave (Eeg) Activity Greater Than 1 Hour,1104
+PeaceHealth St.Joseph Medical Center,33208,Large,Whatcom,Insertion Of Permanent Pacemaker,34578
+PeaceHealth St.Joseph Medical Center,33227,Large,Whatcom,Removal And Replacement Of Single Lead Permanent Pacemaker Pulse Generator,25914
+PeaceHealth St.Joseph Medical Center,33228,Large,Whatcom,Removal/Replacement Of Lead Pacemaker,34578
+PeaceHealth St.Joseph Medical Center,33229,Large,Whatcom,Removal And Replacement Of Multiple Lead Permanent Pacemaker Pulse Generator,61877
+PeaceHealth St.Joseph Medical Center,33249,Large,Whatcom,Insertion Or Replacement Pacing Device,107297
+PeaceHealth St.Joseph Medical Center,33263,Large,Whatcom,"Removal And Replacement Of Defibrillator Pulse Generator, Dual Lead",76988
+PeaceHealth St.Joseph Medical Center,33264,Large,Whatcom,"Removal And Replacement Of Defibrillator Pulse Generator, Multi Lead",107297
+PeaceHealth St.Joseph Medical Center,93620,Large,Whatcom,"Insertion Of Catheters For Recording, Pacing, And Attempted Induction Of Abnormal Rhythm In Right Upper And Lower Heart",17841
+PeaceHealth St.Joseph Medical Center,93650,Large,Whatcom,Insertion Of Catheters For Creation Of Complete Heart Block,17841
+PeaceHealth St.Joseph Medical Center,93653,Large,Whatcom,Evaluation And Insertion Of Catheters For Creation Of Complete Heart Block,67248
+PeaceHealth St.Joseph Medical Center,93654,Large,Whatcom,"Evaluation And Insertion Of Catheters For Recording, Pacing, And Attempted Induction Of Heart Rhythm",67248
+PeaceHealth St.Joseph Medical Center,93656,Large,Whatcom,"Evaluation And Insertion Of Catheters For Recording, Pacing, And Treatment Of Abnormal Heart Rhythm",67248
+PeaceHealth St.Joseph Medical Center,93668,Large,Whatcom,Peripheral Arterial Disease (Pad) Rehabilitation Per Session,198
+PeaceHealth St.Joseph Medical Center,96360,Large,Whatcom,Hydration Infusion Into A Vein 31 Minutes To 1 Hour,689
+PeaceHealth St.Joseph Medical Center,96361,Large,Whatcom,Hydration Infusion Into A Vein,166
+PeaceHealth St.Joseph Medical Center,96365,Large,Whatcom,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis Up To 1 Hour",663
+PeaceHealth St.Joseph Medical Center,96367,Large,Whatcom,Infusion Into A Vein For Therapy Prevention Or Diagnosis Additional Sequential Infusion Up,239
+PeaceHealth St.Joseph Medical Center,96372,Large,Whatcom,"Injection Beneath The Skin Or Into Muscle For Therapy, Diagnosis, Or Prevention",209
+PeaceHealth St.Joseph Medical Center,96374,Large,Whatcom,"Injection Of Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",353
+PeaceHealth St.Joseph Medical Center,96375,Large,Whatcom,"Injection Of Different Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",196
+PeaceHealth St.Joseph Medical Center,96377,Large,Whatcom,Application Of On-Body Injector For Injection Under Skin,127
+PeaceHealth St.Joseph Medical Center,70553,Large,Whatcom,Mri Scan Brain Without And Then With Contrasst,4830
+PeaceHealth St.Joseph Medical Center,72148,Large,Whatcom,Mri Scan Lumbar Spine Without Contrast,2991
+PeaceHealth St.Joseph Medical Center,72197,Large,Whatcom,Mri Scan Of Pelvis Before And After Contrast,5264
+PeaceHealth St.Joseph Medical Center,73721,Large,Whatcom,Mri Scan Of Leg Joint Without Contrast,2675
+PeaceHealth St.Joseph Medical Center,75561,Large,Whatcom,Mri Of Heart Before And After Contrast,3418
+PeaceHealth St.Joseph Medical Center,59025,Large,Whatcom,Fetal Non-Stress Test,534
+PeaceHealth St.Joseph Medical Center,59412,Large,Whatcom,Turning Of Fetus From Breech To Presenting Position,7377
+PeaceHealth St.Joseph Medical Center,59820,Large,Whatcom,Treatment Of First Trimester Missed Abortion,7504
+PeaceHealth St.Joseph Medical Center,78227,Large,Whatcom,"Nuclear Imaging Of Liver And Bile Duct System, With Pharmaceutical",4633
+PeaceHealth St.Joseph Medical Center,78306,Large,Whatcom,Nuclear Imaging Bone And/Or Joint Imaging; Whole Body,2156
+PeaceHealth St.Joseph Medical Center,78451,Large,Whatcom,Nuclear Imaging Study Of Vessels Of Heart Using Drugs Or Exercise Single Study,4622
+PeaceHealth St.Joseph Medical Center,78452,Large,Whatcom,Nuclear Imaging Study Of Heart Vessles With Drugs Or Exercise,5165
+PeaceHealth St.Joseph Medical Center,78709,Large,Whatcom,Nuclear Imaging Study Of Kidney With Assessment Of Blood Flow And Function With And Without Pharm,3454
+PeaceHealth St.Joseph Medical Center,78803,Large,Whatcom,Nuclear Imaging Study Of Radioactive Material Distribution,3057
+PeaceHealth St.Joseph Medical Center,36415,Large,Whatcom,Blood Draw,60
+PeaceHealth St.Joseph Medical Center,36430,Large,Whatcom,Blood Transfusion,1340
+PeaceHealth St.Joseph Medical Center,36591,Large,Whatcom,Lab Blood Draw Cvc / Vad,241
+PeaceHealth St.Joseph Medical Center,36592,Large,Whatcom,Blood Collection From Established Picc,373
+PeaceHealth St.Joseph Medical Center,36593,Large,Whatcom,Declotting Infusion Of Central Venous,879
+PeaceHealth St.Joseph Medical Center,80048,Large,Whatcom,"Lab Blood Test, Total Calcium",140
+PeaceHealth St.Joseph Medical Center,80053,Large,Whatcom,"Lab Blood Test, Comprehensive Metabolic Panel",191
+PeaceHealth St.Joseph Medical Center,80061,Large,Whatcom,Lab Blood Test Lipid,162
+PeaceHealth St.Joseph Medical Center,80069,Large,Whatcom,Lab Blood Test Kidney Function,107
+PeaceHealth St.Joseph Medical Center,80076,Large,Whatcom,Lab Blood Test Liver Function,88
+PeaceHealth St.Joseph Medical Center,80158,Large,Whatcom,Lab Cyclosporine Level,247
+PeaceHealth St.Joseph Medical Center,81001,Large,Whatcom,Lab Automated Urinalysis Test With Examination Using Microscope,63
+PeaceHealth St.Joseph Medical Center,81002,Large,Whatcom,"Lab Urinalysis, Manual Test",58
+PeaceHealth St.Joseph Medical Center,81003,Large,Whatcom,Lab Automated Urinalysis Test Without Microspcope,59
+PeaceHealth St.Joseph Medical Center,81206,Large,Whatcom,Lab Translocation Analysis (Bcr/Abl1) Minor Breakpoint,463
+PeaceHealth St.Joseph Medical Center,81219,Large,Whatcom,"Lab Gene Analysis (Calreticulin), Common Variants",693
+PeaceHealth St.Joseph Medical Center,82728,Large,Whatcom,Lab Ferritin (Blood Protein) Level,141
+PeaceHealth St.Joseph Medical Center,83550,Large,Whatcom,Lab Iron Binding Capacity,146
+PeaceHealth St.Joseph Medical Center,83735,Large,Whatcom,Lab Magnesium Level,99
+PeaceHealth St.Joseph Medical Center,84153,Large,Whatcom,"Lab Prostate Specific Antigen Measurement, Total",148
+PeaceHealth St.Joseph Medical Center,84154,Large,Whatcom,"Lab Prostate Specific Antigen Measurement, Free",281
+PeaceHealth St.Joseph Medical Center,84443,Large,Whatcom,"Lab Blood Test, Thyroid Stimulating Hormone (Tsh)",177
+PeaceHealth St.Joseph Medical Center,84484,Large,Whatcom,"Lab Troponin (Protein) Analysis, Quant",279
+PeaceHealth St.Joseph Medical Center,84703,Large,Whatcom,Lab Gonadotropin (Reproductive Hormone) Analysis,154
+PeaceHealth St.Joseph Medical Center,85025,Large,Whatcom,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test With Wbc Diff",99
+PeaceHealth St.Joseph Medical Center,85027,Large,Whatcom,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test",70
+PeaceHealth St.Joseph Medical Center,85610,Large,Whatcom,Lab Prothrombin Time,77
+PeaceHealth St.Joseph Medical Center,85730,Large,Whatcom,"Lab Thromboplastin Time, Partial (Ptt), Plasma Or Whole Bld",102
+PeaceHealth St.Joseph Medical Center,86870,Large,Whatcom,Lab Identification Of Red Blood Cell Antibodies,334
+PeaceHealth St.Joseph Medical Center,86900,Large,Whatcom,Lab Blood Group Typing (Abo),90
+PeaceHealth St.Joseph Medical Center,86923,Large,Whatcom,Lab Blood Unit Compatibility Test Electric,327
+PeaceHealth St.Joseph Medical Center,87077,Large,Whatcom,Lab Bacterial Culture For Aerobic Isolates,179
+PeaceHealth St.Joseph Medical Center,87497,Large,Whatcom,"Lab Detection Test For Cytomegalovirus, Quantification",807
+PeaceHealth St.Joseph Medical Center,87502,Large,Whatcom,Lab Detection Test For Multiple Types Influenza Virus,333
+PeaceHealth St.Joseph Medical Center,87631,Large,Whatcom,Lab Detection Test For Multiple Types Of Respiratory Virus 3-5 Targets,580
+PeaceHealth St.Joseph Medical Center,88184,Large,Whatcom,"Lab Flow Cytometry Technique For Dna Or Cell Analysis, Tc 1 Marker",293
+PeaceHealth St.Joseph Medical Center,88305,Large,Whatcom,"Lab Pathology Examination Of Tissue Using A Microscope, Intermediate Complexity",346
+PeaceHealth St.Joseph Medical Center,88307,Large,Whatcom,"Lab Pathology Examination Of Tissue Using A Microscope, Moderately High Complexity",762
+PeaceHealth St.Joseph Medical Center,88309,Large,Whatcom,"Lab Pathology Examination Of Tissue Using A Microscope, High Complexity",1062
+PeaceHealth St.Joseph Medical Center,88333,Large,Whatcom,Lab Pathology Examination Of Tissue Specimen During Surgery,574
+PeaceHealth St.Joseph Medical Center,92507,Large,Whatcom,"Treatment Of Speech, Language, Voice, Communication, And/Or Hearing Processing",229
+PeaceHealth St.Joseph Medical Center,92522,Large,Whatcom,Evaluation Of Speech Sound Production,325
+PeaceHealth St.Joseph Medical Center,92523,Large,Whatcom,Evaluation Of Speech Sound Production With Evaluation Of Language Comprehension,305
+PeaceHealth St.Joseph Medical Center,92524,Large,Whatcom,Behavioral And Qualitative Analysis Of Voice And Resonance,358
+PeaceHealth St.Joseph Medical Center,92526,Large,Whatcom,Treatment Of Swallowing And/Or Oral Feeding Function,386
+PeaceHealth St.Joseph Medical Center,92610,Large,Whatcom,Evaluation Of Swallowing Function,379
+PeaceHealth St.Joseph Medical Center,97110,Large,Whatcom,"Therapeutic Exercise To Develop Strength, Endurance, Range Of Motion, And Flexibility,",125
+PeaceHealth St.Joseph Medical Center,97112,Large,Whatcom,"Therapeutic Procedure To Re-Educate Brain-To-Nerve-To-Muscle Function, Each 15 Minutes",125
+PeaceHealth St.Joseph Medical Center,97113,Large,Whatcom,"Water Pool Therapy With Therapeutic Exercises To 1 Or More Areas, Each 15 Minutes",147
+PeaceHealth St.Joseph Medical Center,97116,Large,Whatcom,"Walking Training To 1 Or More Areas, Each 15 Minutes",108
+PeaceHealth St.Joseph Medical Center,97140,Large,Whatcom,"Manual (Physical) Therapy Techniques To 1 Or More Regions, Each 15 Minutes",130
+PeaceHealth St.Joseph Medical Center,97161,Large,Whatcom,Physical Therapy Evaluation Typically 20 Minutes,303
+PeaceHealth St.Joseph Medical Center,97162,Large,Whatcom,Physical Therapy Evaluation Typically 30 Minutes,312
+PeaceHealth St.Joseph Medical Center,97163,Large,Whatcom,Physical Therapy Evaluation Typically 45 Minutes,363
+PeaceHealth St.Joseph Medical Center,97164,Large,Whatcom,"Re-Evaluation Of Physical Therapy, Typically 20 Minutes",206
+PeaceHealth St.Joseph Medical Center,97165,Large,Whatcom,"Evaluation Of Occupational Therapy, Typically 45 Minutes",325
+PeaceHealth St.Joseph Medical Center,97166,Large,Whatcom,"Evaluation Of Occupational Therapy, Typically 30 Minutes",364
+PeaceHealth St.Joseph Medical Center,97530,Large,Whatcom,"Therapeutic Activities To Improve Function, With One-On-One Contact Between Patient And Provider, Each 15 Minutes",146
+PeaceHealth St.Joseph Medical Center,97535,Large,Whatcom,"Self-Care Or Home Management Training, Each 15 Minutes",122
+PeaceHealth St.Joseph Medical Center,97542,Large,Whatcom,"Wheelchair Management, Each 15 Minutes",149
+PeaceHealth St.Joseph Medical Center,97760,Large,Whatcom,"Evaluation Of Orthotic Or Prosthetic Use, Each 15 Minutes",170
+PeaceHealth St.Joseph Medical Center,33270,Large,Whatcom,Insertion Or Replacement Of Defibrillator With Electrode,44517
+PeaceHealth St.Joseph Medical Center,33285,Large,Whatcom,Insertion Of Heart Rhythm Monitor Under Skin,27695
+PeaceHealth St.Joseph Medical Center,33286,Large,Whatcom,Removal Of Heart Rhythm Monitor From Under Skin,2528
+PeaceHealth St.Joseph Medical Center,36475,Large,Whatcom,"Destruction Of Insufficient Vein Of Arm Or Leg, Accessed Through The Skin",11452
+PeaceHealth St.Joseph Medical Center,36558,Large,Whatcom,Insertion Tunneled Central Venous Catheter Without Port Or Pump,8021
+PeaceHealth St.Joseph Medical Center,36561,Large,Whatcom,Insertion Tunneled Central Venous Catheter With Port Or Pump,12805
+PeaceHealth St.Joseph Medical Center,36573,Large,Whatcom,"Insertion Of Peripherally Inserted Central Venous Catheter For Infusion Using Imaging Guidance, Patient 5 Years Or Older",4091
+PeaceHealth St.Joseph Medical Center,36589,Large,Whatcom,Removal Tunneled Central Venous Catheter Without Port Or Pump,1132
+PeaceHealth St.Joseph Medical Center,36590,Large,Whatcom,Removal Tunneled Central Venous Catheter With Port Or Pump,2316
+PeaceHealth St.Joseph Medical Center,36600,Large,Whatcom,Lab Arterial Blood Collection,429
+PeaceHealth St.Joseph Medical Center,36901,Large,Whatcom,"Insertion Of Needle And/Or Catheter Into Dialysis Circuit, With Imaging Including Radiological Supervision And Interpretation",2421
+PeaceHealth St.Joseph Medical Center,36902,Large,Whatcom,Insertion Catheter Into Dialysis Circuit,17069
+PeaceHealth St.Joseph Medical Center,37221,Large,Whatcom,"Insertion Of Stents In Artery In One Side Of Groin, Endovascular, Accessed Through The Skin Or Open Procedure ",20897
+PeaceHealth St.Joseph Medical Center,37226,Large,Whatcom,"Insertion Of Stents Into Arteries In One Leg, Endovascular, Accessed Through The Skin Or Open Procedure",46565
+PeaceHealth St.Joseph Medical Center,37228,Large,Whatcom,"Balloon Dilation Of Artery Of One Leg, Endovascular, Accessed Through The Skin Or Open Procedure ",24277
+PeaceHealth St.Joseph Medical Center,37236,Large,Whatcom,"Insertion Of Intravascular Stents In Artery (Except Lower Extremity, Cervical Carotid, Extracranial Vertebral Or Intrathoracic Carotid, Intracranial, Or Coronary), Open Or Accessed Through The Skin, With Radiological Supervision And Interpretation ",17393
+PeaceHealth St.Joseph Medical Center,37242,Large,Whatcom,"Occlusion Of Artery (Other Than Hemorrhage Or Tumor) With Radiological Supervision And And Interpretation, Roadmapping, And Imaging Guidance",19480
+PeaceHealth St.Joseph Medical Center,92920,Large,Whatcom,"Balloon Dilation Of Narrowed Or Blocked Major Coronary Artery Or Branch (Accessed Through The Skin), Each Additional Artery Or Branch ",16375
+PeaceHealth St.Joseph Medical Center,92943,Large,Whatcom,"Insertion Of Stent, Removal Of Plaque And/Or Balloon Dilation Of Coronary Vessel, Chronic Occlusion Single",19867
+PeaceHealth St.Joseph Medical Center,93580,Large,Whatcom,"Transcatheter Based Closure Of Congenital Heart Defect With Implant, Accessed Through The Skin",33819
+PeaceHealth St.Joseph Medical Center,47000,Large,Whatcom,"Needle Biopsy Of Liver, Accessed Through The Skin",3819
+PeaceHealth St.Joseph Medical Center,49083,Large,Whatcom,"Drainage Of Fluid From Abdominal Cavity, With Imaging Guidance",3126
+PeaceHealth St.Joseph Medical Center,38505,Large,Whatcom,Needle Biopsy Or Removal Of Lymph Nodes,1615
+PeaceHealth St.Joseph Medical Center,10060,Large,Whatcom,"Drainage Of Skin Abscess, Simple",482
+PeaceHealth St.Joseph Medical Center,10061,Large,Whatcom,"Drainage Of Skin Abscess, Complicated",932
+PeaceHealth St.Joseph Medical Center,10120,Large,Whatcom,"Removal Of Foreign Body From Tissue, Accessed Beneath The Skin Simple",824
+PeaceHealth St.Joseph Medical Center,12001,Large,Whatcom,"Repair Of Wound (2.5 Centimeters Or Less) Of The Scalp, Neck, Underarms, Trunk, Arms",482
+PeaceHealth St.Joseph Medical Center,12002,Large,Whatcom,"Repair Of Wound (2.6 To 7.5 Centimeters) Of The Scalp, Neck, Underarms, Genitals, Trunk, Arms And/Or Legs",482
+PeaceHealth St.Joseph Medical Center,12004,Large,Whatcom,"Repair Of Wound (7.6 To 12.5 Centimeters) Of The Scalp, Neck, Underarms, Genitals, Trunk, Arms And/Or Legs",482
+PeaceHealth St.Joseph Medical Center,12005,Large,Whatcom,"Repair Of Wound (12.6 To 20.0 Centimeters) Of The Scalp, Neck, Underarms, Genitals, Trunk, Arms And/Or Legs",540
+PeaceHealth St.Joseph Medical Center,12011,Large,Whatcom,"Repair Of Wound (2.5 Centimeters Or Less) Of The Face, Ears, Eyelids, Nose, Lips, And/Or",482
+PeaceHealth St.Joseph Medical Center,12013,Large,Whatcom,"Repair Of Wound (2.6 To 5.0 Centimeters) Of The Face, Ears, Eyelids, Nose, Lips, And/Or",482
+PeaceHealth St.Joseph Medical Center,55700,Large,Whatcom,Biopsy Of Prostate Gland,6836
+PeaceHealth St.Joseph Medical Center,20206,Large,Whatcom,"Needle Biopsy Of Muscle, Accessed Through The Skin",2272
+PeaceHealth St.Joseph Medical Center,20611,Large,Whatcom,Aspiration And/Or Injection Of Major Joint Or Joint Capsule With Recording And Reporting Using Ultrasound Guidance,598
+PeaceHealth St.Joseph Medical Center,29105,Large,Whatcom,Arm Splint,486
+PeaceHealth St.Joseph Medical Center,29125,Large,Whatcom,"Arm Splint, Forearm To Hand",374
+PeaceHealth St.Joseph Medical Center,29130,Large,Whatcom,Finger Splint,230
+PeaceHealth St.Joseph Medical Center,29515,Large,Whatcom,Short Leg Splint,486
+PeaceHealth St.Joseph Medical Center,30901,Large,Whatcom,"Control Nosebleed, Anterior, Simple",440
+PeaceHealth St.Joseph Medical Center,31575,Large,Whatcom,Diagnostic Exam Of Voice Box,578
+PeaceHealth St.Joseph Medical Center,62323,Large,Whatcom,Injection Of Substance Into Spinal Canal Of Lower Back Or Sacrum Using Imaging Guidance,1888
+PeaceHealth St.Joseph Medical Center,64400,Large,Whatcom,Injection Of Anesthetic Agent Trigeminal Nerve,915
+PeaceHealth St.Joseph Medical Center,64450,Large,Whatcom,"Injection Of Anesthetic Agent, Other Peripheral Nerve Or Branch",915
+PeaceHealth St.Joseph Medical Center,64483,Large,Whatcom,"Injection(S), Anesthetic Agent And/Or Steroid, Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or Ct); Lumbar Or Sacral, Single Level",1826
+PeaceHealth St.Joseph Medical Center,95992,Large,Whatcom,"Repositioning Maneuvers For Treatment Of Vertigo, Per Day",169
+PeaceHealth St.Joseph Medical Center,96105,Large,Whatcom,Assessment Of Expressive And Receptive Speech With Interpretation And Report Per Hour,441
+PeaceHealth St.Joseph Medical Center,51702,Large,Whatcom,Insertion Of Bladder Catheter,422
+PeaceHealth St.Joseph Medical Center,51798,Large,Whatcom,Ultrasound Measurement,156
+PeaceHealth St.Joseph Medical Center,94640,Large,Whatcom,Respiratory Inhaled Pressure Or Nonpressure Treatment To Relieve Airway Obstruction Or For Sputum Specimen,294
+PeaceHealth St.Joseph Medical Center,94644,Large,Whatcom,"Respiratory Inhaled Aerosol Treatment To Relieve Airway Obstruction, First Hour ",264
+PeaceHealth St.Joseph Medical Center,94660,Large,Whatcom,Initiation And Management Of Continued Pressured Respiratory Assistance By Mask Or Breathing Tube ,1011
+PeaceHealth St.Joseph Medical Center,94667,Large,Whatcom,Demonstration And/Or Evaluation Of Manual Maneuvers To Chest Wall To Assist Movement Of Lung Secretions,350
+PeaceHealth St.Joseph Medical Center,94668,Large,Whatcom,Manual Maneuvers To Chest Wall To Assist Movement Of Lung Secretions ,131
+PeaceHealth St.Joseph Medical Center,77290,Large,Whatcom,"Radiation Oncology Management Of Radiation Therapy, Simulation, Complex",2981
+PeaceHealth St.Joseph Medical Center,77295,Large,Whatcom,"Radiation Oncology Management Of Radiation Therapy, 3D",11964
+PeaceHealth St.Joseph Medical Center,77300,Large,Whatcom,Radiation Oncology Calculation Of Radiation Therapy,729
+PeaceHealth St.Joseph Medical Center,77301,Large,Whatcom,Radiation Oncology Management Of Modulation Radiotherapy Planning,9801
+PeaceHealth St.Joseph Medical Center,77307,Large,Whatcom,"Radiation Oncology Radiation Therapy Plan, Complex Teletherapy",1408
+PeaceHealth St.Joseph Medical Center,77331,Large,Whatcom,Radiation Oncology Special Radiation Therapy Planning,541
+PeaceHealth St.Joseph Medical Center,77334,Large,Whatcom,Radiation Oncology Radiation Treatment Devices,1792
+PeaceHealth St.Joseph Medical Center,77373,Large,Whatcom,Radiation Oncology Stereotactic Body Radiation Therapy 1 Or More Lesions Using Imaging Guidance,11895
+PeaceHealth St.Joseph Medical Center,77385,Large,Whatcom,"Radiation Oncology Radiation Therapy Delivery, Simple",3455
+PeaceHealth St.Joseph Medical Center,77386,Large,Whatcom,"Radiation Oncology Radiation Therapy Delivery, Complex",3462
+PeaceHealth St.Joseph Medical Center,77412,Large,Whatcom,Radiation Oncology Radiation Treatment Delivery 1 Mev >= Complex,1211
+PeaceHealth St.Joseph Medical Center,62302,Large,Whatcom,X-Ray Of Upper Spinal Canal With Radiological Supervision And Interpretation,1705
+PeaceHealth St.Joseph Medical Center,62304,Large,Whatcom,X-Ray Of Lower Spinal Canal With Radiological Supervision And Interpretation Lumbosacral,1887
+PeaceHealth St.Joseph Medical Center,62305,Large,Whatcom,X-Ray Of Lower Spinal Canal With Radiological Supervision And Interpretation 2 Or More Regions,18617
+PeaceHealth St.Joseph Medical Center,70360,Large,Whatcom,X-Ray Neck,363
+PeaceHealth St.Joseph Medical Center,71045,Large,Whatcom,"X-Ray Of Chest, 1 View",339
+PeaceHealth St.Joseph Medical Center,71046,Large,Whatcom,"X-Ray Of Chest, 2 Vies",368
+PeaceHealth St.Joseph Medical Center,71100,Large,Whatcom,"X-Ray Ribs 1 Side, 2 Views",413
+PeaceHealth St.Joseph Medical Center,71101,Large,Whatcom,"X-Ray Ribs 1 Side, 3 Or More Views",509
+PeaceHealth St.Joseph Medical Center,72020,Large,Whatcom,"X-Ray Cervical Spine, 1 View",353
+PeaceHealth St.Joseph Medical Center,72072,Large,Whatcom,"X-Ray Thoracic Spine, 3 Views",543
+PeaceHealth St.Joseph Medical Center,72100,Large,Whatcom,"X-Ray Lumbosacral Spine, 2 To 3 Views",486
+PeaceHealth St.Joseph Medical Center,72110,Large,Whatcom,"X-Ray Lumbosacral Spine, 4 Or More Views",590
+PeaceHealth St.Joseph Medical Center,72170,Large,Whatcom,"X-Ray Pelvis, 1 To 2 Views",399
+PeaceHealth St.Joseph Medical Center,73000,Large,Whatcom,X-Ray Collar Bone,381
+PeaceHealth St.Joseph Medical Center,73030,Large,Whatcom,"X-Ray Shoulder, 2 Or More Views",454
+PeaceHealth St.Joseph Medical Center,73060,Large,Whatcom,"X-Ray Upper Arm, 2 Views",403
+PeaceHealth St.Joseph Medical Center,73070,Large,Whatcom,"X-Ray Elbow, 2 Views",368
+PeaceHealth St.Joseph Medical Center,73080,Large,Whatcom,"X-Ray Elbow, 3 Or More Views",434
+PeaceHealth St.Joseph Medical Center,73090,Large,Whatcom,"X-Ray Forearm, 2 Views",393
+PeaceHealth St.Joseph Medical Center,73100,Large,Whatcom,"X-Ray Wrist, 2 Views",417
+PeaceHealth St.Joseph Medical Center,73130,Large,Whatcom,"X-Ray Hand, 3 Or More Views",475
+PeaceHealth St.Joseph Medical Center,73140,Large,Whatcom,"X-Ray Finger, 2 Or More Views",458
+PeaceHealth St.Joseph Medical Center,73501,Large,Whatcom,"X-Ray Hip And Pelvis, 1 View",340
+PeaceHealth St.Joseph Medical Center,73552,Large,Whatcom,"X-Ray Femur, 2 Or More Views",381
+PeaceHealth St.Joseph Medical Center,73560,Large,Whatcom,X-Ray Knee 1 Or 2 Views,398
+PeaceHealth St.Joseph Medical Center,73562,Large,Whatcom,X-Ray Knee 3 Views,474
+PeaceHealth St.Joseph Medical Center,73590,Large,Whatcom,"X-Ray Lower Leg, 2 Views",426
+PeaceHealth St.Joseph Medical Center,73600,Large,Whatcom,"X-Ray Ankle, 2 Views",383
+PeaceHealth St.Joseph Medical Center,73610,Large,Whatcom,"X-Ray Ankle, 3 Or More Views",473
+PeaceHealth St.Joseph Medical Center,73630,Large,Whatcom,"X-Ray Foot, 3 Or More Views",407
+PeaceHealth St.Joseph Medical Center,73660,Large,Whatcom,"X-Ray Toes, 2 Or More Views",408
+PeaceHealth St.Joseph Medical Center,74018,Large,Whatcom,"X-Ray Of Abdomen, 1 View",343
+PeaceHealth St.Joseph Medical Center,74230,Large,Whatcom,X-Ray Throat And/Or Esophagus,1135
+PeaceHealth St.Joseph Medical Center,75710,Large,Whatcom,"X-Ray Of Artery, 1 Side",9245
+PeaceHealth St.Joseph Medical Center,76000,Large,Whatcom,"X-Ray Imaging Guidance For Procedure, Up To 1 Hour",807
+PeaceHealth St.Joseph Medical Center,76098,Large,Whatcom,X-Ray Imaging Of Surgical Specimen,1741
+PeaceHealth St.Joseph Medical Center,90832,Large,Whatcom,"Psychotherapy, 30 Minutes With Patient And/Or Family Member ",204
+PeaceHealth St.Joseph Medical Center,90834,Large,Whatcom,"Psychotherapy, 45 Minutes With Patient And/Or Family Member ",268
+PeaceHealth St.Joseph Medical Center,90837,Large,Whatcom,"Psychotherapy, 60 Minutes With Patient And/Or Family Member  ",396
+PeaceHealth St.Joseph Medical Center,90846,Large,Whatcom,Family Psychotherapy With Out Patient,256
+PeaceHealth St.Joseph Medical Center,90847,Large,Whatcom,Family Psychotherapy Including Patient,266
+PeaceHealth St.Joseph Medical Center,99203,Large,Whatcom,"New Patient Office Or Other Outpatient Visit, Typically 30 Minutes",297
+PeaceHealth St.Joseph Medical Center,99204,Large,Whatcom,"New Patient Office Or Other Outpatient Visit, Typically 45 Minutes",445
+PeaceHealth St.Joseph Medical Center,99205,Large,Whatcom,"New Patient Office Or Other Outpatient Visit, Typically 60 Minutes",588
+PeaceHealth St.Joseph Medical Center,99243,Large,Whatcom,"Patient Office Consultation, Typically 40 Minutes",316
+PeaceHealth St.Joseph Medical Center,99244,Large,Whatcom,"Patient Office Consultation, Typically 60 Minutes",472
+PeaceHealth St.Joseph Medical Center,99385,Large,Whatcom,Initial New Patient Preventive Medicine Evaluation Age 18-39 Years,349
+PeaceHealth St.Joseph Medical Center,99386,Large,Whatcom,Initial New Patient Preventive Medicine Evaluation Age 40-64 Years,403
+PeaceHealth Southwest Medical Center,216,Large,Clark,Cardiac Valve & Oth Maj Cardiothoracic Proc W Card Cath W Mcc,311042.58
+PeaceHealth Southwest Medical Center,743,Large,Clark,Uterine & Adnexa Proc For Non-Malignancy W/O Cc/Mcc,31096.55
+PeaceHealth Southwest Medical Center,470,Large,Clark,Major Hip And Knee Joint Replacement Or Reattachment Of Lower Extremity W/O Mcc,54816.41
+PeaceHealth Southwest Medical Center,460,Large,Clark,Spinal Fusion Except Cervical W/O Mcc,103622.39
+PeaceHealth Southwest Medical Center,473,Large,Clark,Cervical Spinal Fusion W/O Cc/Mcc,65672.15
+PeaceHealth Southwest Medical Center,96125,Large,Clark,"Standardized Thought Processing Testing, Interpretation, And Report Per Hour",370
+PeaceHealth Southwest Medical Center,93451,Large,Clark,Insertion Of Catheter For Diagnostic Evaluation Of Right Heart Structures,13926
+PeaceHealth Southwest Medical Center,93452,Large,Clark,Insertion Of Catheter Into Left Heart For Diagnosis,12125
+PeaceHealth Southwest Medical Center,93454,Large,Clark,"Insertion Of Catheter For Imaging Of Heart Blood Vessels Or Grafts, Coronary Only",17489
+PeaceHealth Southwest Medical Center,93458,Large,Clark,Left Heart Cath With Coronary ,19631
+PeaceHealth Southwest Medical Center,93459,Large,Clark,Left Heart Cath With Coronary & Grafts,20273
+PeaceHealth Southwest Medical Center,93460,Large,Clark,Right And Left Heart Cath With Coronary,19631
+PeaceHealth Southwest Medical Center,93798,Large,Clark,Cardiac Rehab Phase 2 With Continuous Ecg,399
+PeaceHealth Southwest Medical Center,96402,Large,Clark,Hormonal Anti-Neoplastic Chemotherapy Administration Beneath The Skin Or Into Muscle,319
+PeaceHealth Southwest Medical Center,96413,Large,Clark,Infusion Of Chemotherapy Into A Vein Up To 1 Hour,1127
+PeaceHealth Southwest Medical Center,96416,Large,Clark,Prolonged Chemotherapy Infusion Into A Vein By Portable Or Implanted Pump More Than 8,1142
+PeaceHealth Southwest Medical Center,96523,Large,Clark,Irrigation Of Implanted Venous Access Drug Delivery Device,291
+PeaceHealth Southwest Medical Center,96549,Large,Clark,Chemotherapy Procedure,153
+PeaceHealth Southwest Medical Center,70450,Large,Clark,Ct Scan Head Or Brain Without Contrast,1548
+PeaceHealth Southwest Medical Center,70470,Large,Clark,Ct Scan Head Or Brain Before And After Contrast,3359
+PeaceHealth Southwest Medical Center,70480,Large,Clark,Ct Scan Of Cranial Cavity Without Contrast,1629
+PeaceHealth Southwest Medical Center,70486,Large,Clark,Ct Scan Of Face Without Contrast,1629
+PeaceHealth Southwest Medical Center,70490,Large,Clark,Ct Scan Of Neck Without Contrast,1629
+PeaceHealth Southwest Medical Center,70491,Large,Clark,Ct Scan Of Neck With Contrast,2921
+PeaceHealth Southwest Medical Center,70496,Large,Clark,Ct Scan Of Blood Vessels Of Head,2773
+PeaceHealth Southwest Medical Center,70498,Large,Clark,Ct Scan Of Neck Blood Vessels,3359
+PeaceHealth Southwest Medical Center,71250,Large,Clark,Ct Scan Chest Without Contrast,2036
+PeaceHealth Southwest Medical Center,71260,Large,Clark,Ct Scan Chest With Contrast,2921
+PeaceHealth Southwest Medical Center,71275,Large,Clark,Ct Scan Of Blood Vessels In Chest,2921
+PeaceHealth Southwest Medical Center,72125,Large,Clark,Ct Scan Of Cervical Spine Without Contrast,1629
+PeaceHealth Southwest Medical Center,72128,Large,Clark,Ct Scan Thoracic Spine Without Contrast,1629
+PeaceHealth Southwest Medical Center,72131,Large,Clark,Ct Scan Of Lumbar Spine Without Contrast,1941
+PeaceHealth Southwest Medical Center,72132,Large,Clark,Ct Scan Of Lumbar Spine With Contrast,5586
+PeaceHealth Southwest Medical Center,72192,Large,Clark,Ct Scan Of Pelvis Without Contrast,1890
+PeaceHealth Southwest Medical Center,72193,Large,Clark,Ct Scan Pelvis With Contrast,2358
+PeaceHealth Southwest Medical Center,73200,Large,Clark,Ct Scan Of Arm Without Contrast,1629
+PeaceHealth Southwest Medical Center,73700,Large,Clark,Ct Scan Leg Without Contrast,1629
+PeaceHealth Southwest Medical Center,74150,Large,Clark,Ct Scan Abdomen Without Contrast,1873
+PeaceHealth Southwest Medical Center,74160,Large,Clark,Ct Scan Abdomen With Contrast,2921
+PeaceHealth Southwest Medical Center,74170,Large,Clark,Ct Scan Abdomen Before And After Contrast,2921
+PeaceHealth Southwest Medical Center,74174,Large,Clark,Ct Scan Of Abdomen And Pelvis Blood Vessels,5586
+PeaceHealth Southwest Medical Center,74175,Large,Clark,Ct Scan Of Abdominal Blood Vessels With Contrast,3359
+PeaceHealth Southwest Medical Center,74176,Large,Clark,Ct Scan Of Abdomen And Pelvis Without Contrast,3338
+PeaceHealth Southwest Medical Center,74177,Large,Clark,Ct Scan Of Abdomen And Pelvis With Contrast,5307
+PeaceHealth Southwest Medical Center,74178,Large,Clark,Ct Scan Abdomen And Pelvis Before And After Contrast,6424
+PeaceHealth Southwest Medical Center,74261,Large,Clark,Ct Scan Diagnostic Ct Scan Of Large Bowel,1629
+PeaceHealth Southwest Medical Center,75572,Large,Clark,Ct Scan Of Heart Structure With Contrast,2921
+PeaceHealth Southwest Medical Center,75574,Large,Clark,Ct Scan Of Heart Blood Vessels And Grafts With Contrast Dye,2921
+PeaceHealth Southwest Medical Center,75635,Large,Clark,Ct Scan Of Abdominal Aorta And Both Leg Arteries With Contrast,3359
+PeaceHealth Southwest Medical Center,76536,Large,Clark,Ultrasound Of Head And Neck,670
+PeaceHealth Southwest Medical Center,76641,Large,Clark,"Ultrasound Of Breast, Complete",670
+PeaceHealth Southwest Medical Center,76700,Large,Clark,"Ultrasound Abdomen, Complete",637
+PeaceHealth Southwest Medical Center,76705,Large,Clark,"Ultrasound Abdomen, Limited Area",670
+PeaceHealth Southwest Medical Center,76706,Large,Clark,Ultrasound Evaluation Of Abdominal Aorta To Detect Bulging (Aneurysm) ,501
+PeaceHealth Southwest Medical Center,76770,Large,Clark,Ultrasound Behind Abdominal Cavity,764
+PeaceHealth Southwest Medical Center,76801,Large,Clark,Ultrasound Of Pregnant Uterus,670
+PeaceHealth Southwest Medical Center,76805,Large,Clark,"Ultrasound Pregnant Uterus, Greater Or Equal To 14 Weeks Gestation 1 Fetus",637
+PeaceHealth Southwest Medical Center,76818,Large,Clark,Ultrasound And Monitoring Of Heart Of Fetus,829
+PeaceHealth Southwest Medical Center,76819,Large,Clark,"Ultrasound Of Fetus, Biophysical Profile",670
+PeaceHealth Southwest Medical Center,76830,Large,Clark,"Ultrasound Pelvis, Vaginal Approach",637
+PeaceHealth Southwest Medical Center,76881,Large,Clark,"Ultrasound Of Leg Or Arm, Complete",670
+PeaceHealth Southwest Medical Center,76981,Large,Clark,Elastography Ultrasound Of Organ Tissue,394
+PeaceHealth Southwest Medical Center,93880,Large,Clark,Ultrasound Scanning Of Blood Flow (Outside The Brain) On Both Sides Of Head And Neck,1453
+PeaceHealth Southwest Medical Center,93970,Large,Clark,Ultrasound Scan Of Veins Of Both Arms Or Legs Including Assessment Of Compression And Functional Maneuvers,1751
+PeaceHealth Southwest Medical Center,93971,Large,Clark,Ultrasound Scan Of Veins Of One Arm Or Leg Or Limited Including Assessment Of Compression And Functional Maneuvers,1027
+PeaceHealth Southwest Medical Center,93975,Large,Clark,"Ultrasound Scan Of Abdominal, Pelvic, And/Or Scrotal Arterial Inflow And Venous Outflow",1602
+PeaceHealth Southwest Medical Center,93976,Large,Clark,"Ultrasound Limited Scan Of Abdominal, Pelvic, And/Or Scrotal Arterial Inflow And Venous",919
+PeaceHealth Southwest Medical Center,92960,Large,Clark,Electric Cardioversion External,1790
+PeaceHealth Southwest Medical Center,93005,Large,Clark,"Routine Electrocardiogram (Ekg) With Tracing, Using At Least 12 Leads",347
+PeaceHealth Southwest Medical Center,93017,Large,Clark,Cardiovascular Stress Test Monitoring With Intrepretation And Report,1084
+PeaceHealth Southwest Medical Center,93306,Large,Clark,"Ultrasound Examination Of Heart Including Color-Depicted Blood Flow Rate, Direction, And Valve Function",2263
+PeaceHealth Southwest Medical Center,93308,Large,Clark,Follow-Up Or Limited Ultrasound Examination Of Heart,1116
+PeaceHealth Southwest Medical Center,93312,Large,Clark,Insertion Of Probe In Esophagus For Heart Ultrasound Examination Including Interpretation,2765
+PeaceHealth Southwest Medical Center,95816,Large,Clark,Measurement Of Brain Wave (Eeg) Activity Greater Than 1 Hour,1098
+PeaceHealth Southwest Medical Center,33208,Large,Clark,Insertion Of Permanent Pacemaker,35526
+PeaceHealth Southwest Medical Center,33228,Large,Clark,Removal/Replacement Of Lead Pacemaker,35526
+PeaceHealth Southwest Medical Center,33249,Large,Clark,Insertion Or Replacement Pacing Device,116806
+PeaceHealth Southwest Medical Center,33263,Large,Clark,"Removal And Replacement Of Defibrillator Pulse Generator, Dual Lead",84014
+PeaceHealth Southwest Medical Center,33264,Large,Clark,"Removal And Replacement Of Defibrillator Pulse Generator, Multi Lead",120419
+PeaceHealth Southwest Medical Center,93620,Large,Clark,"Insertion Of Catheters For Recording, Pacing, And Attempted Induction Of Abnormal Rhythm In Right Upper And Lower Heart",17998
+PeaceHealth Southwest Medical Center,93650,Large,Clark,Insertion Of Catheters For Creation Of Complete Heart Block,17998
+PeaceHealth Southwest Medical Center,93653,Large,Clark,Evaluation And Insertion Of Catheters For Creation Of Complete Heart Block,59615
+PeaceHealth Southwest Medical Center,93654,Large,Clark,"Evaluation And Insertion Of Catheters For Recording, Pacing, And Attempted Induction Of Heart Rhythm",59615
+PeaceHealth Southwest Medical Center,93656,Large,Clark,"Evaluation And Insertion Of Catheters For Recording, Pacing, And Treatment Of Abnormal Heart Rhythm",59615
+PeaceHealth Southwest Medical Center,90471,Large,Clark,"Administration Of Vaccine , Initial",152
+PeaceHealth Southwest Medical Center,96360,Large,Clark,Hydration Infusion Into A Vein 31 Minutes To 1 Hour,620
+PeaceHealth Southwest Medical Center,96361,Large,Clark,Hydration Infusion Into A Vein,200
+PeaceHealth Southwest Medical Center,96365,Large,Clark,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis Up To 1 Hour",651
+PeaceHealth Southwest Medical Center,96372,Large,Clark,"Injection Beneath The Skin Or Into Muscle For Therapy, Diagnosis, Or Prevention",159
+PeaceHealth Southwest Medical Center,96374,Large,Clark,"Injection Of Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",477
+PeaceHealth Southwest Medical Center,96377,Large,Clark,Application Of On-Body Injector For Injection Under Skin,148
+PeaceHealth Southwest Medical Center,70543,Large,Clark,"Mri Scan Bones Of The Eye, Face, And/Or Neck Before And After Contrast",4466
+PeaceHealth Southwest Medical Center,70549,Large,Clark,Mri Scan Of Neck Blood Vessels Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,70551,Large,Clark,Mri Scan Brain Withoug Contrast,2890
+PeaceHealth Southwest Medical Center,70553,Large,Clark,Mri Scan Brain Without And Then With Contrasst,5283
+PeaceHealth Southwest Medical Center,72141,Large,Clark,Mri Scan Cervical Spine Without Contrast,2890
+PeaceHealth Southwest Medical Center,72146,Large,Clark,Mri Scan Thoracic Spine Without Contrast,2890
+PeaceHealth Southwest Medical Center,72148,Large,Clark,Mri Scan Lumbar Spine Without Contrast,2746
+PeaceHealth Southwest Medical Center,72156,Large,Clark,Mri Scan Of Cervical Spine Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,72157,Large,Clark,Mri Scan Of Thoracic Spine Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,72158,Large,Clark,Mri Scan Of Lumbar Spine Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,72195,Large,Clark,Mri Scan Of Pelvis Without Contrast,2890
+PeaceHealth Southwest Medical Center,72197,Large,Clark,Mri Scan Of Pelvis Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,73221,Large,Clark,Mri Scan Arm Joint Without Contrast,2890
+PeaceHealth Southwest Medical Center,73718,Large,Clark,Mri Scan Of Leg Without Contrast,2890
+PeaceHealth Southwest Medical Center,73721,Large,Clark,Mri Scan Of Leg Joint Without Contrast,2746
+PeaceHealth Southwest Medical Center,74181,Large,Clark,Mri Scan Of Abdomen Without Contrast,2890
+PeaceHealth Southwest Medical Center,74183,Large,Clark,Mri Scan Of Abdomen Before And After Contrast,5561
+PeaceHealth Southwest Medical Center,75561,Large,Clark,Mri Of Heart Before And After Contrast,4836
+PeaceHealth Southwest Medical Center,77065,Large,Clark,Diagnostic Mammography Of One Breasts With Computer Aided Detection,616
+PeaceHealth Southwest Medical Center,77066,Large,Clark,Diagnostic Mammography Of Both Breasts With Computer Aided Detection,788
+PeaceHealth Southwest Medical Center,77067,Large,Clark,Screening Mammography Of Both Breasts With Computer Aided Detection,651
+PeaceHealth Southwest Medical Center,59025,Large,Clark,Fetal Non-Stress Test,594
+PeaceHealth Southwest Medical Center,93922,Large,Clark,Ultrasound Study Of Arteries Of Both Arms And Legs,638
+PeaceHealth Southwest Medical Center,78226,Large,Clark,"Nuclear Imaging Of Liver And Bile Duct System, Without Pharmaceutical",1595
+PeaceHealth Southwest Medical Center,78264,Large,Clark,Nuclear Imaging Stomach Emptying Study,1765
+PeaceHealth Southwest Medical Center,78306,Large,Clark,Nuclear Imaging Bone And/Or Joint Imaging; Whole Body,1896
+PeaceHealth Southwest Medical Center,78452,Large,Clark,Nuclear Imaging Study Of Heart Vessles With Drugs Or Exercise,5165
+PeaceHealth Southwest Medical Center,36430,Large,Clark,Lab Blood Transfusion,2262
+PeaceHealth Southwest Medical Center,36591,Large,Clark,Lab Blood Draw Cvc / Vad,778
+PeaceHealth Southwest Medical Center,36592,Large,Clark,Lab Blood Collection From Established Picc,778
+PeaceHealth Southwest Medical Center,80048,Large,Clark,"Lab Blood Test, Total Calcium",109
+PeaceHealth Southwest Medical Center,80053,Large,Clark,"Lab Blood Test, Comprehensive Metabolic Panel",142
+PeaceHealth Southwest Medical Center,80061,Large,Clark,Lab Blood Test Lipid,260
+PeaceHealth Southwest Medical Center,80069,Large,Clark,Lab Blood Test Kidney Function,105
+PeaceHealth Southwest Medical Center,80076,Large,Clark,Lab Blood Test Liver Function,84
+PeaceHealth Southwest Medical Center,81001,Large,Clark,Lab Automated Urinalysis Test With Examination Using Microscope,54
+PeaceHealth Southwest Medical Center,81002,Large,Clark,"Lab Urinalysis, Manual Test",28
+PeaceHealth Southwest Medical Center,81003,Large,Clark,Lab Automated Urinalysis Test Without Microspcope,51
+PeaceHealth Southwest Medical Center,81025,Large,Clark,Lab Urine Pregnancy Test,88
+PeaceHealth Southwest Medical Center,81241,Large,Clark,Lab Gene Analysis (Coagulation Factor V) Leiden Variant,346
+PeaceHealth Southwest Medical Center,82105,Large,Clark,"Lab Alpha-Fetoprotein (Afp) Level, Serum",292
+PeaceHealth Southwest Medical Center,82378,Large,Clark,Lab Carcinoembryonic Antigen (Cea) Protein Level,235
+PeaceHealth Southwest Medical Center,82565,Large,Clark,Lab Blood Creatinine Level,55
+PeaceHealth Southwest Medical Center,82607,Large,Clark,Lab Cyanocobalamin (Vitamin B-12) Level,303
+PeaceHealth Southwest Medical Center,82728,Large,Clark,Lab Ferritin (Blood Protein) Level,204
+PeaceHealth Southwest Medical Center,82803,Large,Clark,Lab Blood Gases Measurement,183
+PeaceHealth Southwest Medical Center,83880,Large,Clark,Lab Natriuretic Peptide (Heart And Blood Vessel Protein) Level,448
+PeaceHealth Southwest Medical Center,84153,Large,Clark,"Lab Prostate Specific Antigen Measurement, Total",248
+PeaceHealth Southwest Medical Center,84154,Large,Clark,"Lab Prostate Specific Antigen Measurement, Free",140
+PeaceHealth Southwest Medical Center,84165,Large,Clark,"Lab Protein Measurement, Serum",188
+PeaceHealth Southwest Medical Center,84443,Large,Clark,"Lab Blood Test, Thyroid Stimulating Hormone (Tsh)",240
+PeaceHealth Southwest Medical Center,84702,Large,Clark,"Lab Gonadotropin, Chorionic (Reproductive Hormone) Level",261
+PeaceHealth Southwest Medical Center,85018,Large,Clark,Lab Hemoglobin Measurement,39
+PeaceHealth Southwest Medical Center,85025,Large,Clark,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test With Wbc Diff",99
+PeaceHealth Southwest Medical Center,85027,Large,Clark,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test",80
+PeaceHealth Southwest Medical Center,85379,Large,Clark,Lab D-Dimer Quant,177
+PeaceHealth Southwest Medical Center,85576,Large,Clark,"Lab Platelet,Aggregation,Each Agent",345
+PeaceHealth Southwest Medical Center,85610,Large,Clark,Lab Prothrombin Time,85
+PeaceHealth Southwest Medical Center,85730,Large,Clark,"Lab Thromboplastin Time, Partial (Ptt), Plasma Or Whole Bld",100
+PeaceHealth Southwest Medical Center,86146,Large,Clark,Lab Beta 2 Glycoprotein 1 Antibody (Autoantibody) Measurement,351
+PeaceHealth Southwest Medical Center,86304,Large,Clark,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 125,327
+PeaceHealth Southwest Medical Center,86870,Large,Clark,Lab Identification Of Red Blood Cell Antibodies,699
+PeaceHealth Southwest Medical Center,86900,Large,Clark,Lab Blood Group Typing (Abo),280
+PeaceHealth Southwest Medical Center,87502,Large,Clark,Lab Detection Test For Multiple Types Influenza Virus,1203
+PeaceHealth Southwest Medical Center,88184,Large,Clark,"Lab Flow Cytometry Technique For Dna Or Cell Analysis, Tc 1 Marker",699
+PeaceHealth Southwest Medical Center,88307,Large,Clark,"Lab Pathology Examination Of Tissue Using A Microscope, Moderately High Complexity",699
+PeaceHealth Southwest Medical Center,88309,Large,Clark,"Lab Pathology Examination Of Tissue Using A Microscope, High Complexity",1424
+PeaceHealth Southwest Medical Center,99195,Large,Clark,Lab Therapeutic Drawing of blood for a medical problem,381
+PeaceHealth Southwest Medical Center,78815,Large,Clark,"Nuclear Imaging Pet Study With Ct Imaging, Skull Base To Mid-Thigh",6014
+PeaceHealth Southwest Medical Center,78816,Large,Clark,"Nuclear Imaging Pet Study With Ct Imaging, Whole Body",7024
+PeaceHealth Southwest Medical Center,92507,Large,Clark,"Treatment Of Speech, Language, Voice, Communication, And/Or Hearing Processing",319
+PeaceHealth Southwest Medical Center,92522,Large,Clark,Evaluation Of Speech Sound Production,416
+PeaceHealth Southwest Medical Center,92523,Large,Clark,Evaluation Of Speech Sound Production With Evaluation Of Language Comprehension,509
+PeaceHealth Southwest Medical Center,92524,Large,Clark,Behavioral And Qualitative Analysis Of Voice And Resonance,484
+PeaceHealth Southwest Medical Center,92526,Large,Clark,Treatment Of Swallowing And/Or Oral Feeding Function,489
+PeaceHealth Southwest Medical Center,92610,Large,Clark,Evaluation Of Swallowing Function,684
+PeaceHealth Southwest Medical Center,92611,Large,Clark,Fluoroscopic And Video Recorded Motion Evaluation Of Swallowing Function,963
+PeaceHealth Southwest Medical Center,97110,Large,Clark,"Therapeutic Exercise To Develop Strength, Endurance, Range Of Motion, And Flexibility,",143
+PeaceHealth Southwest Medical Center,97112,Large,Clark,"Therapeutic Procedure To Re-Educate Brain-To-Nerve-To-Muscle Function, Each 15 Minutes",158
+PeaceHealth Southwest Medical Center,97113,Large,Clark,"Water Pool Therapy With Therapeutic Exercises To 1 Or More Areas, Each 15 Minutes",170
+PeaceHealth Southwest Medical Center,97140,Large,Clark,"Manual (Physical) Therapy Techniques To 1 Or More Regions, Each 15 Minutes",140
+PeaceHealth Southwest Medical Center,97161,Large,Clark,Physical Therapy Evaluation Typically 20 Minutes,367
+PeaceHealth Southwest Medical Center,97162,Large,Clark,Physical Therapy Evaluation Typically 30 Minutes,377
+PeaceHealth Southwest Medical Center,97163,Large,Clark,Physical Therapy Evaluation Typically 45 Minutes,437
+PeaceHealth Southwest Medical Center,97166,Large,Clark,"Evaluation Of Occupational Therapy, Typically 30 Minutes",409
+PeaceHealth Southwest Medical Center,97167,Large,Clark,"Evaluation Of Occupational Therapy, Typically 60 Minutes",438
+PeaceHealth Southwest Medical Center,97530,Large,Clark,"Therapeutic Activities To Improve Function, With One-On-One Contact Between Patient And Provider, Each 15 Minutes",162
+PeaceHealth Southwest Medical Center,97597,Large,Clark,"Removal Of Tissue From Wound, Up To 20 Square Centimeters",650
+PeaceHealth Southwest Medical Center,97605,Large,Clark,"Wound Therapy Negative Pressure Therapy, 50 Square Centimeters Or Less",728
+PeaceHealth Southwest Medical Center,97750,Large,Clark,"Assistive Technology Assessment To Enhance Functional Performance, Each 15 Minutes",315
+PeaceHealth Southwest Medical Center,97760,Large,Clark,"Evaluation Of Orthotic Or Prosthetic Use, Each 15 Minutes",237
+PeaceHealth Southwest Medical Center,33270,Large,Clark,Insertion Or Replacement Of Defibrillator With Electrode,116806
+PeaceHealth Southwest Medical Center,33285,Large,Clark,Insertion Of Heart Rhythm Monitor Under Skin,28505
+PeaceHealth Southwest Medical Center,36558,Large,Clark,Insertion Tunneled Central Venous Catheter Without Port Or Pump,12030
+PeaceHealth Southwest Medical Center,36561,Large,Clark,Insertion Tunneled Central Venous Catheter With Port Or Pump,12030
+PeaceHealth Southwest Medical Center,36590,Large,Clark,Removal Tunneled Central Venous Catheter With Port Or Pump,4229
+PeaceHealth Southwest Medical Center,37221,Large,Clark,"Insertion Of Stents In Artery In One Side Of Groin, Endovascular, Accessed Through The Skin Or Open Procedure ",46432
+PeaceHealth Southwest Medical Center,92950,Large,Clark,Attempt To Restart Heart And Lungs (Cpr),983
+PeaceHealth Southwest Medical Center,93580,Large,Clark,"Transcatheter Based Closure Of Congenital Heart Defect With Implant, Accessed Through The Skin",59829
+PeaceHealth Southwest Medical Center,49083,Large,Clark,"Drainage Of Fluid From Abdominal Cavity, With Imaging Guidance",5715
+PeaceHealth Southwest Medical Center,19081,Large,Clark,"Biopsy Breast, With Stereo Guidance, First Sample",5041
+PeaceHealth Southwest Medical Center,19083,Large,Clark,"Biopsy Breast, With Ultrasound Guidance, First Sample",5041
+PeaceHealth Southwest Medical Center,38220,Large,Clark,Bone Marrow Aspiration,5041
+PeaceHealth Southwest Medical Center,38221,Large,Clark,Needle Or Trocar Bone Marrow Biopsy,7570
+PeaceHealth Southwest Medical Center,38792,Large,Clark,Injection Of Radioactive Dye For X-Ray Identification Of Lymph Node,1780
+PeaceHealth Southwest Medical Center,15271,Large,Clark,"Application Of Skin Substitute (Wound Surface Up To 100 Sq Cm) To Trunk, Arms, Or Legs (First 25 Sq Cm Or Less) ",7553
+PeaceHealth Southwest Medical Center,15275,Large,Clark,"Application Of Skin Substitute (Wound Surface Up To 100 Sq Cm) To Face, Scalp, Eyelids, Mouth, Neck, Ears, Eye Region, Genitals, Hands, Feet, And/Or Multiple Fingers Or Toes (First 25 Sq Cm Or Less) ",6130
+PeaceHealth Southwest Medical Center,19285,Large,Clark,"Placement Of Breast Localization Device, Ultrasound Guidance, Initial",2573
+PeaceHealth Southwest Medical Center,29130,Large,Clark,Finger Splint,374
+PeaceHealth Southwest Medical Center,62270,Large,Clark,Spinal Tap For Diagnosis,4494
+PeaceHealth Southwest Medical Center,62322,Large,Clark,Injection Of Substance Into Spinal Canal Of Lower Back Or Sacrum,2334
+PeaceHealth Southwest Medical Center,62323,Large,Clark,Injection Of Substance Into Spinal Canal Of Lower Back Or Sacrum Using Imaging Guidance,3881
+PeaceHealth Southwest Medical Center,62368,Large,Clark,Electronic Analysis And Reprogramming Of Spinal Canal Drug Infusion Pump,1173
+PeaceHealth Southwest Medical Center,64483,Large,Clark,"Injection(S), Anesthetic Agent And/Or Steroid, Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or Ct); Lumbar Or Sacral, Single Level",2909
+PeaceHealth Southwest Medical Center,64490,Large,Clark,"Injections Of Upper Or Middle Spine Facet Joint Using Imaging Guidance, Single Level",4401
+PeaceHealth Southwest Medical Center,64493,Large,Clark,"Injections Of Lower Or Sacral Spine Facet Joint Using Imaging Guidance, Single Level",4401
+PeaceHealth Southwest Medical Center,32405,Large,Clark,Biopsy Lung Or Chest Tissue,5041
+PeaceHealth Southwest Medical Center,94618,Large,Clark,Test For Exercise-Induced Lung Stress ,438
+PeaceHealth Southwest Medical Center,94640,Large,Clark,Respiratory Inhaled Pressure Or Nonpressure Treatment To Relieve Airway Obstruction Or For Sputum Specimen,479
+PeaceHealth Southwest Medical Center,94644,Large,Clark,"Respiratory Inhaled Aerosol Treatment To Relieve Airway Obstruction, First Hour ",474
+PeaceHealth Southwest Medical Center,94660,Large,Clark,Initiation And Management Of Continued Pressured Respiratory Assistance By Mask Or Breathing Tube ,703
+PeaceHealth Southwest Medical Center,94667,Large,Clark,Demonstration And/Or Evaluation Of Manual Maneuvers To Chest Wall To Assist Movement Of Lung Secretions,266
+PeaceHealth Southwest Medical Center,94668,Large,Clark,Manual Maneuvers To Chest Wall To Assist Movement Of Lung Secretions ,266
+PeaceHealth Southwest Medical Center,77300,Large,Clark,Radiation Oncology Calculation Of Radiation Therapy,729
+PeaceHealth Southwest Medical Center,77334,Large,Clark,Radiation Oncology Radiation Treatment Devices,1473
+PeaceHealth Southwest Medical Center,77470,Large,Clark,Radiation Oncology Special Radiation Treatment Procedure,3307
+PeaceHealth Southwest Medical Center,70030,Large,Clark,X-Ray Eye,276
+PeaceHealth Southwest Medical Center,70360,Large,Clark,X-Ray Neck,376
+PeaceHealth Southwest Medical Center,71045,Large,Clark,"X-Ray Of Chest, 1 View",404
+PeaceHealth Southwest Medical Center,71046,Large,Clark,"X-Ray Of Chest, 2 Vies",404
+PeaceHealth Southwest Medical Center,71100,Large,Clark,"X-Ray Ribs 1 Side, 2 Views",376
+PeaceHealth Southwest Medical Center,71101,Large,Clark,"X-Ray Ribs 1 Side, 3 Or More Views",591
+PeaceHealth Southwest Medical Center,72020,Large,Clark,"X-Ray Cervical Spine, 1 View",376
+PeaceHealth Southwest Medical Center,72040,Large,Clark,"X-Ray Cervical Spine, 2 To 3 Views",411
+PeaceHealth Southwest Medical Center,72072,Large,Clark,"X-Ray Thoracic Spine, 3 Views",591
+PeaceHealth Southwest Medical Center,72082,Large,Clark,"X-Ray Entire Spine, 2 To 3 Views",410
+PeaceHealth Southwest Medical Center,72100,Large,Clark,"X-Ray Lumbosacral Spine, 2 To 3 Views",591
+PeaceHealth Southwest Medical Center,72110,Large,Clark,"X-Ray Lumbosacral Spine, 4 Or More Views",561
+PeaceHealth Southwest Medical Center,72170,Large,Clark,"X-Ray Pelvis, 1 To 2 Views",591
+PeaceHealth Southwest Medical Center,72220,Large,Clark,"X-Ray Pelvis, 2 Or More Views",345
+PeaceHealth Southwest Medical Center,72265,Large,Clark,"X-Ray Myelogram Lumbosacral Spine, Myelography",2502
+PeaceHealth Southwest Medical Center,73000,Large,Clark,X-Ray Collar Bone,376
+PeaceHealth Southwest Medical Center,73030,Large,Clark,"X-Ray Shoulder, 2 Or More Views",409
+PeaceHealth Southwest Medical Center,73060,Large,Clark,"X-Ray Upper Arm, 2 Views",327
+PeaceHealth Southwest Medical Center,73070,Large,Clark,"X-Ray Elbow, 2 Views",327
+PeaceHealth Southwest Medical Center,73090,Large,Clark,"X-Ray Forearm, 2 Views",376
+PeaceHealth Southwest Medical Center,73100,Large,Clark,"X-Ray Wrist, 2 Views",327
+PeaceHealth Southwest Medical Center,73110,Large,Clark,"X-Ray Wrist, 3 Or Mor Views",409
+PeaceHealth Southwest Medical Center,73130,Large,Clark,"X-Ray Hand, 3 Or More Views",327
+PeaceHealth Southwest Medical Center,73140,Large,Clark,"X-Ray Finger, 2 Or More Views",376
+PeaceHealth Southwest Medical Center,73502,Large,Clark,"X-Ray Hip And Pelvis, 2 To 3 Views",479
+PeaceHealth Southwest Medical Center,73523,Large,Clark,"X-Ray Hips And Pelvis, 5 Plus Views",966
+PeaceHealth Southwest Medical Center,73552,Large,Clark,"X-Ray Femur, 2 Or More Views",327
+PeaceHealth Southwest Medical Center,73560,Large,Clark,X-Ray Knee 1 Or 2 Views,327
+PeaceHealth Southwest Medical Center,73562,Large,Clark,X-Ray Knee 3 Views,335
+PeaceHealth Southwest Medical Center,73564,Large,Clark,X-Ray Knee 4 Or More Views,591
+PeaceHealth Southwest Medical Center,73565,Large,Clark,X-Ray Knee Bilateral Standing,337
+PeaceHealth Southwest Medical Center,73580,Large,Clark,X-Ray Knee With Contrast,1625
+PeaceHealth Southwest Medical Center,73590,Large,Clark,"X-Ray Lower Leg, 2 Views",376
+PeaceHealth Southwest Medical Center,73600,Large,Clark,"X-Ray Ankle, 2 Views",327
+PeaceHealth Southwest Medical Center,73610,Large,Clark,"X-Ray Ankle, 3 Or More Views",376
+PeaceHealth Southwest Medical Center,73630,Large,Clark,"X-Ray Foot, 3 Or More Views",335
+PeaceHealth Southwest Medical Center,73660,Large,Clark,"X-Ray Toes, 2 Or More Views",376
+PeaceHealth Southwest Medical Center,74018,Large,Clark,"X-Ray Of Abdomen, 1 View",466
+PeaceHealth Southwest Medical Center,74230,Large,Clark,X-Ray Throat And/Or Esophagus,600
+PeaceHealth Southwest Medical Center,75710,Large,Clark,"X-Ray Of Artery, 1 Side",13868
+PeaceHealth Southwest Medical Center,77077,Large,Clark,"X-Ray Imaging Of 2 Or More Joints, Single View",436
+PeaceHealth Southwest Medical Center,77080,Large,Clark,X-Ray Bone Density Measurement Using Dedicated X-Ray Machine,580
+PeaceHealth Southwest Medical Center,90832,Large,Clark,"Psychotherapy, 30 Minutes With Patient And/Or Family Member ",209
+PeaceHealth Southwest Medical Center,90834,Large,Clark,"Psychotherapy, 45 Minutes With Patient And/Or Family Member ",274
+PeaceHealth Southwest Medical Center,90837,Large,Clark,"Psychotherapy, 60 Minutes With Patient And/Or Family Member  ",404
+PeaceHealth Southwest Medical Center,90846,Large,Clark,Family Psychotherapy With Out Patient,261
+PeaceHealth Southwest Medical Center,90847,Large,Clark,Family Psychotherapy Including Patient,271
+PeaceHealth Southwest Medical Center,99203,Large,Clark,"New Patient Office Or Other Outpatient Visit, Typically 30 Minutes",304
+PeaceHealth Southwest Medical Center,99204,Large,Clark,"New Patient Office Or Other Outpatient Visit, Typically 45 Minutes",455
+PeaceHealth Southwest Medical Center,99205,Large,Clark,"New Patient Office Or Other Outpatient Visit, Typically 60 Minutes",601
+PeaceHealth Southwest Medical Center,99243,Large,Clark,"Patient Office Consultation, Typically 40 Minutes",323
+PeaceHealth Southwest Medical Center,99244,Large,Clark,"Patient Office Consultation, Typically 60 Minutes",482
+PeaceHealth Southwest Medical Center,99385,Large,Clark,Initial New Patient Preventive Medicine Evaluation Age 18-39 Years,358
+PeaceHealth Southwest Medical Center,99386,Large,Clark,Initial New Patient Preventive Medicine Evaluation Age 40-64 Years,413
+PeaceHealth St.John Medical Center,743,Large,Cowlitz,Uterine & Adnexa Proc For Non-Malignancy W/O Cc/Mcc,35733.82
+PeaceHealth St.John Medical Center,470,Large,Cowlitz,Major Hip And Knee Joint Replacement Or Reattachment Of Lower Extremity W/O Mcc,75156.68
+PeaceHealth St.John Medical Center,93451,Large,Cowlitz,Insertion Of Catheter For Diagnostic Evaluation Of Right Heart Structures,9594
+PeaceHealth St.John Medical Center,93452,Large,Cowlitz,Insertion Of Catheter Into Left Heart For Diagnosis,13492
+PeaceHealth St.John Medical Center,93454,Large,Cowlitz,"Insertion Of Catheter For Imaging Of Heart Blood Vessels Or Grafts, Coronary Only",15831
+PeaceHealth St.John Medical Center,93458,Large,Cowlitz,Left Heart Cath With Coronary ,15831
+PeaceHealth St.John Medical Center,93459,Large,Cowlitz,Left Heart Cath With Coronary & Grafts,16606
+PeaceHealth St.John Medical Center,93460,Large,Cowlitz,Right And Left Heart Cath With Coronary,19053
+PeaceHealth St.John Medical Center,93797,Large,Cowlitz,Cardiac Rehab Phase 2 With Out Continuous Ecg,312
+PeaceHealth St.John Medical Center,93798,Large,Cowlitz,Cardiac Rehab Phase 2 With Continuous Ecg,384
+PeaceHealth St.John Medical Center,96401,Large,Cowlitz,Non-Hormonal Anti-Neoplastic Chemotherapy Beneath The Skin Or Into Muscle,386
+PeaceHealth St.John Medical Center,96402,Large,Cowlitz,Hormonal Anti-Neoplastic Chemotherapy Administration Beneath The Skin Or Into Muscle,264
+PeaceHealth St.John Medical Center,96409,Large,Cowlitz,Infusion Of Chemotherapy Into A Vein Using Push Technique,561
+PeaceHealth St.John Medical Center,96413,Large,Cowlitz,Infusion Of Chemotherapy Into A Vein Up To 1 Hour,1371
+PeaceHealth St.John Medical Center,96415,Large,Cowlitz,Infusion Of Chemotherapy Into A Vein,370
+PeaceHealth St.John Medical Center,96416,Large,Cowlitz,Prolonged Chemotherapy Infusion Into A Vein By Portable Or Implanted Pump More Than 8,1341
+PeaceHealth St.John Medical Center,96521,Large,Cowlitz,Refilling And Maintenance Of Portable Pump,1050
+PeaceHealth St.John Medical Center,96523,Large,Cowlitz,Irrigation Of Implanted Venous Access Drug Delivery Device,330
+PeaceHealth St.John Medical Center,96549,Large,Cowlitz,Chemotherapy Procedure,148
+PeaceHealth St.John Medical Center,70450,Large,Cowlitz,Ct Scan Head Or Brain Without Contrast,1548
+PeaceHealth St.John Medical Center,70470,Large,Cowlitz,Ct Scan Head Or Brain Before And After Contrast,3834
+PeaceHealth St.John Medical Center,70480,Large,Cowlitz,Ct Scan Of Cranial Cavity Without Contrast,1859
+PeaceHealth St.John Medical Center,70486,Large,Cowlitz,Ct Scan Of Face Without Contrast,1859
+PeaceHealth St.John Medical Center,70490,Large,Cowlitz,Ct Scan Of Neck Without Contrast,1859
+PeaceHealth St.John Medical Center,70491,Large,Cowlitz,Ct Scan Of Neck With Contrast,3334
+PeaceHealth St.John Medical Center,70496,Large,Cowlitz,Ct Scan Of Blood Vessels Of Head,2834
+PeaceHealth St.John Medical Center,71250,Large,Cowlitz,Ct Scan Chest Without Contrast,1859
+PeaceHealth St.John Medical Center,71260,Large,Cowlitz,Ct Scan Chest With Contrast,3334
+PeaceHealth St.John Medical Center,71275,Large,Cowlitz,Ct Scan Of Blood Vessels In Chest,3334
+PeaceHealth St.John Medical Center,72125,Large,Cowlitz,Ct Scan Of Cervical Spine Without Contrast,1859
+PeaceHealth St.John Medical Center,72128,Large,Cowlitz,Ct Scan Thoracic Spine Without Contrast,2015
+PeaceHealth St.John Medical Center,72131,Large,Cowlitz,Ct Scan Of Lumbar Spine Without Contrast,1859
+PeaceHealth St.John Medical Center,72132,Large,Cowlitz,Ct Scan Of Lumbar Spine With Contrast,6376
+PeaceHealth St.John Medical Center,72192,Large,Cowlitz,Ct Scan Of Pelvis Without Contrast,1859
+PeaceHealth St.John Medical Center,72193,Large,Cowlitz,Ct Scan Pelvis With Contrast,2692
+PeaceHealth St.John Medical Center,73200,Large,Cowlitz,Ct Scan Of Arm Without Contrast,1859
+PeaceHealth St.John Medical Center,73700,Large,Cowlitz,Ct Scan Leg Without Contrast,1859
+PeaceHealth St.John Medical Center,73701,Large,Cowlitz,Ct Scan Leg With Contrast Injection,3334
+PeaceHealth St.John Medical Center,74150,Large,Cowlitz,Ct Scan Abdomen Without Contrast,2138
+PeaceHealth St.John Medical Center,74160,Large,Cowlitz,Ct Scan Abdomen With Contrast,3334
+PeaceHealth St.John Medical Center,74170,Large,Cowlitz,Ct Scan Abdomen Before And After Contrast,3334
+PeaceHealth St.John Medical Center,74174,Large,Cowlitz,Ct Scan Of Abdomen And Pelvis Blood Vessels,6376
+PeaceHealth St.John Medical Center,74176,Large,Cowlitz,Ct Scan Of Abdomen And Pelvis Without Contrast,3810
+PeaceHealth St.John Medical Center,74177,Large,Cowlitz,Ct Scan Of Abdomen And Pelvis With Contrast,6057
+PeaceHealth St.John Medical Center,74178,Large,Cowlitz,Ct Scan Abdomen And Pelvis Before And After Contrast,7333
+PeaceHealth St.John Medical Center,74261,Large,Cowlitz,Ct Scan Diagnostic Ct Scan Of Large Bowel,712
+PeaceHealth St.John Medical Center,75571,Large,Cowlitz,Ct Scan Of Heart With Evaluation Of Blood Vessel Calcium,218
+PeaceHealth St.John Medical Center,75572,Large,Cowlitz,Ct Scan Of Heart Structure With Contrast,3509
+PeaceHealth St.John Medical Center,75574,Large,Cowlitz,Ct Scan Of Heart Blood Vessels And Grafts With Contrast Dye,3509
+PeaceHealth St.John Medical Center,75635,Large,Cowlitz,Ct Scan Of Abdominal Aorta And Both Leg Arteries With Contrast,3834
+PeaceHealth St.John Medical Center,76536,Large,Cowlitz,Ultrasound Of Head And Neck,809
+PeaceHealth St.John Medical Center,76641,Large,Cowlitz,"Ultrasound Of Breast, Complete",809
+PeaceHealth St.John Medical Center,76642,Large,Cowlitz,"Ultrasound Of Breast, Limited Area",448
+PeaceHealth St.John Medical Center,76700,Large,Cowlitz,"Ultrasound Abdomen, Complete",769
+PeaceHealth St.John Medical Center,76705,Large,Cowlitz,"Ultrasound Abdomen, Limited Area",809
+PeaceHealth St.John Medical Center,76770,Large,Cowlitz,Ultrasound Behind Abdominal Cavity,809
+PeaceHealth St.John Medical Center,76801,Large,Cowlitz,Ultrasound Of Pregnant Uterus,809
+PeaceHealth St.John Medical Center,76805,Large,Cowlitz,"Ultrasound Pregnant Uterus, Greater Or Equal To 14 Weeks Gestation 1 Fetus",832
+PeaceHealth St.John Medical Center,76811,Large,Cowlitz,"Ultrasound Pregnant Uterus, Detailed, Single Or First Fetus",1745
+PeaceHealth St.John Medical Center,76813,Large,Cowlitz,Ultrasound Of Pregnant Uterus (First Trimester) Single Or First Fetus,852
+PeaceHealth St.John Medical Center,76816,Large,Cowlitz,"Ultrasound Pregnant Uterus, Re-Evaluation Per Fetus",809
+PeaceHealth St.John Medical Center,76818,Large,Cowlitz,Ultrasound And Monitoring Of Heart Of Fetus,647
+PeaceHealth St.John Medical Center,76830,Large,Cowlitz,"Ultrasound Pelvis, Vaginal Approach",769
+PeaceHealth St.John Medical Center,76856,Large,Cowlitz,"Ultrasound Pelvis, Complete, Non Pregnant",809
+PeaceHealth St.John Medical Center,76882,Large,Cowlitz,"Ultrasound Of Leg Or Arm, Limited Area",809
+PeaceHealth St.John Medical Center,93880,Large,Cowlitz,Ultrasound Scanning Of Blood Flow (Outside The Brain) On Both Sides Of Head And Neck,1299
+PeaceHealth St.John Medical Center,93925,Large,Cowlitz,Ultrasound Study Of Arteries And Arterial Grafts Of Both Legs,1299
+PeaceHealth St.John Medical Center,93926,Large,Cowlitz,Ultrasound Study Of Arteries And Arterial Grafts Of One Leg Or Limited,879
+PeaceHealth St.John Medical Center,93970,Large,Cowlitz,Ultrasound Scan Of Veins Of Both Arms Or Legs Including Assessment Of Compression And Functional Maneuvers,1400
+PeaceHealth St.John Medical Center,93971,Large,Cowlitz,Ultrasound Scan Of Veins Of One Arm Or Leg Or Limited Including Assessment Of Compression And Functional Maneuvers,1276
+PeaceHealth St.John Medical Center,93975,Large,Cowlitz,"Ultrasound Scan Of Abdominal, Pelvic, And/Or Scrotal Arterial Inflow And Venous Outflow",1416
+PeaceHealth St.John Medical Center,93976,Large,Cowlitz,"Ultrasound Limited Scan Of Abdominal, Pelvic, And/Or Scrotal Arterial Inflow And Venous",793
+PeaceHealth St.John Medical Center,93978,Large,Cowlitz,Ultrasound Scan Of Vena Cava Or Groin Graft Or Vessel Blood Flow,1254
+PeaceHealth St.John Medical Center,90935,Large,Cowlitz,Hemodialysis Procedure With One Physician Evaluation,2676
+PeaceHealth St.John Medical Center,92960,Large,Cowlitz,Electric Cardioversion External,2966
+PeaceHealth St.John Medical Center,93005,Large,Cowlitz,"Routine Electrocardiogram (Ekg) With Tracing, Using At Least 12 Leads",315
+PeaceHealth St.John Medical Center,93017,Large,Cowlitz,Cardiovascular Stress Test Monitoring With Intrepretation And Report,1421
+PeaceHealth St.John Medical Center,93225,Large,Cowlitz,Heart Rhythm Tracing Of 48-Hour Ekg,600
+PeaceHealth St.John Medical Center,93226,Large,Cowlitz,"Heart Rhythm Analysis, Interpretation And Report Of 48-Hour Ekg",855
+PeaceHealth St.John Medical Center,93270,Large,Cowlitz,Heart Rhythm Symptom-Related Tracing Of 24-Hour Ekg Monitoring Up To 30 Days,376
+PeaceHealth St.John Medical Center,93280,Large,Cowlitz,"Evaluation, Testing, And Programming Adjustment Of Permanent Dual Lead Pacemaker System With Physician Analysis, Review, And Report",261
+PeaceHealth St.John Medical Center,93282,Large,Cowlitz,"Programming Defibrillator, Single Chamber",209
+PeaceHealth St.John Medical Center,93283,Large,Cowlitz,"Programming Defibrillator, Dual Chamber",209
+PeaceHealth St.John Medical Center,93296,Large,Cowlitz,"Remote Evaluations Of Defibrillator Transmissions, Technician Review, Support And Distribution Of Results Up To 90 Days",209
+PeaceHealth St.John Medical Center,93306,Large,Cowlitz,"Ultrasound Examination Of Heart Including Color-Depicted Blood Flow Rate, Direction, And Valve Function",2912
+PeaceHealth St.John Medical Center,93308,Large,Cowlitz,Follow-Up Or Limited Ultrasound Examination Of Heart,1299
+PeaceHealth St.John Medical Center,33208,Large,Cowlitz,Insertion Of Permanent Pacemaker,55650
+PeaceHealth St.John Medical Center,33228,Large,Cowlitz,Removal/Replacement Of Lead Pacemaker,34578
+PeaceHealth St.John Medical Center,33249,Large,Cowlitz,Insertion Or Replacement Pacing Device,172687
+PeaceHealth St.John Medical Center,33263,Large,Cowlitz,"Removal And Replacement Of Defibrillator Pulse Generator, Dual Lead",69289
+PeaceHealth St.John Medical Center,33264,Large,Cowlitz,"Removal And Replacement Of Defibrillator Pulse Generator, Multi Lead",96568
+PeaceHealth St.John Medical Center,93660,Large,Cowlitz,Evaluation Of Heart Function Using Tilt Table,2853
+PeaceHealth St.John Medical Center,90471,Large,Cowlitz,"Administration Of Vaccine , Initial",337
+PeaceHealth St.John Medical Center,96360,Large,Cowlitz,Hydration Infusion Into A Vein 31 Minutes To 1 Hour,726
+PeaceHealth St.John Medical Center,96365,Large,Cowlitz,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis Up To 1 Hour",726
+PeaceHealth St.John Medical Center,96366,Large,Cowlitz,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis",203
+PeaceHealth St.John Medical Center,96372,Large,Cowlitz,"Injection Beneath The Skin Or Into Muscle For Therapy, Diagnosis, Or Prevention",221
+PeaceHealth St.John Medical Center,96374,Large,Cowlitz,"Injection Of Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",561
+PeaceHealth St.John Medical Center,96377,Large,Cowlitz,Application Of On-Body Injector For Injection Under Skin,133
+PeaceHealth St.John Medical Center,70544,Large,Cowlitz,Mri Scan Of Head Blood Vessels Without Contrast,3449
+PeaceHealth St.John Medical Center,70551,Large,Cowlitz,Mri Scan Brain Withoug Contrast,3449
+PeaceHealth St.John Medical Center,70553,Large,Cowlitz,Mri Scan Brain Without And Then With Contrasst,6308
+PeaceHealth St.John Medical Center,72141,Large,Cowlitz,Mri Scan Cervical Spine Without Contrast,3449
+PeaceHealth St.John Medical Center,72146,Large,Cowlitz,Mri Scan Thoracic Spine Without Contrast,3449
+PeaceHealth St.John Medical Center,72148,Large,Cowlitz,Mri Scan Lumbar Spine Without Contrast,3277
+PeaceHealth St.John Medical Center,72156,Large,Cowlitz,Mri Scan Of Cervical Spine Before And After Contrast,6640
+PeaceHealth St.John Medical Center,72158,Large,Cowlitz,Mri Scan Of Lumbar Spine Before And After Contrast,6640
+PeaceHealth St.John Medical Center,72195,Large,Cowlitz,Mri Scan Of Pelvis Without Contrast,3449
+PeaceHealth St.John Medical Center,72197,Large,Cowlitz,Mri Scan Of Pelvis Before And After Contrast,6640
+PeaceHealth St.John Medical Center,73221,Large,Cowlitz,Mri Scan Arm Joint Without Contrast,3449
+PeaceHealth St.John Medical Center,73718,Large,Cowlitz,Mri Scan Of Leg Without Contrast,3449
+PeaceHealth St.John Medical Center,73721,Large,Cowlitz,Mri Scan Of Leg Joint Without Contrast,3277
+PeaceHealth St.John Medical Center,74183,Large,Cowlitz,Mri Scan Of Abdomen Before And After Contrast,6640
+PeaceHealth St.John Medical Center,77065,Large,Cowlitz,Diagnostic Mammography Of One Breasts With Computer Aided Detection,626
+PeaceHealth St.John Medical Center,77066,Large,Cowlitz,Diagnostic Mammography Of Both Breasts With Computer Aided Detection,802
+PeaceHealth St.John Medical Center,77067,Large,Cowlitz,Screening Mammography Of Both Breasts With Computer Aided Detection,662
+PeaceHealth St.John Medical Center,59025,Large,Cowlitz,Fetal Non-Stress Test,1725
+PeaceHealth St.John Medical Center,58661,Large,Cowlitz,Removal Of Ovaries And/Or Tubes Using An Endoscope,1690
+PeaceHealth St.John Medical Center,59820,Large,Cowlitz,Treatment Of First Trimester Missed Abortion,7504
+PeaceHealth St.John Medical Center,93922,Large,Cowlitz,Ultrasound Study Of Arteries Of Both Arms And Legs,487
+PeaceHealth St.John Medical Center,93923,Large,Cowlitz,Ultrasound Study Of Arteries Of Both Arms And Legs,958
+PeaceHealth St.John Medical Center,93924,Large,Cowlitz,Ultrasound Study Of Arteries Of Both Legs At Rest And Exercise,1239
+PeaceHealth St.John Medical Center,78227,Large,Cowlitz,"Nuclear Imaging Of Liver And Bile Duct System, With Pharmaceutical",2566
+PeaceHealth St.John Medical Center,78264,Large,Cowlitz,Nuclear Imaging Stomach Emptying Study,1991
+PeaceHealth St.John Medical Center,78306,Large,Cowlitz,Nuclear Imaging Bone And/Or Joint Imaging; Whole Body,1626
+PeaceHealth St.John Medical Center,78315,Large,Cowlitz,"Nuclear Imaging Bone And/Or Joint Imaging, 3 Phase Study",1991
+PeaceHealth St.John Medical Center,78452,Large,Cowlitz,Nuclear Imaging Study Of Heart Vessles With Drugs Or Exercise,6925
+PeaceHealth St.John Medical Center,78608,Large,Cowlitz,Nuclear Imaging Pet Study Brain With Metabolic Evaluation,8171
+PeaceHealth St.John Medical Center,78803,Large,Cowlitz,Nuclear Imaging Study Of Radioactive Material Distribution,4909
+PeaceHealth St.John Medical Center,36415,Large,Cowlitz,Lab Blood Draw,35
+PeaceHealth St.John Medical Center,36430,Large,Cowlitz,Lab Blood Transfusion,3437
+PeaceHealth St.John Medical Center,80048,Large,Cowlitz,"Lab Blood Test, Total Calcium",109
+PeaceHealth St.John Medical Center,80053,Large,Cowlitz,"Lab Blood Test, Comprehensive Metabolic Panel",46
+PeaceHealth St.John Medical Center,80061,Large,Cowlitz,Lab Blood Test Lipid,43
+PeaceHealth St.John Medical Center,80069,Large,Cowlitz,Lab Blood Test Kidney Function,31
+PeaceHealth St.John Medical Center,80076,Large,Cowlitz,Lab Blood Test Liver Function,36
+PeaceHealth St.John Medical Center,81001,Large,Cowlitz,Lab Automated Urinalysis Test With Examination Using Microscope,54
+PeaceHealth St.John Medical Center,81002,Large,Cowlitz,"Lab Urinalysis, Manual Test",25
+PeaceHealth St.John Medical Center,81003,Large,Cowlitz,Lab Automated Urinalysis Test Without Microspcope,53
+PeaceHealth St.John Medical Center,81025,Large,Cowlitz,Lab Urine Pregnancy Test,49
+PeaceHealth St.John Medical Center,83036,Large,Cowlitz,Lab Hemoglobin A1C Level,69
+PeaceHealth St.John Medical Center,83690,Large,Cowlitz,Lab Lipase (Fat Enzyme) Level,130
+PeaceHealth St.John Medical Center,84153,Large,Cowlitz,"Lab Prostate Specific Antigen Measurement, Total",114
+PeaceHealth St.John Medical Center,84154,Large,Cowlitz,"Lab Prostate Specific Antigen Measurement, Free",260
+PeaceHealth St.John Medical Center,84443,Large,Cowlitz,"Lab Blood Test, Thyroid Stimulating Hormone (Tsh)",56
+PeaceHealth St.John Medical Center,85025,Large,Cowlitz,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test With Wbc Diff",99
+PeaceHealth St.John Medical Center,85027,Large,Cowlitz,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test",80
+PeaceHealth St.John Medical Center,85610,Large,Cowlitz,Lab Prothrombin Time,85
+PeaceHealth St.John Medical Center,85730,Large,Cowlitz,"Lab Thromboplastin Time, Partial (Ptt), Plasma Or Whole Bld",31
+PeaceHealth St.John Medical Center,86870,Large,Cowlitz,Lab Identification Of Red Blood Cell Antibodies,821
+PeaceHealth St.John Medical Center,86900,Large,Cowlitz,Lab Blood Group Typing (Abo),335
+PeaceHealth St.John Medical Center,86902,Large,Cowlitz,"Lab Screening Test For Compatible Blood Unit, Antigen Test Donor Blood",864
+PeaceHealth St.John Medical Center,86923,Large,Cowlitz,Lab Blood Unit Compatibility Test Electric,815
+PeaceHealth St.John Medical Center,87641,Large,Cowlitz,"Lab Detection Test For Staphylococcus Aureus, Methicillin Resistant (Mrsa Bacteria)",145
+PeaceHealth St.John Medical Center,88307,Large,Cowlitz,"Lab Pathology Examination Of Tissue Using A Microscope, Moderately High Complexity",1545
+PeaceHealth St.John Medical Center,99195,Large,Cowlitz,Lab Therapeutic Drawing of blood for a medical problem,600
+PeaceHealth St.John Medical Center,78815,Large,Cowlitz,"Nuclear Imaging Pet Study With Ct Imaging, Skull Base To Mid-Thigh",8171
+PeaceHealth St.John Medical Center,78816,Large,Cowlitz,"Nuclear Imaging Pet Study With Ct Imaging, Whole Body",8171
+PeaceHealth St.John Medical Center,92611,Large,Cowlitz,Fluoroscopic And Video Recorded Motion Evaluation Of Swallowing Function,610
+PeaceHealth St.John Medical Center,97110,Large,Cowlitz,"Therapeutic Exercise To Develop Strength, Endurance, Range Of Motion, And Flexibility,",110
+PeaceHealth St.John Medical Center,33285,Large,Cowlitz,Insertion Of Heart Rhythm Monitor Under Skin,25914
+PeaceHealth St.John Medical Center,36556,Large,Cowlitz,Insertion Of Non-Tunneled Central Venous Catheter >5 Yrs,7346
+PeaceHealth St.John Medical Center,36558,Large,Cowlitz,Insertion Tunneled Central Venous Catheter Without Port Or Pump,12010
+PeaceHealth St.John Medical Center,36561,Large,Cowlitz,Insertion Tunneled Central Venous Catheter With Port Or Pump,9764
+PeaceHealth St.John Medical Center,36590,Large,Cowlitz,Removal Tunneled Central Venous Catheter With Port Or Pump,5293
+PeaceHealth St.John Medical Center,36901,Large,Cowlitz,"Insertion Of Needle And/Or Catheter Into Dialysis Circuit, With Imaging Including Radiological Supervision And Interpretation",5296
+PeaceHealth St.John Medical Center,36902,Large,Cowlitz,Insertion Catheter Into Dialysis Circuit,18646
+PeaceHealth St.John Medical Center,37236,Large,Cowlitz,"Insertion Of Intravascular Stents In Artery (Except Lower Extremity, Cervical Carotid, Extracranial Vertebral Or Intrathoracic Carotid, Intracranial, Or Coronary), Open Or Accessed Through The Skin, With Radiological Supervision And Interpretation ",30457
+PeaceHealth St.John Medical Center,37248,Large,Cowlitz,"Transluminal Balloon Angioplasty (Except Dialysis Circuit), Open Or Percutaneous, Including All Imaging And Radiological Supervision And Interpretation Necessary To Perform The Angioplasty Within The Same Vein; Initial Vein ",18646
+PeaceHealth St.John Medical Center,47000,Large,Cowlitz,"Needle Biopsy Of Liver, Accessed Through The Skin",8290
+PeaceHealth St.John Medical Center,49083,Large,Cowlitz,"Drainage Of Fluid From Abdominal Cavity, With Imaging Guidance",8852
+PeaceHealth St.John Medical Center,19081,Large,Cowlitz,"Biopsy Breast, With Stereo Guidance, First Sample",8290
+PeaceHealth St.John Medical Center,19083,Large,Cowlitz,"Biopsy Breast, With Ultrasound Guidance, First Sample",8290
+PeaceHealth St.John Medical Center,38221,Large,Cowlitz,Needle Or Trocar Bone Marrow Biopsy,8290
+PeaceHealth St.John Medical Center,12001,Large,Cowlitz,"Repair Of Wound (2.5 Centimeters Or Less) Of The Scalp, Neck, Underarms, Trunk, Arms",2296
+PeaceHealth St.John Medical Center,12002,Large,Cowlitz,"Repair Of Wound (2.6 To 7.5 Centimeters) Of The Scalp, Neck, Underarms, Genitals, Trunk, Arms And/Or Legs",2050
+PeaceHealth St.John Medical Center,12011,Large,Cowlitz,"Repair Of Wound (2.5 Centimeters Or Less) Of The Face, Ears, Eyelids, Nose, Lips, And/Or",2296
+PeaceHealth St.John Medical Center,20610,Large,Cowlitz,"Major Joint Aspiration And/Or Injection, Hip, Knee Or Shoulder",1504
+PeaceHealth St.John Medical Center,62270,Large,Cowlitz,Spinal Tap For Diagnosis,6961
+PeaceHealth St.John Medical Center,62321,Large,Cowlitz,Injection Of Substance Into Spinal Canal Of Upper Or Middle Back Using Imaging Guidance,2717
+PeaceHealth St.John Medical Center,62322,Large,Cowlitz,Injection Of Substance Into Spinal Canal Of Lower Back Or Sacrum,2717
+PeaceHealth St.John Medical Center,62323,Large,Cowlitz,Injection Of Substance Into Spinal Canal Of Lower Back Or Sacrum Using Imaging Guidance,1946
+PeaceHealth St.John Medical Center,64400,Large,Cowlitz,Injection Of Anesthetic Agent Trigeminal Nerve,3223
+PeaceHealth St.John Medical Center,64450,Large,Cowlitz,"Injection Of Anesthetic Agent, Other Peripheral Nerve Or Branch",6961
+PeaceHealth St.John Medical Center,64483,Large,Cowlitz,"Injection(S), Anesthetic Agent And/Or Steroid, Transforaminal Epidural, With Imaging Guidance (Fluoroscopy Or Ct); Lumbar Or Sacral, Single Level",3193
+PeaceHealth St.John Medical Center,64493,Large,Cowlitz,"Injections Of Lower Or Sacral Spine Facet Joint Using Imaging Guidance, Single Level",3361
+PeaceHealth St.John Medical Center,94060,Large,Cowlitz,"Measurement And Graphic Recording Of The Amount And Speed Of Breathed Air, Before And Following Medication Administration",1421
+PeaceHealth St.John Medical Center,94640,Large,Cowlitz,Respiratory Inhaled Pressure Or Nonpressure Treatment To Relieve Airway Obstruction Or For Sputum Specimen,544
+PeaceHealth St.John Medical Center,94644,Large,Cowlitz,"Respiratory Inhaled Aerosol Treatment To Relieve Airway Obstruction, First Hour ",446
+PeaceHealth St.John Medical Center,94660,Large,Cowlitz,Initiation And Management Of Continued Pressured Respiratory Assistance By Mask Or Breathing Tube ,603
+PeaceHealth St.John Medical Center,94664,Large,Cowlitz,Collection And Analysis Of Exhaled Air For Evaluation Of Lung Function During Rest And,544
+PeaceHealth St.John Medical Center,94668,Large,Cowlitz,Manual Maneuvers To Chest Wall To Assist Movement Of Lung Secretions ,302
+PeaceHealth St.John Medical Center,94726,Large,Cowlitz,Determination Of Lung Volumes Using Plethysmography,895
+PeaceHealth St.John Medical Center,77295,Large,Cowlitz,"Radiation Oncology Management Of Radiation Therapy, 3D",11169
+PeaceHealth St.John Medical Center,77301,Large,Cowlitz,Radiation Oncology Management Of Modulation Radiotherapy Planning,9333
+PeaceHealth St.John Medical Center,77334,Large,Cowlitz,Radiation Oncology Radiation Treatment Devices,1916
+PeaceHealth St.John Medical Center,77338,Large,Cowlitz,Radiation Oncology Design And Construction Of Device For Radiation Therapy,1813
+PeaceHealth St.John Medical Center,77373,Large,Cowlitz,Radiation Oncology Stereotactic Body Radiation Therapy 1 Or More Lesions Using Imaging Guidance,8523
+PeaceHealth St.John Medical Center,77385,Large,Cowlitz,"Radiation Oncology Radiation Therapy Delivery, Simple",2274
+PeaceHealth St.John Medical Center,77386,Large,Cowlitz,"Radiation Oncology Radiation Therapy Delivery, Complex",3462
+PeaceHealth St.John Medical Center,77412,Large,Cowlitz,Radiation Oncology Radiation Treatment Delivery 1 Mev >= Complex,1454
+PeaceHealth St.John Medical Center,77470,Large,Cowlitz,Radiation Oncology Special Radiation Treatment Procedure,2928
+PeaceHealth St.John Medical Center,70360,Large,Cowlitz,X-Ray Neck,384
+PeaceHealth St.John Medical Center,71045,Large,Cowlitz,"X-Ray Of Chest, 1 View",395
+PeaceHealth St.John Medical Center,71046,Large,Cowlitz,"X-Ray Of Chest, 2 Vies",386
+PeaceHealth St.John Medical Center,71100,Large,Cowlitz,"X-Ray Ribs 1 Side, 2 Views",384
+PeaceHealth St.John Medical Center,71101,Large,Cowlitz,"X-Ray Ribs 1 Side, 3 Or More Views",602
+PeaceHealth St.John Medical Center,72040,Large,Cowlitz,"X-Ray Cervical Spine, 2 To 3 Views",442
+PeaceHealth St.John Medical Center,72050,Large,Cowlitz,"X-Ray Cervical Spine, 4 To 5 Views",729
+PeaceHealth St.John Medical Center,72070,Large,Cowlitz,"X-Ray Thoracic Spine, 2 Views",799
+PeaceHealth St.John Medical Center,72072,Large,Cowlitz,"X-Ray Thoracic Spine, 3 Views",799
+PeaceHealth St.John Medical Center,72080,Large,Cowlitz,"X-Ray Thoracolumbar Spine, 2 Or More Views",384
+PeaceHealth St.John Medical Center,72082,Large,Cowlitz,"X-Ray Entire Spine, 2 To 3 Views",602
+PeaceHealth St.John Medical Center,72100,Large,Cowlitz,"X-Ray Lumbosacral Spine, 2 To 3 Views",799
+PeaceHealth St.John Medical Center,72110,Large,Cowlitz,"X-Ray Lumbosacral Spine, 4 Or More Views",759
+PeaceHealth St.John Medical Center,72170,Large,Cowlitz,"X-Ray Pelvis, 1 To 2 Views",799
+PeaceHealth St.John Medical Center,72220,Large,Cowlitz,"X-Ray Pelvis, 2 Or More Views",442
+PeaceHealth St.John Medical Center,73000,Large,Cowlitz,X-Ray Collar Bone,384
+PeaceHealth St.John Medical Center,73020,Large,Cowlitz,"X-Ray Shoulder, 1 View",442
+PeaceHealth St.John Medical Center,73030,Large,Cowlitz,"X-Ray Shoulder, 2 Or More Views",442
+PeaceHealth St.John Medical Center,73060,Large,Cowlitz,"X-Ray Upper Arm, 2 Views",442
+PeaceHealth St.John Medical Center,73070,Large,Cowlitz,"X-Ray Elbow, 2 Views",333
+PeaceHealth St.John Medical Center,73080,Large,Cowlitz,"X-Ray Elbow, 3 Or More Views",442
+PeaceHealth St.John Medical Center,73090,Large,Cowlitz,"X-Ray Forearm, 2 Views",384
+PeaceHealth St.John Medical Center,73100,Large,Cowlitz,"X-Ray Wrist, 2 Views",442
+PeaceHealth St.John Medical Center,73110,Large,Cowlitz,"X-Ray Wrist, 3 Or Mor Views",442
+PeaceHealth St.John Medical Center,73130,Large,Cowlitz,"X-Ray Hand, 3 Or More Views",442
+PeaceHealth St.John Medical Center,73140,Large,Cowlitz,"X-Ray Finger, 2 Or More Views",384
+PeaceHealth St.John Medical Center,73502,Large,Cowlitz,"X-Ray Hip And Pelvis, 2 To 3 Views",489
+PeaceHealth St.John Medical Center,73522,Large,Cowlitz,"X-Ray Hips And Pelvis, 3 To 4 Views",634
+PeaceHealth St.John Medical Center,73523,Large,Cowlitz,"X-Ray Hips And Pelvis, 5 Plus Views",793
+PeaceHealth St.John Medical Center,73552,Large,Cowlitz,"X-Ray Femur, 2 Or More Views",442
+PeaceHealth St.John Medical Center,73560,Large,Cowlitz,X-Ray Knee 1 Or 2 Views,442
+PeaceHealth St.John Medical Center,73562,Large,Cowlitz,X-Ray Knee 3 Views,442
+PeaceHealth St.John Medical Center,73564,Large,Cowlitz,X-Ray Knee 4 Or More Views,799
+PeaceHealth St.John Medical Center,73565,Large,Cowlitz,X-Ray Knee Bilateral Standing,442
+PeaceHealth St.John Medical Center,73590,Large,Cowlitz,"X-Ray Lower Leg, 2 Views",384
+PeaceHealth St.John Medical Center,73600,Large,Cowlitz,"X-Ray Ankle, 2 Views",333
+PeaceHealth St.John Medical Center,73610,Large,Cowlitz,"X-Ray Ankle, 3 Or More Views",384
+PeaceHealth St.John Medical Center,73620,Large,Cowlitz,"X-Ray Foot, 2 Views",384
+PeaceHealth St.John Medical Center,73630,Large,Cowlitz,"X-Ray Foot, 3 Or More Views",442
+PeaceHealth St.John Medical Center,73660,Large,Cowlitz,"X-Ray Toes, 2 Or More Views",384
+PeaceHealth St.John Medical Center,74018,Large,Cowlitz,"X-Ray Of Abdomen, 1 View",368
+PeaceHealth St.John Medical Center,74019,Large,Cowlitz,"X-Ray Of Abdomen, 2 Vies",697
+PeaceHealth St.John Medical Center,74230,Large,Cowlitz,X-Ray Throat And/Or Esophagus,634
+PeaceHealth St.John Medical Center,76000,Large,Cowlitz,"X-Ray Imaging Guidance For Procedure, Up To 1 Hour",1234
+PeaceHealth St.John Medical Center,76010,Large,Cowlitz,"X-Ray Imaging From Nose To Rectum, Single View, Child",483
+PeaceHealth St.John Medical Center,77077,Large,Cowlitz,"X-Ray Imaging Of 2 Or More Joints, Single View",634
+PeaceHealth St.John Medical Center,77080,Large,Cowlitz,X-Ray Bone Density Measurement Using Dedicated X-Ray Machine,602
+PeaceHealth St.John Medical Center,77085,Large,Cowlitz,"X-Ray Bone Density Measurement, Axial Using Dedicated X-Ray Machine",594
+PeaceHealth St.John Medical Center,95806,Large,Cowlitz,Diagnostic Test For Sleep Disorder,958
+PeaceHealth St.John Medical Center,95810,Large,Cowlitz,Sleep Monitoring Of Patient In Sleep Lab,4930
+PeaceHealth St.John Medical Center,95811,Large,Cowlitz,Sleep Monitoring Of Patient (6 Years Or Older) In Sleep Lab,6344
+PeaceHealth St.John Medical Center,90832,Large,Cowlitz,"Psychotherapy, 30 Minutes With Patient And/Or Family Member ",209
+PeaceHealth St.John Medical Center,90834,Large,Cowlitz,"Psychotherapy, 45 Minutes With Patient And/Or Family Member ",274
+PeaceHealth St.John Medical Center,90837,Large,Cowlitz,"Psychotherapy, 60 Minutes With Patient And/Or Family Member  ",404
+PeaceHealth St.John Medical Center,90846,Large,Cowlitz,Family Psychotherapy With Out Patient,261
+PeaceHealth St.John Medical Center,90847,Large,Cowlitz,Family Psychotherapy Including Patient,271
+PeaceHealth St.John Medical Center,90853,Large,Cowlitz,Group Psychotherapy,73
+PeaceHealth St.John Medical Center,99203,Large,Cowlitz,"New Patient Office Or Other Outpatient Visit, Typically 30 Minutes",304
+PeaceHealth St.John Medical Center,99204,Large,Cowlitz,"New Patient Office Or Other Outpatient Visit, Typically 45 Minutes",455
+PeaceHealth St.John Medical Center,99205,Large,Cowlitz,"New Patient Office Or Other Outpatient Visit, Typically 60 Minutes",601
+PeaceHealth St.John Medical Center,99243,Large,Cowlitz,"Patient Office Consultation, Typically 40 Minutes",323
+PeaceHealth St.John Medical Center,99244,Large,Cowlitz,"Patient Office Consultation, Typically 60 Minutes",482
+PeaceHealth St.John Medical Center,99385,Large,Cowlitz,Initial New Patient Preventive Medicine Evaluation Age 18-39 Years,358
+PeaceHealth St.John Medical Center,99386,Large,Cowlitz,Initial New Patient Preventive Medicine Evaluation Age 40-64 Years,413
+PeaseHealth United General Medical Center,96125,Medium,Skagit,"Standardized Thought Processing Testing, Interpretation, And Report Per Hour",413
+PeaseHealth United General Medical Center,96401,Medium,Skagit,Non-Hormonal Anti-Neoplastic Chemotherapy Beneath The Skin Or Into Muscle,397
+PeaseHealth United General Medical Center,96402,Medium,Skagit,Hormonal Anti-Neoplastic Chemotherapy Administration Beneath The Skin Or Into Muscle,172
+PeaseHealth United General Medical Center,96409,Medium,Skagit,Infusion Of Chemotherapy Into A Vein Using Push Technique,529
+PeaseHealth United General Medical Center,96413,Medium,Skagit,Infusion Of Chemotherapy Into A Vein Up To 1 Hour,870
+PeaseHealth United General Medical Center,96416,Medium,Skagit,Prolonged Chemotherapy Infusion Into A Vein By Portable Or Implanted Pump More Than 8,839
+PeaseHealth United General Medical Center,96523,Medium,Skagit,Irrigation Of Implanted Venous Access Drug Delivery Device,148
+PeaseHealth United General Medical Center,70450,Medium,Skagit,Ct Scan Head Or Brain Without Contrast,2015
+PeaseHealth United General Medical Center,70470,Medium,Skagit,Ct Scan Head Or Brain Before And After Contrast,2594
+PeaseHealth United General Medical Center,70486,Medium,Skagit,Ct Scan Of Face Without Contrast,2794
+PeaseHealth United General Medical Center,70487,Medium,Skagit,Ct Scan Of Face With Contrast,3407
+PeaseHealth United General Medical Center,70490,Medium,Skagit,Ct Scan Of Neck Without Contrast,2638
+PeaseHealth United General Medical Center,70491,Medium,Skagit,Ct Scan Of Neck With Contrast,3259
+PeaseHealth United General Medical Center,71250,Medium,Skagit,Ct Scan Chest Without Contrast,2587
+PeaseHealth United General Medical Center,71260,Medium,Skagit,Ct Scan Chest With Contrast,3260
+PeaseHealth United General Medical Center,71275,Medium,Skagit,Ct Scan Of Blood Vessels In Chest,5010
+PeaseHealth United General Medical Center,72125,Medium,Skagit,Ct Scan Of Cervical Spine Without Contrast,2639
+PeaseHealth United General Medical Center,72128,Medium,Skagit,Ct Scan Thoracic Spine Without Contrast,2607
+PeaseHealth United General Medical Center,72131,Medium,Skagit,Ct Scan Of Lumbar Spine Without Contrast,2594
+PeaseHealth United General Medical Center,72192,Medium,Skagit,Ct Scan Of Pelvis Without Contrast,2024
+PeaseHealth United General Medical Center,72193,Medium,Skagit,Ct Scan Pelvis With Contrast,3313
+PeaseHealth United General Medical Center,73200,Medium,Skagit,Ct Scan Of Arm Without Contrast,2587
+PeaseHealth United General Medical Center,73700,Medium,Skagit,Ct Scan Leg Without Contrast,2598
+PeaseHealth United General Medical Center,73701,Medium,Skagit,Ct Scan Leg With Contrast Injection,3264
+PeaseHealth United General Medical Center,74150,Medium,Skagit,Ct Scan Abdomen Without Contrast,2029
+PeaseHealth United General Medical Center,74160,Medium,Skagit,Ct Scan Abdomen With Contrast,3323
+PeaseHealth United General Medical Center,74170,Medium,Skagit,Ct Scan Abdomen Before And After Contrast,3882
+PeaseHealth United General Medical Center,74176,Medium,Skagit,Ct Scan Of Abdomen And Pelvis Without Contrast,3040
+PeaseHealth United General Medical Center,74177,Medium,Skagit,Ct Scan Of Abdomen And Pelvis With Contrast,4082
+PeaseHealth United General Medical Center,74178,Medium,Skagit,Ct Scan Abdomen And Pelvis Before And After Contrast,4799
+PeaseHealth United General Medical Center,76536,Medium,Skagit,Ultrasound Of Head And Neck,902
+PeaseHealth United General Medical Center,76604,Medium,Skagit,Ultrasound Of Chest,605
+PeaseHealth United General Medical Center,76641,Medium,Skagit,"Ultrasound Of Breast, Complete",668
+PeaseHealth United General Medical Center,76642,Medium,Skagit,"Ultrasound Of Breast, Limited Area",534
+PeaseHealth United General Medical Center,76700,Medium,Skagit,"Ultrasound Abdomen, Complete",986
+PeaseHealth United General Medical Center,76705,Medium,Skagit,"Ultrasound Abdomen, Limited Area",779
+PeaseHealth United General Medical Center,76770,Medium,Skagit,Ultrasound Behind Abdominal Cavity,946
+PeaseHealth United General Medical Center,76801,Medium,Skagit,Ultrasound Of Pregnant Uterus,664
+PeaseHealth United General Medical Center,76805,Medium,Skagit,"Ultrasound Pregnant Uterus, Greater Or Equal To 14 Weeks Gestation 1 Fetus",994
+PeaseHealth United General Medical Center,76811,Medium,Skagit,"Ultrasound Pregnant Uterus, Detailed, Single Or First Fetus",1060
+PeaseHealth United General Medical Center,76815,Medium,Skagit,"Ultrasound Pregnant Uterus, Limited, 1 Or More Feutses",594
+PeaseHealth United General Medical Center,76816,Medium,Skagit,"Ultrasound Pregnant Uterus, Re-Evaluation Per Fetus",778
+PeaseHealth United General Medical Center,76830,Medium,Skagit,"Ultrasound Pelvis, Vaginal Approach",585
+PeaseHealth United General Medical Center,76856,Medium,Skagit,"Ultrasound Pelvis, Complete, Non Pregnant",891
+PeaseHealth United General Medical Center,76870,Medium,Skagit,Ultrasound Of Scrotum,897
+PeaseHealth United General Medical Center,76881,Medium,Skagit,"Ultrasound Of Leg Or Arm, Complete",873
+PeaseHealth United General Medical Center,76882,Medium,Skagit,"Ultrasound Of Leg Or Arm, Limited Area",209
+PeaseHealth United General Medical Center,93880,Medium,Skagit,Ultrasound Scanning Of Blood Flow (Outside The Brain) On Both Sides Of Head And Neck,1232
+PeaseHealth United General Medical Center,93925,Medium,Skagit,Ultrasound Study Of Arteries And Arterial Grafts Of Both Legs,1589
+PeaseHealth United General Medical Center,93970,Medium,Skagit,Ultrasound Scan Of Veins Of Both Arms Or Legs Including Assessment Of Compression And Functional Maneuvers,1544
+PeaseHealth United General Medical Center,93971,Medium,Skagit,Ultrasound Scan Of Veins Of One Arm Or Leg Or Limited Including Assessment Of Compression And Functional Maneuvers,961
+PeaseHealth United General Medical Center,93975,Medium,Skagit,"Ultrasound Scan Of Abdominal, Pelvic, And/Or Scrotal Arterial Inflow And Venous Outflow",1702
+PeaseHealth United General Medical Center,93979,Medium,Skagit,"Ultrasound Scan Of Blood Flow Of Aorta, Vena Cava, Bypass Graphs, Or One Side Of The Groin Or Limited Scan",836
+PeaseHealth United General Medical Center,92960,Medium,Skagit,Electric Cardioversion External,1665
+PeaseHealth United General Medical Center,93005,Medium,Skagit,"Routine Electrocardiogram (Ekg) With Tracing, Using At Least 12 Leads",232
+PeaseHealth United General Medical Center,93017,Medium,Skagit,Cardiovascular Stress Test Monitoring With Intrepretation And Report,644
+PeaseHealth United General Medical Center,93306,Medium,Skagit,"Ultrasound Examination Of Heart Including Color-Depicted Blood Flow Rate, Direction, And Valve Function",2187
+PeaseHealth United General Medical Center,93308,Medium,Skagit,Follow-Up Or Limited Ultrasound Examination Of Heart,676
+PeaseHealth United General Medical Center,96365,Medium,Skagit,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis Up To 1 Hour",589
+PeaseHealth United General Medical Center,96372,Medium,Skagit,"Injection Beneath The Skin Or Into Muscle For Therapy, Diagnosis, Or Prevention",132
+PeaseHealth United General Medical Center,96374,Medium,Skagit,"Injection Of Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",316
+PeaseHealth United General Medical Center,70544,Medium,Skagit,Mri Scan Of Head Blood Vessels Without Contrast,4238
+PeaseHealth United General Medical Center,70549,Medium,Skagit,Mri Scan Of Neck Blood Vessels Before And After Contrast,6423
+PeaseHealth United General Medical Center,70551,Medium,Skagit,Mri Scan Brain Withoug Contrast,3849
+PeaseHealth United General Medical Center,70553,Medium,Skagit,Mri Scan Brain Without And Then With Contrasst,4894
+PeaseHealth United General Medical Center,72141,Medium,Skagit,Mri Scan Cervical Spine Without Contrast,3073
+PeaseHealth United General Medical Center,72146,Medium,Skagit,Mri Scan Thoracic Spine Without Contrast,3218
+PeaseHealth United General Medical Center,72148,Medium,Skagit,Mri Scan Lumbar Spine Without Contrast,3010
+PeaseHealth United General Medical Center,72157,Medium,Skagit,Mri Scan Of Thoracic Spine Before And After Contrast,4427
+PeaseHealth United General Medical Center,72158,Medium,Skagit,Mri Scan Of Lumbar Spine Before And After Contrast,4776
+PeaseHealth United General Medical Center,72195,Medium,Skagit,Mri Scan Of Pelvis Without Contrast,3805
+PeaseHealth United General Medical Center,72197,Medium,Skagit,Mri Scan Of Pelvis Before And After Contrast,5068
+PeaseHealth United General Medical Center,73221,Medium,Skagit,Mri Scan Arm Joint Without Contrast,2627
+PeaseHealth United General Medical Center,73222,Medium,Skagit,Mri Scan Of Arm Joint With Contrast,3859
+PeaseHealth United General Medical Center,73223,Medium,Skagit,Mri Scan Of Arm Joint Before And After Contrast,4722
+PeaseHealth United General Medical Center,73718,Medium,Skagit,Mri Scan Of Leg Without Contrast,3741
+PeaseHealth United General Medical Center,73720,Medium,Skagit,Mri Scan Of Leg Before And After Contrast,5099
+PeaseHealth United General Medical Center,73721,Medium,Skagit,Mri Scan Of Leg Joint Without Contrast,2463
+PeaseHealth United General Medical Center,74183,Medium,Skagit,Mri Scan Of Abdomen Before And After Contrast,5088
+PeaseHealth United General Medical Center,77065,Medium,Skagit,Diagnostic Mammography Of One Breasts With Computer Aided Detection,831
+PeaseHealth United General Medical Center,77066,Medium,Skagit,Diagnostic Mammography Of Both Breasts With Computer Aided Detection,590
+PeaseHealth United General Medical Center,77067,Medium,Skagit,Screening Mammography Of Both Breasts With Computer Aided Detection,480
+PeaseHealth United General Medical Center,78227,Medium,Skagit,"Nuclear Imaging Of Liver And Bile Duct System, With Pharmaceutical",5141
+PeaseHealth United General Medical Center,78264,Medium,Skagit,Nuclear Imaging Stomach Emptying Study,2820
+PeaseHealth United General Medical Center,78306,Medium,Skagit,Nuclear Imaging Bone And/Or Joint Imaging; Whole Body,2391
+PeaseHealth United General Medical Center,78452,Medium,Skagit,Nuclear Imaging Study Of Heart Vessles With Drugs Or Exercise,4630
+PeaseHealth United General Medical Center,78472,Medium,Skagit,"Nuclear Imaging Study Of Heart Wall Motion At Rest Or Stress With Evaluation Of Blood Ejection From Heart, Single Study",1629
+PeaseHealth United General Medical Center,78582,Medium,Skagit,Nuclear Imaging Study Lung Perfusion And Ventilation,3680
+PeaseHealth United General Medical Center,36415,Medium,Skagit,Lab Blood Draw,56
+PeaseHealth United General Medical Center,36430,Medium,Skagit,Lab Blood Transfusion,1155
+PeaseHealth United General Medical Center,36591,Medium,Skagit,Lab Blood Draw Cvc / Vad,186
+PeaseHealth United General Medical Center,36592,Medium,Skagit,Lab Blood Collection From Established Picc,154
+PeaseHealth United General Medical Center,36593,Medium,Skagit,Lab Declotting Infusion Of Central Venous,775
+PeaseHealth United General Medical Center,80048,Medium,Skagit,"Lab Blood Test, Total Calcium",136
+PeaseHealth United General Medical Center,80053,Medium,Skagit,"Lab Blood Test, Comprehensive Metabolic Panel",187
+PeaseHealth United General Medical Center,80061,Medium,Skagit,Lab Blood Test Lipid,160
+PeaseHealth United General Medical Center,80069,Medium,Skagit,Lab Blood Test Kidney Function,106
+PeaseHealth United General Medical Center,80076,Medium,Skagit,Lab Blood Test Liver Function,87
+PeaseHealth United General Medical Center,80158,Medium,Skagit,Lab Cyclosporine Level,230
+PeaseHealth United General Medical Center,80202,Medium,Skagit,Lab Vancomycin Level,250
+PeaseHealth United General Medical Center,80307,Medium,Skagit,Lab Drug Test Prsmv Chem Anlyzr,236
+PeaseHealth United General Medical Center,81001,Medium,Skagit,Lab Automated Urinalysis Test With Examination Using Microscope,50
+PeaseHealth United General Medical Center,81003,Medium,Skagit,Lab Automated Urinalysis Test Without Microspcope,58
+PeaseHealth United General Medical Center,81206,Medium,Skagit,Lab Translocation Analysis (Bcr/Abl1) Minor Breakpoint,463
+PeaseHealth United General Medical Center,81219,Medium,Skagit,"Lab Gene Analysis (Calreticulin), Common Variants",554
+PeaseHealth United General Medical Center,81256,Medium,Skagit,Lab Gene Analysis (Hemochromatosis) Common Variants,385
+PeaseHealth United General Medical Center,81270,Medium,Skagit,Lab Gene Analysis (Janus Kinase 2) Variant,420
+PeaseHealth United General Medical Center,82043,Medium,Skagit,Lab Urine Microalbumin (Protein) Level,256
+PeaseHealth United General Medical Center,82306,Medium,Skagit,Lab Vitamin D-3 Level,180
+PeaseHealth United General Medical Center,82378,Medium,Skagit,Lab Carcinoembryonic Antigen (Cea) Protein Level,67
+PeaseHealth United General Medical Center,82565,Medium,Skagit,Lab Blood Creatinine Level,161
+PeaseHealth United General Medical Center,82607,Medium,Skagit,Lab Cyanocobalamin (Vitamin B-12) Level,123
+PeaseHealth United General Medical Center,82728,Medium,Skagit,Lab Ferritin (Blood Protein) Level,106
+PeaseHealth United General Medical Center,82746,Medium,Skagit,"Lab Folic Acid Level, Serum",174
+PeaseHealth United General Medical Center,82747,Medium,Skagit,"Lab Folic Acid Level, Red Blood Count",131
+PeaseHealth United General Medical Center,82784,Medium,Skagit,"Lab Gammaglobulin (Immune System Protein) Measurement, Iga,Igd,Igg,Igm,Ea",120
+PeaseHealth United General Medical Center,82947,Medium,Skagit,Lab Blood Glucose (Sugar) Level,68
+PeaseHealth United General Medical Center,83010,Medium,Skagit,Lab Haptoglobin (Serum Protein) Level,164
+PeaseHealth United General Medical Center,83516,Medium,Skagit,Lab Analysis Of Substance Using Immunoassay Technique,1056
+PeaseHealth United General Medical Center,83550,Medium,Skagit,Lab Iron Binding Capacity,135
+PeaseHealth United General Medical Center,83735,Medium,Skagit,Lab Magnesium Level,99
+PeaseHealth United General Medical Center,83880,Medium,Skagit,Lab Natriuretic Peptide (Heart And Blood Vessel Protein) Level,448
+PeaseHealth United General Medical Center,83883,Medium,Skagit,"Lab Nephelometry, Test Method Using Light",123
+PeaseHealth United General Medical Center,83921,Medium,Skagit,Lab Organic Acid Level,271
+PeaseHealth United General Medical Center,83970,Medium,Skagit,Lab Parathormone (Parathyroid Hormone) Level,379
+PeaseHealth United General Medical Center,83993,Medium,Skagit,Lab Stool Calprotectin (Protein) Level,582
+PeaseHealth United General Medical Center,84153,Medium,Skagit,"Lab Prostate Specific Antigen Measurement, Total",109
+PeaseHealth United General Medical Center,84154,Medium,Skagit,"Lab Prostate Specific Antigen Measurement, Free",277
+PeaseHealth United General Medical Center,84403,Medium,Skagit,"Lab Testosterone (Hormone) Level, Total",287
+PeaseHealth United General Medical Center,84443,Medium,Skagit,"Lab Blood Test, Thyroid Stimulating Hormone (Tsh)",167
+PeaseHealth United General Medical Center,84481,Medium,Skagit,"Lab Thyroid Hormone, Ft-3 Measurement",174
+PeaseHealth United General Medical Center,84484,Medium,Skagit,"Lab Troponin (Protein) Analysis, Quant",260
+PeaseHealth United General Medical Center,84702,Medium,Skagit,"Lab Gonadotropin, Chorionic (Reproductive Hormone) Level",118
+PeaseHealth United General Medical Center,84703,Medium,Skagit,Lab Gonadotropin (Reproductive Hormone) Analysis,142
+PeaseHealth United General Medical Center,85025,Medium,Skagit,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test With Wbc Diff",79
+PeaseHealth United General Medical Center,85027,Medium,Skagit,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test",65
+PeaseHealth United General Medical Center,85240,Medium,Skagit,Lab Clotting Factor Viii (Ahg) Measurement,362
+PeaseHealth United General Medical Center,85303,Medium,Skagit,Lab Protein C Antigen (Clotting Inhibitor) Measurement,367
+PeaseHealth United General Medical Center,85379,Medium,Skagit,Lab D-Dimer Quant,250
+PeaseHealth United General Medical Center,85610,Medium,Skagit,Lab Prothrombin Time,75
+PeaseHealth United General Medical Center,85730,Medium,Skagit,"Lab Thromboplastin Time, Partial (Ptt), Plasma Or Whole Bld",100
+PeaseHealth United General Medical Center,86255,Medium,Skagit,Lab Screening Test For Antibody To Noninfectious Agent,1227
+PeaseHealth United General Medical Center,86300,Medium,Skagit,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 15-3,72
+PeaseHealth United General Medical Center,86304,Medium,Skagit,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 125,87
+PeaseHealth United General Medical Center,86305,Medium,Skagit,Lab Analysis Of Female Reproductive Genetic Marker,152
+PeaseHealth United General Medical Center,86334,Medium,Skagit,Lab Immunologic Analysis Technique On Serum,270
+PeaseHealth United General Medical Center,86592,Medium,Skagit,"Lab Syphilis Detection Test, Qual",83
+PeaseHealth United General Medical Center,86664,Medium,Skagit,"Lab Analysis For Antibody To Epstein-Barr Virus (Mononucleosis Virus), Nuclear Antigen",295
+PeaseHealth United General Medical Center,86800,Medium,Skagit,Lab Thyroglobulin (Thyroid Protein) Antibody Measurement,165
+PeaseHealth United General Medical Center,86870,Medium,Skagit,Lab Identification Of Red Blood Cell Antibodies,278
+PeaseHealth United General Medical Center,86900,Medium,Skagit,Lab Blood Group Typing (Abo),75
+PeaseHealth United General Medical Center,86923,Medium,Skagit,Lab Blood Unit Compatibility Test Electric,143
+PeaseHealth United General Medical Center,87070,Medium,Skagit,Lab Bacterial Culture,106
+PeaseHealth United General Medical Center,87077,Medium,Skagit,Lab Bacterial Culture For Aerobic Isolates,167
+PeaseHealth United General Medical Center,87086,Medium,Skagit,"Lab Bacterial Colony Count, Urine",85
+PeaseHealth United General Medical Center,87186,Medium,Skagit,"Lab Evaluation Of Antimicrobial Drug (Antibiotic, Antifungal, Antiviral), Microdil/Aga,Mic,Ea Mult Antimic Per Plate",97
+PeaseHealth United General Medical Center,87493,Medium,Skagit,Lab Detection Test For Clostridium Difficile,412
+PeaseHealth United General Medical Center,87497,Medium,Skagit,"Lab Detection Test For Cytomegalovirus, Quantification",710
+PeaseHealth United General Medical Center,87522,Medium,Skagit,"Lab Detection Test For Hepatitis C Virus, Quant",538
+PeaseHealth United General Medical Center,87536,Medium,Skagit,"Lab Detection Test For Hiv-1 Virus, Pcr, Quant",645
+PeaseHealth United General Medical Center,87631,Medium,Skagit,Lab Detection Test For Multiple Types Of Respiratory Virus 3-5 Targets,259
+PeaseHealth United General Medical Center,87798,Medium,Skagit,"Lab Detection Test For Organism, Amplified Probe",397
+PeaseHealth United General Medical Center,87899,Medium,Skagit,Lab Detection Test For Identification Of Organism,306
+PeaseHealth United General Medical Center,88184,Medium,Skagit,"Lab Flow Cytometry Technique For Dna Or Cell Analysis, Tc 1 Marker",243
+PeaseHealth United General Medical Center,88305,Medium,Skagit,"Lab Pathology Examination Of Tissue Using A Microscope, Intermediate Complexity",384
+PeaseHealth United General Medical Center,88333,Medium,Skagit,Lab Pathology Examination Of Tissue Specimen During Surgery,637
+PeaseHealth United General Medical Center,89321,Medium,Skagit,Lab Semen Analysis For Sperm Presence,62
+PeaseHealth United General Medical Center,92507,Medium,Skagit,"Treatment Of Speech, Language, Voice, Communication, And/Or Hearing Processing",205
+PeaseHealth United General Medical Center,92523,Medium,Skagit,Evaluation Of Speech Sound Production With Evaluation Of Language Comprehension,276
+PeaseHealth United General Medical Center,92524,Medium,Skagit,Behavioral And Qualitative Analysis Of Voice And Resonance,261
+PeaseHealth United General Medical Center,92526,Medium,Skagit,Treatment Of Swallowing And/Or Oral Feeding Function,348
+PeaseHealth United General Medical Center,92609,Medium,Skagit,Therapeutic Services For Use Of Speech-Generating Device With Programming,522
+PeaseHealth United General Medical Center,92610,Medium,Skagit,Evaluation Of Swallowing Function,339
+PeaseHealth United General Medical Center,92611,Medium,Skagit,Fluoroscopic And Video Recorded Motion Evaluation Of Swallowing Function,560
+PeaseHealth United General Medical Center,97110,Medium,Skagit,"Therapeutic Exercise To Develop Strength, Endurance, Range Of Motion, And Flexibility,",135
+PeaseHealth United General Medical Center,97112,Medium,Skagit,"Therapeutic Procedure To Re-Educate Brain-To-Nerve-To-Muscle Function, Each 15 Minutes",140
+PeaseHealth United General Medical Center,97140,Medium,Skagit,"Manual (Physical) Therapy Techniques To 1 Or More Regions, Each 15 Minutes",126
+PeaseHealth United General Medical Center,97161,Medium,Skagit,Physical Therapy Evaluation Typically 20 Minutes,343
+PeaseHealth United General Medical Center,97162,Medium,Skagit,Physical Therapy Evaluation Typically 30 Minutes,335
+PeaseHealth United General Medical Center,97163,Medium,Skagit,Physical Therapy Evaluation Typically 45 Minutes,352
+PeaseHealth United General Medical Center,97165,Medium,Skagit,"Evaluation Of Occupational Therapy, Typically 45 Minutes",324
+PeaseHealth United General Medical Center,97166,Medium,Skagit,"Evaluation Of Occupational Therapy, Typically 30 Minutes",324
+PeaseHealth United General Medical Center,97530,Medium,Skagit,"Therapeutic Activities To Improve Function, With One-On-One Contact Between Patient And Provider, Each 15 Minutes",143
+PeaseHealth United General Medical Center,97535,Medium,Skagit,"Self-Care Or Home Management Training, Each 15 Minutes",122
+PeaseHealth United General Medical Center,36556,Medium,Skagit,Insertion Of Non-Tunneled Central Venous Catheter >5 Yrs,3348
+PeaseHealth United General Medical Center,36573,Medium,Skagit,"Insertion Of Peripherally Inserted Central Venous Catheter For Infusion Using Imaging Guidance, Patient 5 Years Or Older",3653
+PeaseHealth United General Medical Center,36600,Medium,Skagit,Lab Arterial Blood Collection,157
+PeaseHealth United General Medical Center,47000,Medium,Skagit,"Needle Biopsy Of Liver, Accessed Through The Skin",3629
+PeaseHealth United General Medical Center,49083,Medium,Skagit,"Drainage Of Fluid From Abdominal Cavity, With Imaging Guidance",2971
+PeaseHealth United General Medical Center,60100,Medium,Skagit,"Needle Biopsy Of Thyroid, Accessed Through The Skin",777
+PeaseHealth United General Medical Center,19083,Medium,Skagit,"Biopsy Breast, With Ultrasound Guidance, First Sample",5100
+PeaseHealth United General Medical Center,38222,Medium,Skagit,Bone Marrow Biopsy And Aspiration ,4586
+PeaseHealth United General Medical Center,38505,Medium,Skagit,Needle Biopsy Or Removal Of Lymph Nodes,1524
+PeaseHealth United General Medical Center,10005,Medium,Skagit,Fine Needle Aspiration Of First Lesion Using Ultrasound Guidance,1738
+PeaseHealth United General Medical Center,10060,Medium,Skagit,"Drainage Of Skin Abscess, Simple",482
+PeaseHealth United General Medical Center,11042,Medium,Skagit,Removal Of Skin And Tissue First 20 Sq Cm Or Less,824
+PeaseHealth United General Medical Center,12001,Medium,Skagit,"Repair Of Wound (2.5 Centimeters Or Less) Of The Scalp, Neck, Underarms, Trunk, Arms",482
+PeaseHealth United General Medical Center,12002,Medium,Skagit,"Repair Of Wound (2.6 To 7.5 Centimeters) Of The Scalp, Neck, Underarms, Genitals, Trunk, Arms And/Or Legs",482
+PeaseHealth United General Medical Center,12011,Medium,Skagit,"Repair Of Wound (2.5 Centimeters Or Less) Of The Face, Ears, Eyelids, Nose, Lips, And/Or",482
+PeaseHealth United General Medical Center,12013,Medium,Skagit,"Repair Of Wound (2.6 To 5.0 Centimeters) Of The Face, Ears, Eyelids, Nose, Lips, And/Or",482
+PeaseHealth United General Medical Center,12032,Medium,Skagit,"Repair Of Wound (2.6 To 7.5 Centimeters) Of The Scalp, Underarms, Trunk, Arms, And/Or Legs, Intermediate",1354
+PeaseHealth United General Medical Center,12042,Medium,Skagit,"Repair Of Wound (2.6 To 7.5 Centimeters) Of Neck, Hands, Feet, And/Or Genitals, Intermediate",1145
+PeaseHealth United General Medical Center,19120,Medium,Skagit,"Removal Of 1 Or More Breast Growth, Open Procedure",1311
+PeaseHealth United General Medical Center,20610,Medium,Skagit,"Major Joint Aspiration And/Or Injection, Hip, Knee Or Shoulder",915
+PeaseHealth United General Medical Center,29125,Medium,Skagit,"Arm Splint, Forearm To Hand",355
+PeaseHealth United General Medical Center,29581,Medium,Skagit,Application Of Wound Compression,288
+PeaseHealth United General Medical Center,62270,Medium,Skagit,Spinal Tap For Diagnosis,2271
+PeaseHealth United General Medical Center,64400,Medium,Skagit,Injection Of Anesthetic Agent Trigeminal Nerve,870
+PeaseHealth United General Medical Center,64450,Medium,Skagit,"Injection Of Anesthetic Agent, Other Peripheral Nerve Or Branch",870
+PeaseHealth United General Medical Center,96105,Medium,Skagit,Assessment Of Expressive And Receptive Speech With Interpretation And Report Per Hour,413
+PeaseHealth United General Medical Center,32405,Medium,Skagit,Biopsy Lung Or Chest Tissue,4633
+PeaseHealth United General Medical Center,32551,Medium,Skagit,Inseration Chest Tube,1178
+PeaseHealth United General Medical Center,32555,Medium,Skagit,Removal Of Fluid From Chest Cavity Bilateral With Imaging,6074
+PeaseHealth United General Medical Center,94060,Medium,Skagit,"Measurement And Graphic Recording Of The Amount And Speed Of Breathed Air, Before And Following Medication Administration",763
+PeaseHealth United General Medical Center,94375,Medium,Skagit,Respiratory Diagnostic Testing (Flow Volume Loop) ,752
+PeaseHealth United General Medical Center,94726,Medium,Skagit,Determination Of Lung Volumes Using Plethysmography,281
+PeaseHealth United General Medical Center,94762,Medium,Skagit,Overnight Measurement Of Oxygen Saturation In Blood Using Ear Or Finger Device,246
+PeaseHealth United General Medical Center,77290,Medium,Skagit,"Radiation Oncology Management Of Radiation Therapy, Simulation, Complex",3005
+PeaseHealth United General Medical Center,77295,Medium,Skagit,"Radiation Oncology Management Of Radiation Therapy, 3D",12067
+PeaseHealth United General Medical Center,77301,Medium,Skagit,Radiation Oncology Management Of Modulation Radiotherapy Planning,9886
+PeaseHealth United General Medical Center,77334,Medium,Skagit,Radiation Oncology Radiation Treatment Devices,1792
+PeaseHealth United General Medical Center,77373,Medium,Skagit,Radiation Oncology Stereotactic Body Radiation Therapy 1 Or More Lesions Using Imaging Guidance,6114
+PeaseHealth United General Medical Center,77385,Medium,Skagit,"Radiation Oncology Radiation Therapy Delivery, Simple",3486
+PeaseHealth United General Medical Center,77386,Medium,Skagit,"Radiation Oncology Radiation Therapy Delivery, Complex",3486
+PeaseHealth United General Medical Center,77412,Medium,Skagit,Radiation Oncology Radiation Treatment Delivery 1 Mev >= Complex,1108
+PeaseHealth United General Medical Center,62304,Medium,Skagit,X-Ray Of Lower Spinal Canal With Radiological Supervision And Interpretation Lumbosacral,1761
+PeaseHealth United General Medical Center,71045,Medium,Skagit,"X-Ray Of Chest, 1 View",307
+PeaseHealth United General Medical Center,71046,Medium,Skagit,"X-Ray Of Chest, 2 Vies",408
+PeaseHealth United General Medical Center,71100,Medium,Skagit,"X-Ray Ribs 1 Side, 2 Views",395
+PeaseHealth United General Medical Center,72040,Medium,Skagit,"X-Ray Cervical Spine, 2 To 3 Views",560
+PeaseHealth United General Medical Center,72072,Medium,Skagit,"X-Ray Thoracic Spine, 3 Views",466
+PeaseHealth United General Medical Center,72100,Medium,Skagit,"X-Ray Lumbosacral Spine, 2 To 3 Views",457
+PeaseHealth United General Medical Center,72110,Medium,Skagit,"X-Ray Lumbosacral Spine, 4 Or More Views",590
+PeaseHealth United General Medical Center,73030,Medium,Skagit,"X-Ray Shoulder, 2 Or More Views",391
+PeaseHealth United General Medical Center,73080,Medium,Skagit,"X-Ray Elbow, 3 Or More Views",437
+PeaseHealth United General Medical Center,73140,Medium,Skagit,"X-Ray Finger, 2 Or More Views",462
+PeaseHealth United General Medical Center,73523,Medium,Skagit,"X-Ray Hips And Pelvis, 5 Plus Views",679
+PeaseHealth United General Medical Center,73562,Medium,Skagit,X-Ray Knee 3 Views,452
+PeaseHealth United General Medical Center,73580,Medium,Skagit,X-Ray Knee With Contrast,1289
+PeaseHealth United General Medical Center,73610,Medium,Skagit,"X-Ray Ankle, 3 Or More Views",437
+PeaseHealth United General Medical Center,73630,Medium,Skagit,"X-Ray Foot, 3 Or More Views",406
+PeaseHealth United General Medical Center,74018,Medium,Skagit,"X-Ray Of Abdomen, 1 View",330
+PeaseHealth United General Medical Center,74019,Medium,Skagit,"X-Ray Of Abdomen, 2 Vies",443
+PeaseHealth United General Medical Center,74220,Medium,Skagit,X-Ray Esophagus,1191
+PeaseHealth United General Medical Center,74230,Medium,Skagit,X-Ray Throat And/Or Esophagus,1145
+PeaseHealth United General Medical Center,77075,Medium,Skagit,X-Ray Survey Of Forearm Or Wrist Bone Density,1365
+PeaseHealth United General Medical Center,77077,Medium,Skagit,"X-Ray Imaging Of 2 Or More Joints, Single View",466
+PeaseHealth United General Medical Center,77080,Medium,Skagit,X-Ray Bone Density Measurement Using Dedicated X-Ray Machine,490
+PeaseHealth United General Medical Center,95805,Medium,Skagit,Hours To 14 Consecutive Days Of Recording,1774
+PeaseHealth United General Medical Center,95806,Medium,Skagit,Diagnostic Test For Sleep Disorder,530
+PeaseHealth United General Medical Center,95810,Medium,Skagit,Sleep Monitoring Of Patient In Sleep Lab,4036
+PeaseHealth United General Medical Center,95811,Medium,Skagit,Sleep Monitoring Of Patient (6 Years Or Older) In Sleep Lab,5000
+PeaseHealth United General Medical Center,90832,Medium,Skagit,"Psychotherapy, 30 Minutes With Patient And/Or Family Member ",204
+PeaseHealth United General Medical Center,90834,Medium,Skagit,"Psychotherapy, 45 Minutes With Patient And/Or Family Member ",268
+PeaseHealth United General Medical Center,90837,Medium,Skagit,"Psychotherapy, 60 Minutes With Patient And/Or Family Member  ",396
+PeaseHealth United General Medical Center,90846,Medium,Skagit,Family Psychotherapy With Out Patient,256
+PeaseHealth United General Medical Center,90847,Medium,Skagit,Family Psychotherapy Including Patient,266
+PeaseHealth United General Medical Center,99203,Medium,Skagit,"New Patient Office Or Other Outpatient Visit, Typically 30 Minutes",297
+PeaseHealth United General Medical Center,99204,Medium,Skagit,"New Patient Office Or Other Outpatient Visit, Typically 45 Minutes",445
+PeaseHealth United General Medical Center,99205,Medium,Skagit,"New Patient Office Or Other Outpatient Visit, Typically 60 Minutes",588
+PeaseHealth United General Medical Center,99243,Medium,Skagit,"Patient Office Consultation, Typically 40 Minutes",316
+PeaseHealth United General Medical Center,99244,Medium,Skagit,"Patient Office Consultation, Typically 60 Minutes",472
+PeaseHealth United General Medical Center,99385,Medium,Skagit,Initial New Patient Preventive Medicine Evaluation Age 18-39 Years,349
+PeaseHealth United General Medical Center,99386,Medium,Skagit,Initial New Patient Preventive Medicine Evaluation Age 40-64 Years,403
+Peacehealth Peace Island Medical Center,95117,Medium,San Juan,"Injection Of Incremental Dosages Of Allergen, 2 Or More Injections",74
+Peacehealth Peace Island Medical Center,96402,Medium,San Juan,Hormonal Anti-Neoplastic Chemotherapy Administration Beneath The Skin Or Into Muscle,168
+Peacehealth Peace Island Medical Center,96409,Medium,San Juan,Infusion Of Chemotherapy Into A Vein Using Push Technique,529
+Peacehealth Peace Island Medical Center,96413,Medium,San Juan,Infusion Of Chemotherapy Into A Vein Up To 1 Hour,850
+Peacehealth Peace Island Medical Center,96416,Medium,San Juan,Prolonged Chemotherapy Infusion Into A Vein By Portable Or Implanted Pump More Than 8 Hours,745
+Peacehealth Peace Island Medical Center,96523,Medium,San Juan,Irrigation Of Implanted Venous Access Drug Delivery Device,168
+Peacehealth Peace Island Medical Center,70450,Medium,San Juan,Ct Scan Head Or Brain Without Contrast,2223
+Peacehealth Peace Island Medical Center,70470,Medium,San Juan,Ct Scan Head Or Brain Before And After Contrast,2867
+Peacehealth Peace Island Medical Center,70480,Medium,San Juan,Ct Scan Of Cranial Cavity Without Contrast,3816
+Peacehealth Peace Island Medical Center,70482,Medium,San Juan,Ct Scan Of Cranial Cavity Before And After Contrast,1338
+Peacehealth Peace Island Medical Center,70486,Medium,San Juan,Ct Scan Of Face Without Contrast,3089
+Peacehealth Peace Island Medical Center,70488,Medium,San Juan,Ct Scan Of Face Before And After Contrast,1606
+Peacehealth Peace Island Medical Center,70490,Medium,San Juan,Ct Scan Of Neck Without Contrast,2916
+Peacehealth Peace Island Medical Center,70491,Medium,San Juan,Ct Scan Of Neck With Contrast,3604
+Peacehealth Peace Island Medical Center,71250,Medium,San Juan,Ct Scan Chest Without Contrast,2861
+Peacehealth Peace Island Medical Center,71260,Medium,San Juan,Ct Scan Chest With Contrast,3598
+Peacehealth Peace Island Medical Center,71270,Medium,San Juan,Ct Scan Chest Before And After Contrast,4426
+Peacehealth Peace Island Medical Center,72125,Medium,San Juan,Ct Scan Of Cervical Spine Without Contrast,2910
+Peacehealth Peace Island Medical Center,72128,Medium,San Juan,Ct Scan Thoracic Spine Without Contrast,2883
+Peacehealth Peace Island Medical Center,72131,Medium,San Juan,Ct Scan Of Lumbar Spine Without Contrast,2867
+Peacehealth Peace Island Medical Center,72132,Medium,San Juan,Ct Scan Of Lumbar Spine With Contrast,1507
+Peacehealth Peace Island Medical Center,72192,Medium,San Juan,Ct Scan Of Pelvis Without Contrast,2238
+Peacehealth Peace Island Medical Center,72193,Medium,San Juan,Ct Scan Pelvis With Contrast,3663
+Peacehealth Peace Island Medical Center,73200,Medium,San Juan,Ct Scan Of Arm Without Contrast,2861
+Peacehealth Peace Island Medical Center,73700,Medium,San Juan,Ct Scan Leg Without Contrast,2873
+Peacehealth Peace Island Medical Center,74150,Medium,San Juan,Ct Scan Abdomen Without Contrast,2244
+Peacehealth Peace Island Medical Center,74160,Medium,San Juan,Ct Scan Abdomen With Contrast,3674
+Peacehealth Peace Island Medical Center,74170,Medium,San Juan,Ct Scan Abdomen Before And After Contrast,4292
+Peacehealth Peace Island Medical Center,74174,Medium,San Juan,Ct Scan Of Abdomen And Pelvis Blood Vessels,6936
+Peacehealth Peace Island Medical Center,74175,Medium,San Juan,Ct Scan Of Abdominal Blood Vessels With Contrast,1271
+Peacehealth Peace Island Medical Center,74176,Medium,San Juan,Ct Scan Of Abdomen And Pelvis Without Contrast,3116
+Peacehealth Peace Island Medical Center,74177,Medium,San Juan,Ct Scan Of Abdomen And Pelvis With Contrast,4449
+Peacehealth Peace Island Medical Center,74178,Medium,San Juan,Ct Scan Abdomen And Pelvis Before And After Contrast,5305
+Peacehealth Peace Island Medical Center,75635,Medium,San Juan,Ct Scan Of Abdominal Aorta And Both Leg Arteries With Contrast,5998
+Peacehealth Peace Island Medical Center,76536,Medium,San Juan,Ultrasound Of Head And Neck,880
+Peacehealth Peace Island Medical Center,76642,Medium,San Juan,"Ultrasound Of Breast, Limited Area",488
+Peacehealth Peace Island Medical Center,76700,Medium,San Juan,"Ultrasound Abdomen, Complete",961
+Peacehealth Peace Island Medical Center,76705,Medium,San Juan,"Ultrasound Abdomen, Limited Area",753
+Peacehealth Peace Island Medical Center,76770,Medium,San Juan,Ultrasound Behind Abdominal Cavity,916
+Peacehealth Peace Island Medical Center,76775,Medium,San Juan,"Ultrasound Behind Abdominal Cavity, Limited",677
+Peacehealth Peace Island Medical Center,76801,Medium,San Juan,Ultrasound Of Pregnant Uterus,792
+Peacehealth Peace Island Medical Center,76805,Medium,San Juan,"Ultrasound Pregnant Uterus, Greater Or Equal To 14 Weeks Gestation 1 Fetus",1164
+Peacehealth Peace Island Medical Center,76811,Medium,San Juan,"Ultrasound Pregnant Uterus, Detailed, Single Or First Fetus",1033
+Peacehealth Peace Island Medical Center,76830,Medium,San Juan,"Ultrasound Pelvis, Vaginal Approach",555
+Peacehealth Peace Island Medical Center,76856,Medium,San Juan,"Ultrasound Pelvis, Complete, Non Pregnant",862
+Peacehealth Peace Island Medical Center,76870,Medium,San Juan,Ultrasound Of Scrotum,874
+Peacehealth Peace Island Medical Center,76882,Medium,San Juan,"Ultrasound Of Leg Or Arm, Limited Area",194
+Peacehealth Peace Island Medical Center,93880,Medium,San Juan,Ultrasound Scanning Of Blood Flow (Outside The Brain) On Both Sides Of Head And Neck,1250
+Peacehealth Peace Island Medical Center,93971,Medium,San Juan,Ultrasound Scan Of Veins Of One Arm Or Leg Or Limited Including Assessment Of Compression And Functional Maneuvers,1041
+Peacehealth Peace Island Medical Center,92960,Medium,San Juan,Electric Cardioversion External,748
+Peacehealth Peace Island Medical Center,93005,Medium,San Juan,"Routine Electrocardiogram (Ekg) With Tracing, Using At Least 12 Leads",213
+Peacehealth Peace Island Medical Center,93306,Medium,San Juan,"Ultrasound Examination Of Heart Including Color-Depicted Blood Flow Rate, Direction, And Valve Function",2218
+Peacehealth Peace Island Medical Center,93308,Medium,San Juan,Follow-Up Or Limited Ultrasound Examination Of Heart,528
+Peacehealth Peace Island Medical Center,96365,Medium,San Juan,"Infusion Into A Vein For Therapy, Prevention, Or Diagnosis Up To 1 Hour",445
+Peacehealth Peace Island Medical Center,96372,Medium,San Juan,"Injection Beneath The Skin Or Into Muscle For Therapy, Diagnosis, Or Prevention",116
+Peacehealth Peace Island Medical Center,96374,Medium,San Juan,"Injection Of Drug Or Substance Into A Vein For Therapy, Diagnosis, Or Prevention",307
+Peacehealth Peace Island Medical Center,70551,Medium,San Juan,Mri Scan Brain Withoug Contrast,3867
+Peacehealth Peace Island Medical Center,70553,Medium,San Juan,Mri Scan Brain Without And Then With Contrasst,4917
+Peacehealth Peace Island Medical Center,72141,Medium,San Juan,Mri Scan Cervical Spine Without Contrast,3327
+Peacehealth Peace Island Medical Center,72146,Medium,San Juan,Mri Scan Thoracic Spine Without Contrast,3489
+Peacehealth Peace Island Medical Center,72148,Medium,San Juan,Mri Scan Lumbar Spine Without Contrast,3317
+Peacehealth Peace Island Medical Center,73221,Medium,San Juan,Mri Scan Arm Joint Without Contrast,2777
+Peacehealth Peace Island Medical Center,73721,Medium,San Juan,Mri Scan Of Leg Joint Without Contrast,2625
+Peacehealth Peace Island Medical Center,77065,Medium,San Juan,Diagnostic Mammography Of One Breasts With Computer Aided Detection,297
+Peacehealth Peace Island Medical Center,77066,Medium,San Juan,Diagnostic Mammography Of Both Breasts With Computer Aided Detection,380
+Peacehealth Peace Island Medical Center,77067,Medium,San Juan,Screening Mammography Of Both Breasts With Computer Aided Detection,314
+Peacehealth Peace Island Medical Center,36415,Medium,San Juan,Lab Blood Draw,40
+Peacehealth Peace Island Medical Center,36430,Medium,San Juan,Lab Blood Transfusion,471
+Peacehealth Peace Island Medical Center,36591,Medium,San Juan,Lab Blood Draw Cvc / Vad,319
+Peacehealth Peace Island Medical Center,36592,Medium,San Juan,Lab Blood Collection From Established Picc,319
+Peacehealth Peace Island Medical Center,36593,Medium,San Juan,Lab Declotting Infusion Of Central Venous,298
+Peacehealth Peace Island Medical Center,80048,Medium,San Juan,"Lab Blood Test, Total Calcium",68
+Peacehealth Peace Island Medical Center,80051,Medium,San Juan,Lab Blood Test Electrolyte,56
+Peacehealth Peace Island Medical Center,80053,Medium,San Juan,"Lab Blood Test, Comprehensive Metabolic Panel",68
+Peacehealth Peace Island Medical Center,80061,Medium,San Juan,Lab Blood Test Lipid,119
+Peacehealth Peace Island Medical Center,80069,Medium,San Juan,Lab Blood Test Kidney Function,68
+Peacehealth Peace Island Medical Center,80076,Medium,San Juan,Lab Blood Test Liver Function,56
+Peacehealth Peace Island Medical Center,80156,Medium,San Juan,"Lab Carbamazepine Level, Total",126
+Peacehealth Peace Island Medical Center,80162,Medium,San Juan,Lab Digoxin Level,107
+Peacehealth Peace Island Medical Center,80164,Medium,San Juan,Lab Valproic Acid Level,81
+Peacehealth Peace Island Medical Center,80175,Medium,San Juan,Lab Lamotrigine Level,195
+Peacehealth Peace Island Medical Center,80177,Medium,San Juan,Lab Levetiracetam Level,217
+Peacehealth Peace Island Medical Center,80178,Medium,San Juan,Lab Lithium Level,54
+Peacehealth Peace Island Medical Center,80197,Medium,San Juan,Lab Tacrolimus Level,251
+Peacehealth Peace Island Medical Center,80305,Medium,San Juan,Lab Drug Testing,116
+Peacehealth Peace Island Medical Center,80307,Medium,San Juan,Lab Drug Test Prsmv Chem Anlyzr,236
+Peacehealth Peace Island Medical Center,81001,Medium,San Juan,Lab Automated Urinalysis Test With Examination Using Microscope,63
+Peacehealth Peace Island Medical Center,81003,Medium,San Juan,Lab Automated Urinalysis Test Without Microspcope,33
+Peacehealth Peace Island Medical Center,81291,Medium,San Juan,"Lab Gene Analysis (5, 10-Methylenetetrahydrofolate Reductase) Common Variants",315
+Peacehealth Peace Island Medical Center,82024,Medium,San Juan,Lab Adrenocorticotropic Hormone (Acth) Level,283
+Peacehealth Peace Island Medical Center,82043,Medium,San Juan,Lab Urine Microalbumin (Protein) Level,54
+Peacehealth Peace Island Medical Center,82105,Medium,San Juan,"Lab Alpha-Fetoprotein (Afp) Level, Serum",103
+Peacehealth Peace Island Medical Center,82140,Medium,San Juan,Lab Ammonia Level,158
+Peacehealth Peace Island Medical Center,82175,Medium,San Juan,Lab Arsenic Level,52
+Peacehealth Peace Island Medical Center,82247,Medium,San Juan,"Lab Bilirubin Level, Total",54
+Peacehealth Peace Island Medical Center,82270,Medium,San Juan,Lab Stool Analysis For Blood To Screen For Colon Tumors,34
+Peacehealth Peace Island Medical Center,82272,Medium,San Juan,Lab Stool Analysis For Blood,40
+Peacehealth Peace Island Medical Center,82274,Medium,San Juan,Lab Stool Analysis For Blood Fecal,101
+Peacehealth Peace Island Medical Center,82306,Medium,San Juan,Lab Vitamin D-3 Level,180
+Peacehealth Peace Island Medical Center,82310,Medium,San Juan,"Lab Calcium Level, Total",63
+Peacehealth Peace Island Medical Center,82340,Medium,San Juan,Lab Urine Calcium Level,61
+Peacehealth Peace Island Medical Center,82365,Medium,San Juan,Lab Infrared Analysis Of Stone,200
+Peacehealth Peace Island Medical Center,82378,Medium,San Juan,Lab Carcinoembryonic Antigen (Cea) Protein Level,91
+Peacehealth Peace Island Medical Center,82495,Medium,San Juan,Lab Chromium Level To Test For Poisoning Or Deficiency ,198
+Peacehealth Peace Island Medical Center,82533,Medium,San Juan,"Lab Cortisol (Hormone) Measurement, Total",123
+Peacehealth Peace Island Medical Center,82550,Medium,San Juan,"Lab Creatine Kinase (Cardiac Enzyme) Level, Total",81
+Peacehealth Peace Island Medical Center,82565,Medium,San Juan,Lab Blood Creatinine Level,54
+Peacehealth Peace Island Medical Center,82607,Medium,San Juan,Lab Cyanocobalamin (Vitamin B-12) Level,86
+Peacehealth Peace Island Medical Center,82627,Medium,San Juan,Lab Dehydroepiandrosterone (Dhea-S) Hormone Level,164
+Peacehealth Peace Island Medical Center,82656,Medium,San Juan,Lab Pancreatic Elastase (Enzyme) Measurement,104
+Peacehealth Peace Island Medical Center,82670,Medium,San Juan,Lab Estradiol (Hormone) Level,222
+Peacehealth Peace Island Medical Center,82728,Medium,San Juan,Lab Ferritin (Blood Protein) Level,70
+Peacehealth Peace Island Medical Center,82746,Medium,San Juan,"Lab Folic Acid Level, Serum",128
+Peacehealth Peace Island Medical Center,82784,Medium,San Juan,"Lab Gammaglobulin (Immune System Protein) Measurement, Iga,Igd,Igg,Igm,Ea",86
+Peacehealth Peace Island Medical Center,82785,Medium,San Juan,Lab Ige (Immune System Protein) Level,101
+Peacehealth Peace Island Medical Center,82941,Medium,San Juan,Lab Gastrin (Gi Tract Hormone) Level,253
+Peacehealth Peace Island Medical Center,82950,Medium,San Juan,Lab Blood Glucose (Sugar) Level After Receiving Dose Of Glucose,56
+Peacehealth Peace Island Medical Center,82955,Medium,San Juan,Lab G6Pd (Enzyme) Level,264
+Peacehealth Peace Island Medical Center,83001,Medium,San Juan,"Lab Gonadotropin, Follicle Stimulating (Reproductive Hormone) Level",72
+Peacehealth Peace Island Medical Center,83002,Medium,San Juan,"Lab Gonadotropin, Luteinizing (Reproductive Hormone) Level",80
+Peacehealth Peace Island Medical Center,83036,Medium,San Juan,Lab Hemoglobin A1C Level,55
+Peacehealth Peace Island Medical Center,83516,Medium,San Juan,Lab Analysis Of Substance Using Immunoassay Technique,116
+Peacehealth Peace Island Medical Center,83519,Medium,San Juan,Lab Measurement Of Substance Using Immunoassay Technique By Radiommunoassay,242
+Peacehealth Peace Island Medical Center,83550,Medium,San Juan,Lab Iron Binding Capacity,91
+Peacehealth Peace Island Medical Center,83605,Medium,San Juan,Lab Lactic Acid Level,103
+Peacehealth Peace Island Medical Center,83655,Medium,San Juan,Lab Lead Level,56
+Peacehealth Peace Island Medical Center,83704,Medium,San Juan,Lab Lipoprotein Measurement,123
+Peacehealth Peace Island Medical Center,83735,Medium,San Juan,Lab Magnesium Level,99
+Peacehealth Peace Island Medical Center,83883,Medium,San Juan,"Lab Nephelometry, Test Method Using Light",231
+Peacehealth Peace Island Medical Center,83921,Medium,San Juan,Lab Organic Acid Level,163
+Peacehealth Peace Island Medical Center,83935,Medium,San Juan,Lab Urine Osmolality (Concentration) Measurement,87
+Peacehealth Peace Island Medical Center,83970,Medium,San Juan,Lab Parathormone (Parathyroid Hormone) Level,317
+Peacehealth Peace Island Medical Center,84134,Medium,San Juan,Lab Prealbumin (Protein) Level,135
+Peacehealth Peace Island Medical Center,84144,Medium,San Juan,Lab Progesterone (Reproductive Hormone) Level,89
+Peacehealth Peace Island Medical Center,84153,Medium,San Juan,"Lab Prostate Specific Antigen Measurement, Total",149
+Peacehealth Peace Island Medical Center,84154,Medium,San Juan,"Lab Prostate Specific Antigen Measurement, Free",118
+Peacehealth Peace Island Medical Center,84156,Medium,San Juan,"Lab Total Protein Level, Urine",54
+Peacehealth Peace Island Medical Center,84165,Medium,San Juan,"Lab Protein Measurement, Serum",59
+Peacehealth Peace Island Medical Center,84166,Medium,San Juan,"Lab Protein Measurement, Body Fluid",118
+Peacehealth Peace Island Medical Center,84305,Medium,San Juan,Lab Somatomedin (Growth Factor) Level,160
+Peacehealth Peace Island Medical Center,84402,Medium,San Juan,Lab Testosterone (Hormone) Level. Free,170
+Peacehealth Peace Island Medical Center,84403,Medium,San Juan,"Lab Testosterone (Hormone) Level, Total",154
+Peacehealth Peace Island Medical Center,84425,Medium,San Juan,Lab Vitamin B-1 (Thiamine) Level,104
+Peacehealth Peace Island Medical Center,84439,Medium,San Juan,"Lab Thyroxine (Thyroid Chemical) Measurement, Free",59
+Peacehealth Peace Island Medical Center,84443,Medium,San Juan,"Lab Blood Test, Thyroid Stimulating Hormone (Tsh)",103
+Peacehealth Peace Island Medical Center,84481,Medium,San Juan,"Lab Thyroid Hormone, Ft-3 Measurement",130
+Peacehealth Peace Island Medical Center,84484,Medium,San Juan,"Lab Troponin (Protein) Analysis, Quant",225
+Peacehealth Peace Island Medical Center,84550,Medium,San Juan,"Lab Uric Acid Level, Blood",56
+Peacehealth Peace Island Medical Center,84702,Medium,San Juan,"Lab Gonadotropin, Chorionic (Reproductive Hormone) Level",101
+Peacehealth Peace Island Medical Center,84703,Medium,San Juan,Lab Gonadotropin (Reproductive Hormone) Analysis,109
+Peacehealth Peace Island Medical Center,85025,Medium,San Juan,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test With Wbc Diff",79
+Peacehealth Peace Island Medical Center,85027,Medium,San Juan,"Lab Complete Blood Cell Count (Red Cells, White Blood Cell, Platelets), Automated Test",65
+Peacehealth Peace Island Medical Center,85379,Medium,San Juan,Lab D-Dimer Quant,236
+Peacehealth Peace Island Medical Center,85610,Medium,San Juan,Lab Prothrombin Time,70
+Peacehealth Peace Island Medical Center,85613,Medium,San Juan,"Lab Russell Viper Venom Time,Diluted",135
+Peacehealth Peace Island Medical Center,85652,Medium,San Juan,"Lab Red Blood Cell Sedimentation Rate, To Detect Inflammation; Automated",43
+Peacehealth Peace Island Medical Center,85730,Medium,San Juan,"Lab Thromboplastin Time, Partial (Ptt), Plasma Or Whole Bld",65
+Peacehealth Peace Island Medical Center,86003,Medium,San Juan,Lab Measurement Of Antibody (Ige) To Allergic Substance,97
+Peacehealth Peace Island Medical Center,86038,Medium,San Juan,Lab Screening Test For Autoimmune Disorder,79
+Peacehealth Peace Island Medical Center,86140,Medium,San Juan,Lab Measurement C-Reactive Protein For Detection Of Infection Or Inflammation,50
+Peacehealth Peace Island Medical Center,86147,Medium,San Juan,Lab Cardiolipin Antibody (Tissue Antibody) Measurement,103
+Peacehealth Peace Island Medical Center,86162,Medium,San Juan,Lab Measurement Of Complement (Immune System Proteins),129
+Peacehealth Peace Island Medical Center,86200,Medium,San Juan,Lab Measurement Of Antibody For Rheumatoid Arthritis Assessment,104
+Peacehealth Peace Island Medical Center,86235,Medium,San Juan,"Lab Extractable Nuclear Antigen, Each",106
+Peacehealth Peace Island Medical Center,86300,Medium,San Juan,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 15-3,114
+Peacehealth Peace Island Medical Center,86301,Medium,San Juan,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 19-9,153
+Peacehealth Peace Island Medical Center,86304,Medium,San Juan,Lab Immunologic Analysis For Detection Of Tumor Antigen Ca 125,123
+Peacehealth Peace Island Medical Center,86334,Medium,San Juan,Lab Immunologic Analysis Technique On Serum,239
+Peacehealth Peace Island Medical Center,86335,Medium,San Juan,Lab Immunologic Analysis Technique On Body Fluid,246
+Peacehealth Peace Island Medical Center,86336,Medium,San Juan,Lab Inhibin A (Reproductive Organ Hormone) Measurement,222
+Peacehealth Peace Island Medical Center,86376,Medium,San Juan,Lab Microsomal Antibodies (Autoantibody) Measurement,116
+Peacehealth Peace Island Medical Center,86480,Medium,San Juan,Lab Tuberculosis Test,265
+Peacehealth Peace Island Medical Center,86664,Medium,San Juan,"Lab Analysis For Antibody To Epstein-Barr Virus (Mononucleosis Virus), Nuclear Antigen",223
+Peacehealth Peace Island Medical Center,86665,Medium,San Juan,"Lab Analysis For Antibody To Epstein-Barr Virus (Mononucleosis Virus), Viral Capsid",129
+Peacehealth Peace Island Medical Center,86696,Medium,San Juan,"Lab Analysis For Antibody To Herpes Simplex Virus, Type 2",105
+Peacehealth Peace Island Medical Center,86765,Medium,San Juan,Lab Analysis For Antibody To Rubeola (Measles Virus),78
+Peacehealth Peace Island Medical Center,86778,Medium,San Juan,Lab Analysis For Antibody (Igm) To Toxoplasma (Parasite),48
+Peacehealth Peace Island Medical Center,86787,Medium,San Juan,Lab Analysis For Antibody To Varicella-Zoster Virus (Chicken Pox),92
+Peacehealth Peace Island Medical Center,86800,Medium,San Juan,Lab Thyroglobulin (Thyroid Protein) Antibody Measurement,102
+Peacehealth Peace Island Medical Center,86803,Medium,San Juan,Lab Hepatitis C Antibody Measurement,158
+Peacehealth Peace Island Medical Center,86850,Medium,San Juan,Lab Screening Test For Red Blood Cell Antibodies,277
+Peacehealth Peace Island Medical Center,86870,Medium,San Juan,Lab Identification Of Red Blood Cell Antibodies,189
+Peacehealth Peace Island Medical Center,86900,Medium,San Juan,Lab Blood Group Typing (Abo),69
+Peacehealth Peace Island Medical Center,86920,Medium,San Juan,Lab Blood Unit Compatibility Test Spin,120
+Peacehealth Peace Island Medical Center,86923,Medium,San Juan,Lab Blood Unit Compatibility Test Electric,89
+Peacehealth Peace Island Medical Center,87040,Medium,San Juan,Lab Bacterial Blood Culture,123
+Peacehealth Peace Island Medical Center,87070,Medium,San Juan,Lab Bacterial Culture,66
+Peacehealth Peace Island Medical Center,87075,Medium,San Juan,Lab Bacterial Culture Except Blood,130
+Peacehealth Peace Island Medical Center,87081,Medium,San Juan,Lab Screening Test For Pathogenic Organisms,59
+Peacehealth Peace Island Medical Center,87086,Medium,San Juan,"Lab Bacterial Colony Count, Urine",106
+Peacehealth Peace Island Medical Center,87116,Medium,San Juan,Lab Culture For Acid-Fast Bacilli,72
+Peacehealth Peace Island Medical Center,87147,Medium,San Juan,"Lab Cult Typing,Immunologic,Nonfluore",83
+Peacehealth Peace Island Medical Center,87209,Medium,San Juan,Lab Special Stain For Parasites,104
+Peacehealth Peace Island Medical Center,87210,Medium,San Juan,Lab Smear For Infectious Agents,45
+Peacehealth Peace Island Medical Center,87254,Medium,San Juan,Lab Virus Isolation,69
+Peacehealth Peace Island Medical Center,87255,Medium,San Juan,Lab Virus Isolation Other Than By Non Cytopathic Effect,223
+Peacehealth Peace Island Medical Center,87329,Medium,San Juan,"Lab Detection Test For Giardia (Intestinal Parasite), Eia",106
+Peacehealth Peace Island Medical Center,87338,Medium,San Juan,"Lab Qualitative Or Semiquantitative Detection Test For Helicobacter Pylori In Stool, Multiple-",253
+Peacehealth Peace Island Medical Center,87389,Medium,San Juan,Lab Detection Test For Hiv-1 And Hiv-2,92
+Peacehealth Peace Island Medical Center,87449,Medium,San Juan,"Lab Immunologic Analysis For Detection Of Organism, Qual, Multi, Nos",129
+Peacehealth Peace Island Medical Center,87480,Medium,San Juan,"Lab Detection Test For Candida Species (Yeast), Direct",160
+Peacehealth Peace Island Medical Center,87491,Medium,San Juan,"Lab Detection Test For Chlamydia, Amplified Probe",264
+Peacehealth Peace Island Medical Center,87497,Medium,San Juan,"Lab Detection Test For Cytomegalovirus, Quantification",407
+Peacehealth Peace Island Medical Center,87502,Medium,San Juan,Lab Detection Test For Multiple Types Influenza Virus,327
+Peacehealth Peace Island Medical Center,87510,Medium,San Juan,"Lab Detection Test For Gardnerella Vaginalis (Bacteria), Direct",160
+Peacehealth Peace Island Medical Center,87517,Medium,San Juan,"Lab Detection Test For Hepatitis B Virus, Quant",174
+Peacehealth Peace Island Medical Center,87522,Medium,San Juan,"Lab Detection Test For Hepatitis C Virus, Quant",480
+Peacehealth Peace Island Medical Center,87529,Medium,San Juan,"Lab Detection Test For Herpes Simplex Virus, By Rapid Pcr",258
+Peacehealth Peace Island Medical Center,87536,Medium,San Juan,"Lab Detection Test For Hiv-1 Virus, Pcr, Quant",645
+Peacehealth Peace Island Medical Center,87591,Medium,San Juan,"Lab Detection Test For Neisseria Gonorrhoeae (Gonorrhoeae Bacteria), Urine",142
+Peacehealth Peace Island Medical Center,87631,Medium,San Juan,Lab Detection Test For Multiple Types Of Respiratory Virus 3-5 Targets,428
+Peacehealth Peace Island Medical Center,88184,Medium,San Juan,"Lab Flow Cytometry Technique For Dna Or Cell Analysis, Tc 1 Marker",263
+Peacehealth Peace Island Medical Center,89321,Medium,San Juan,Lab Semen Analysis For Sperm Presence,47
+Peacehealth Peace Island Medical Center,99000,Medium,San Juan,Lab Handling And/Or Conveyance Of Specimen For Transfer To A Laboratory,42
+Peacehealth Peace Island Medical Center,99195,Medium,San Juan,Lab Therapeutic Drawing of blood for a medical problem,251
+Peacehealth Peace Island Medical Center,97110,Medium,San Juan,"Therapeutic Exercise To Develop Strength, Endurance, Range Of Motion, And Flexibility,",150
+Peacehealth Peace Island Medical Center,36600,Medium,San Juan,Lab Arterial Blood Collection,131
+Peacehealth Peace Island Medical Center,12031,Medium,San Juan,"Repair Of Wound (2.5 Centimeters Or Less) Of The Scalp, Underarms, Trunk, Arms, And/Or, Intermediate",630
+Peacehealth Peace Island Medical Center,62270,Medium,San Juan,Spinal Tap For Diagnosis,543
+Peacehealth Peace Island Medical Center,64400,Medium,San Juan,Injection Of Anesthetic Agent Trigeminal Nerve,396
+Peacehealth Peace Island Medical Center,64450,Medium,San Juan,"Injection Of Anesthetic Agent, Other Peripheral Nerve Or Branch",543
+Peacehealth Peace Island Medical Center,71046,Medium,San Juan,"X-Ray Of Chest, 2 Vies",360
+Peacehealth Peace Island Medical Center,71100,Medium,San Juan,"X-Ray Ribs 1 Side, 2 Views",362
+Peacehealth Peace Island Medical Center,71101,Medium,San Juan,"X-Ray Ribs 1 Side, 3 Or More Views",437
+Peacehealth Peace Island Medical Center,72050,Medium,San Juan,"X-Ray Cervical Spine, 4 To 5 Views",635
+Peacehealth Peace Island Medical Center,72070,Medium,San Juan,"X-Ray Thoracic Spine, 2 Views",377
+Peacehealth Peace Island Medical Center,72072,Medium,San Juan,"X-Ray Thoracic Spine, 3 Views",428
+Peacehealth Peace Island Medical Center,72100,Medium,San Juan,"X-Ray Lumbosacral Spine, 2 To 3 Views",415
+Peacehealth Peace Island Medical Center,72110,Medium,San Juan,"X-Ray Lumbosacral Spine, 4 Or More Views",554
+Peacehealth Peace Island Medical Center,72170,Medium,San Juan,"X-Ray Pelvis, 1 To 2 Views",334
+Peacehealth Peace Island Medical Center,72220,Medium,San Juan,"X-Ray Pelvis, 2 Or More Views",334
+Peacehealth Peace Island Medical Center,73030,Medium,San Juan,"X-Ray Shoulder, 2 Or More Views",397
+Peacehealth Peace Island Medical Center,73080,Medium,San Juan,"X-Ray Elbow, 3 Or More Views",400
+Peacehealth Peace Island Medical Center,73100,Medium,San Juan,"X-Ray Wrist, 2 Views",385
+Peacehealth Peace Island Medical Center,73110,Medium,San Juan,"X-Ray Wrist, 3 Or Mor Views",511
+Peacehealth Peace Island Medical Center,73130,Medium,San Juan,"X-Ray Hand, 3 Or More Views",385
+Peacehealth Peace Island Medical Center,73140,Medium,San Juan,"X-Ray Finger, 2 Or More Views",423
+Peacehealth Peace Island Medical Center,73502,Medium,San Juan,"X-Ray Hip And Pelvis, 2 To 3 Views",447
+Peacehealth Peace Island Medical Center,73522,Medium,San Juan,"X-Ray Hips And Pelvis, 3 To 4 Views",297
+Peacehealth Peace Island Medical Center,73523,Medium,San Juan,"X-Ray Hips And Pelvis, 5 Plus Views",601
+Peacehealth Peace Island Medical Center,73560,Medium,San Juan,X-Ray Knee 1 Or 2 Views,367
+Peacehealth Peace Island Medical Center,73562,Medium,San Juan,X-Ray Knee 3 Views,514
+Peacehealth Peace Island Medical Center,73564,Medium,San Juan,X-Ray Knee 4 Or More Views,677
+Peacehealth Peace Island Medical Center,73565,Medium,San Juan,X-Ray Knee Bilateral Standing,433
+Peacehealth Peace Island Medical Center,73590,Medium,San Juan,"X-Ray Lower Leg, 2 Views",316
+Peacehealth Peace Island Medical Center,73610,Medium,San Juan,"X-Ray Ankle, 3 Or More Views",444
+Peacehealth Peace Island Medical Center,73630,Medium,San Juan,"X-Ray Foot, 3 Or More Views",372
+Peacehealth Peace Island Medical Center,74018,Medium,San Juan,"X-Ray Of Abdomen, 1 View",263
+Peacehealth Peace Island Medical Center,74019,Medium,San Juan,"X-Ray Of Abdomen, 2 Vies",331
+Peacehealth Peace Island Medical Center,77077,Medium,San Juan,"X-Ray Imaging Of 2 Or More Joints, Single View",403
+Peacehealth Peace Island Medical Center,77080,Medium,San Juan,X-Ray Bone Density Measurement Using Dedicated X-Ray Machine,668
+Peacehealth Peace Island Medical Center,90837,Medium,San Juan,"Psychotherapy, 60 Minutes With Patient And/Or Family Member  ",324
+Peacehealth Peace Island Medical Center,90846,Medium,San Juan,Family Psychotherapy With Out Patient,210
+Peacehealth Peace Island Medical Center,90847,Medium,San Juan,Family Psychotherapy Including Patient,217
+Peacehealth Peace Island Medical Center,99203,Medium,San Juan,"New Patient Office Or Other Outpatient Visit, Typically 30 Minutes",243
+Peacehealth Peace Island Medical Center,99204,Medium,San Juan,"New Patient Office Or Other Outpatient Visit, Typically 45 Minutes",365
+Peacehealth Peace Island Medical Center,99205,Medium,San Juan,"New Patient Office Or Other Outpatient Visit, Typically 60 Minutes",481
+Peacehealth Peace Island Medical Center,99243,Medium,San Juan,"Patient Office Consultation, Typically 40 Minutes",259
+Peacehealth Peace Island Medical Center,99244,Medium,San Juan,"Patient Office Consultation, Typically 60 Minutes",387
+Peacehealth Peace Island Medical Center,99385,Medium,San Juan,Initial New Patient Preventive Medicine Evaluation Age 18-39 Years,286
+Peacehealth Peace Island Medical Center,99386,Medium,San Juan,Initial New Patient Preventive Medicine Evaluation Age 40-64 Years,330

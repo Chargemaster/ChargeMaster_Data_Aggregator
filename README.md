@@ -28,4 +28,39 @@ Chargemaster can be used to scrape CDM files from Washington State Hospital webp
  * __file_formatting.py__  : Not yet developed - pulls relevant columns from individual datasets and merges into master dataset for analysis.
  * __dashboard.ipynb__   :  Dashboard to visualize hospital prices by Diagnosis-related Group (DRG) code.
 
+## Use Case
 
+A prospective patient needing non-immediate medical attention may be more focused on balancing care with financial burden.
+
+This could be calculating the cost of a one-time procedure along with consistent medical attention needed like refilling prescriptions, check-ups every X months, along with hospital size and location (E.g. They probably don't want to drive hours to a hospital they have to go to somewhat regualrly). The user can look at the dashboard, filter by type of service, hospital size, and county in Washington state. They can then see the hospitals fitting the criteria, their locations, price distribution, and compare their costs side to side for the specific services and/or medical goods/attention they may need.
+
+## Dashboard Design
+
+We decided to include four visualizations and 3 filters in our dashboard for users to view hospitals and procedure prices based on their needs. 
+
+### Filters
+
+ * DRG Code  :  Diagnosis-related group (DRG) is a system which classifies hospital cases according to certain groups, also referred to as DRGs, which are expected to have similar hospital resource use (cost). They have been used in the United States since 1983. Users can select DRG codes from this filter to narrow down the data and focus on specific diagnosis, treatment and length of hospital stay they are looking for.
+ * County   :  Users can select from counties in the Washington state that are closer to where they live.
+ * Hospital Size   :  Users can select whether they want to search for small, medium, or large hospitals that provide they procedure they are looking for.
+
+
+### Visualizations
+
+Dashboard link: https://cse583-chargemaster.herokuapp.com/
+
+#### Geo Map
+
+The geo map uses latitude and longitude to plot the location of hospitals in WA. We put this on the top left because users can have an overview of the locations and see whether there are hospitals that provide procedures in the county they selected. Users can also view basic information such as address and hospital size by hovering their curser on the dot. 
+
+#### Price Distribution
+
+After selecting the DRG code(s), the second chart will show the price distribution of the procedures and the average price. Users can get a better understanding of the price of the selected code to make estimation.
+
+#### Price Comparison
+
+The third chart allows users to make comparison of the prices among hospitals in different counties and size. They can compare the prices of the same procedure from small, medium, and large hospitals in the same county, or compare the prices of the same procedures among same-size hospitals in different counties. This chart helps patients find the hospital with the lowest price under the selected filters.
+
+#### Detailed Information
+
+After having a better understanding of from a bigger scope, some patients might still want to look at detailed information of the hospital, procedure, and the price, so we put a table that shows text of the search result.

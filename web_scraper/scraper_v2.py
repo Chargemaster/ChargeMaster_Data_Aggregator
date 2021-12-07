@@ -9,30 +9,29 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 wd = webdriver.Chrome('chromedriver',chrome_options=chrome_options)
 """
 import re
-import constant
-#import pandas as pd
-import os, json, requests
 from time import time
+import os
+import errno
+import shutil
+import uuid
+import json
+
+from urllib.parse import urljoin
+from urllib.request import urlretrieve
+from urllib3.exceptions import MaxRetryError
+
+import requests
+
+
 #import numpy as np
 from bs4 import BeautifulSoup
 from requests.exceptions import InvalidURL, SSLError, ConnectionError
-from urllib3.exceptions import NewConnectionError, LocationParseError
-from selenium import webdriver
-import urllib
-from urllib.request import urlretrieve
-from urllib3.exceptions import MaxRetryError
+
+import constant
+
 from selenium.common.exceptions import ElementNotInteractableException, InvalidArgumentException
-
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-
-import errno
-import os
-import shutil
-import uuid
-
-from urllib.parse import urljoin
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless')
@@ -40,7 +39,7 @@ chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
 
 hospital_urls = json.load(open(constant.URLS_PATH))
-
+blacklist = json.load(open(constant.BLACKLIST_PATH))
 
 def load_webdriver():
     return webdriver.Chrome(constant.CHROMEDRIVER_PATH, options=chrome_options)
@@ -96,7 +95,7 @@ def is_blacklist(url):
 
 def selenium_handle(url, time_diff):
     print(f"Selenium handling: {url}")
-    if time_diff > MAX_RUN_TIME: return
+    if time_diff > constant.MAX_RUN_TIME: return
     #print("Selenium started", time_diff)
     wd = load_webdriver()
     try:
@@ -188,7 +187,7 @@ def create_subdir(hospital_name):
         os.mkdir(FULL_PATH)
     return FULL_PATH
 
-def is_within_time(starttime): return time() - starttime < MAX_RUN_TIME
+def is_within_time(starttime): return time() - starttime < constant.MAX_RUN_TIME
 
 def is_downloadable_link(page):
   content_type = str(page.headers['content-type']).lower()
@@ -239,16 +238,6 @@ def check_selenium(soup, url, starttime):
     if 'onclick' in soup_html:
         selenium_handle(url, time() - starttime)
 
-def check_for_csv_xlsx(url, href):
-    full_url = ""
-    if 'http' in href: full_url = href
-    else: full_url = url_format(url, href)
-    if full_url.endswith("csv") or full_url.endswith("xlsx"):
-        try:
-            filename = href.split("/")[-1]
-            urlretrieve(alternative_link, f"./{filename}")
-        except:
-            pass
 
 # Don't need this
 def check_for_csv_xlsx_files(hospital_name, hrefs, url, starttime, levels):
@@ -275,14 +264,21 @@ def check_for_csv_xlsx_files(hospital_name, hrefs, url, starttime, levels):
                 urlretrieve(href, f"./{filename}")
             except:
                 pass
-            crawl_and_scrape(hospital_name, alternative_link, starttime, 1) 
-            crawl_and_scrape(hospital_name, full_url, starttime, 1) # terminate there.
+            crawl_and_scrape(hospital_name, alternative_link, starttime, 1, [], []) 
+            crawl_and_scrape(hospital_name, full_url, starttime, 1, [],[]) # terminate there.
       
-def check_apx(hospital_name, url, starttime):
+def check_apx(hospital_name, url, starttime, visited_urls, visited_hrefs):
     if 'apps.para' in url: 
-        crawl_and_scrape(hospital_name=hospital_name, url=url, starttime=starttime, levels=3) #refresh levels
+        crawl_and_scrape(hospital_name=hospital_name,
+            url=url,
+            starttime=starttime,
+            levels=3, # Refresh levels to keep this call going longer. 
+            visited_urls=visited_urls,
+            visited_hrefs=visited_hrefs
+        )
 
-def crawl_and_scrape(hospital_name, url, starttime, levels):
+
+def crawl_and_scrape(hospital_name, url, starttime, levels, visited_urls, visited_hrefs):
     if levels == 0: return
     if not is_within_time(starttime): return
     if url in visited_urls: return
@@ -298,7 +294,6 @@ def crawl_and_scrape(hospital_name, url, starttime, levels):
     check_download(url, page)
     # Check Selenium
     check_selenium(soup, url, starttime)
-    hrefs = [a.get('href') for a in soup.findAll('a')]
     for a_href in soup.findAll('a'):
         if not is_within_time(starttime): break
         href = a_href.get('href')
@@ -307,20 +302,19 @@ def crawl_and_scrape(hospital_name, url, starttime, levels):
         if not href: continue # No href links so 'url' will be NoneType
         if href.endswith(".pdf"): continue
         full_url = url_format(url, href)
-        check_for_csv_xlsx(url, href)
-        """
-        domain = get_domain(full_url)
-        if domain: 
-        alternate_url = format_url(domain, href)
-        crawl_and_scrape(hospital_name=hospital_name, url=alternate_url, starttime=starttime, levels=levels-1)
-        """
+        #check_for_csv_xlsx(url, href)
         check_apx(hospital_name, full_url, starttime)
     
         if not full_url: continue
     # If website is on our blacklist, skip
         if is_blacklist(full_url): continue
-        crawl_and_scrape(hospital_name=hospital_name, url=full_url, starttime=starttime, levels=levels-1)
-        #check_for_csv_xlsx_files(domain, hospital_name, href, url, starttime, levels)
+        crawl_and_scrape(hospital_name=hospital_name, 
+            url=full_url, 
+            starttime=starttime, 
+            levels=levels-1, 
+            visited_urls=[], 
+            visited_hrefs=[]
+        )
         
         
         # Check to see if we can download the file
@@ -329,28 +323,30 @@ def scrape_hospitals():
     for hospital_name, hospital_data in hospital_urls.items():
         hospital_url = hospital_data['hospital_url']
         if not hospital_url: continue # Some fields may not have a hospital url
-        if 'cdm_missing' in hospital_data.keys():
-            if hospital_data['cdm_missing']: continue
+        if 'cdm_missing' in hospital_data.keys() and hospital_data['cdm_missing']:
+            continue
         if hospital_data['scraped_cdm']: continue # already have the cdm
         print("============================================================================")
         print(f"Scraping the current hospital: {hospital_name}")
-        subdir_path = create_subdir(hospital_name)
-        visited_urls = [] # reset visited urls
-        visited_hrefs = []
-        crawl_and_scrape(hospital_name, hospital_url, time(), 10)
-        check_and_move_files(subdir_path)
+        crawl_and_scrape(hospital_name=hospital_name, 
+            url=hospital_url, 
+            starttime=time(), 
+            levels=10, 
+            visited_urls=[], 
+            visited_hrefs=[]
+        )
+        check_and_move_files()
         # Update to show we checked this hospital already and save to json.
-        #hospital_data['scraped_cdm'] = True
-        #hospital_urls[hospital_name] = hospital_data
-        #break 
-        with open(URLS_PATH, 'w') as outfile:
+        hospital_data['scraped_cdm'] = True
+        hospital_urls[hospital_name] = hospital_data
+        with open(constant.URLS_PATH, 'w') as outfile:
             json.dump(hospital_urls, outfile)
-        #clear_output()
-        print()
 
 if __name__ == '__main__':
     # Load json containing the URLs about the hospitals
     hospital_urls = json.load(open(constant.URLS_PATH))
+
     # Load json containing blacklisted websites
     blacklist = json.load(open(constant.BLACKLIST_PATH))
+    scrape_hospitals()
     

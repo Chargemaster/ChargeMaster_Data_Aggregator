@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -138,3 +139,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+=======
+.ipynb_checkpoints
+
+
+
+>>>>>>> 6b87f190652f589de9505d7356d8a244856ac77e

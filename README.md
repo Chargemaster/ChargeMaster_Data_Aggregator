@@ -18,7 +18,6 @@ Chargemaster can be used to scrape CDM files from Washington State Hospital webp
 
 ## Modules Overview
 
-## Modules Overview:
  * __scraper.py__         :  Webscraper to gather CDM files from Washington Hospitals.
  * __file_delete.py__        :  Sorts scraped files, and retains .csv and .xlsx data files.
  * __file_rename.py__      :  Renames and numbers scraped data files by hospital.

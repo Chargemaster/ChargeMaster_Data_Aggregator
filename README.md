@@ -1,5 +1,9 @@
 # Chargemaster Data Aggregator & Analysis
 
+<p align="left"><img src="https://github.com/Chargemaster/ChargeMaster_Data_Aggregator/blob/3ba46778eb2950c838ad184406542957a1ed75a7/docs/Screen%20Shot%202021-12-06%20at%209.08.21%20PM.png" width=250 alt="chargemaster logo"/></p>
+
+
+
 Hospitals must have transparency in releasing hospital charges for services that they provide. A "Charge Master Description" (CDM) is a file, usually in CSV or Excel format, that lists prices for each service. Since there is no regulation on how hospitals need to format this data, each hospital's CDM varies greatly from another which makes cost breakdown and analysis very difficult for anyone who is trying to compare costs between hospitals for specific services, procedures, and labor. 
 
 ## Purpose

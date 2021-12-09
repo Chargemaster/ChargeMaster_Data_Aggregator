@@ -98,7 +98,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'geoscatter',
-                    figure = fig_1,
+                    figure = {},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
             ),
@@ -106,7 +106,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'histogram',
-                    figure = fig_2,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
@@ -115,7 +115,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'bar',
-                    figure = fig_3,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
@@ -124,7 +124,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'table',
-                    figure = fig_4,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},

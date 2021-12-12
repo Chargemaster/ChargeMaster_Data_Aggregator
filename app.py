@@ -17,7 +17,7 @@ hospital_all = hospital_fee.merge(hospital_address, on = 'hospital', how = 'left
 
 # text that will show when hover
 hospital_all['text'] = hospital_all['hospital'] + ' Size: ' + hospital_all['hospital_size'] + ' Address: ' + hospital_all['address'].astype(str)
-
+'''
 # 4 graphs
 # 1. use Scattergeo to create a geo map and add hospital location on it
 fig_1 = go.Figure(data=go.Scattergeo(
@@ -87,7 +87,7 @@ fig_4 = go.Figure(data = [go.Table(
 ])
 
 fig_4.update_layout(title = "Price Information")
-
+'''
 # set up dashboard layout
 # Add 3 filters and plot out 4 graphs
 app = dash.Dash(__name__)
@@ -170,7 +170,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'geoscatter',
-                    figure = fig_1,
+                    figure = {},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
             ),
@@ -178,7 +178,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'histogram',
-                    figure = fig_2,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
@@ -187,7 +187,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'bar',
-                    figure = fig_3,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},
@@ -196,7 +196,7 @@ app.layout = html.Div(
                 html.Div(
                 children = dcc.Graph(
                     id = 'table',
-                    figure = fig_4,
+                    figure = {},
                     config={"displayModeBar": False},
                 ),
                 style={'width': '50%', 'display': 'inline-block'},

@@ -27,12 +27,7 @@ app.layout = html.Div(
     children=[
         html.Div(
             children=[
-                html.P(children="🏥",
-                       style={'fontSize': '30px',
-                              'textAlign': 'center'},
-                       className="header-emoji"
-                ), #emoji
-                html.H1(children="Chargemaster Dashboard",
+                html.H1(children="🏥 Chargemaster Dashboard 🏥",
                         style={'fontSize': '30px',
                                'textAlign': 'center',
                                'color': '#2F4F4F',
@@ -40,7 +35,7 @@ app.layout = html.Div(
                         className="header-title"
                 ), #Header title
                 html.H2(children="Comparing prices from hospitals",
-                        style={'fontSize': '24px',
+                        style={'fontSize': '20px',
                                'textAlign': 'center',
                                'color': '#778899',
                                'font-family': 'sans-serif'},
@@ -75,7 +70,7 @@ app.layout = html.Div(
                            'color': '#2F4F4F'},
                 ),
             ],
-           className='menu',style={'backgroundColor':'#d0edf0'},
+           className='menu',style={'backgroundColor':'#dce0e5'},
         ), #the drg_code dropdown filter
 
         html.Div(
@@ -92,7 +87,7 @@ app.layout = html.Div(
                         {'label': County, 'value': County}
                         for County in hospital_all.county.unique()
                     ], 
-                    value=['King', 'Walla Walla'],
+                    value=['King', 'Walla Walla', 'Spokane'],
                     clearable=False,
                     searchable=True,
                     multi=True,
@@ -103,7 +98,7 @@ app.layout = html.Div(
                            'color': '#2F4F4F'},
                 ),
             ],
-            className='menu',style={'backgroundColor':'#d0edf0'},
+            className='menu',style={'backgroundColor':'#dce0e5'},
         ), #the county dropdown filter
 
         html.Div(
@@ -131,7 +126,7 @@ app.layout = html.Div(
                            'color': '#2F4F4F'},
                 ),
             ],
-            className='menu',style={'backgroundColor':'#d0edf0'},
+            className='menu',style={'backgroundColor':'#dce0e5'},
         ), #the hospital_size dropdown filter
 
         html.Div(

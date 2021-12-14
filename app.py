@@ -305,7 +305,7 @@ def update_charts(Code, County, Size):
                                             'Address',
                                             'Size',
                                             'DRG Code',
-                                            'Treatment',
+                                            'Cases',
                                             'Price'],
                                   font = dict(color='white'),
                                   fill_color='steelblue',

@@ -3,7 +3,7 @@ It should be used before file_rename.py and a source directory should be added
 as path_name.
 """
 
-from os import renames, unlink
+#from os import renames, unlink
 import pathlib
 import os
 

@@ -5,15 +5,22 @@ as path_name.
 
 from os import renames, unlink
 import pathlib
+import os
 
 #This program works to delete files in scraper folder that are not data files.
 
-def delete_files(path_name):
+def delete_files():
     """ This script iterates through all hospital folders in the directory path_name
     and deletes files that are not .csv or .xlsx"""
-    path = pathlib.Path(path_name)
-    #print("This is the path: ", path)
-
+    # path = pathlib.Path(path_name)
+    path = os.path.abspath(__file__+"/../../../data/scraped_data")
+    isdir = os.path.isdir(path)
+    dirname1 = os.path.basename(path)
+    if isdir != True:
+        raise ValueError ("Not a valid directory")
+    if dirname1 != "scraped_data":
+        raise ValueError ("Wrong Directory Specified")
+    
     for folder in path.iterdir():
         if folder.is_dir():
             #counter = 1
@@ -33,4 +40,4 @@ def delete_files(path_name):
             
                     
 
-#delete_files(path_name)
+delete_files()

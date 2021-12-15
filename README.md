@@ -39,6 +39,10 @@ This could be calculating the cost of a one-time procedure along with consistent
 
 ## Dashboard Design
 
+Dashboard link: https://cse583-chargemaster.herokuapp.com/
+
+<p align="center"><img src="https://github.com/Chargemaster/ChargeMaster_Data_Aggregator/blob/8e29861c98726901aded30bfcbd1a23ec29e1566/docs/dashboard.png" width=1000 alt="dashboard"/></p>
+
 We decided to include four visualizations and 3 filters in our dashboard for users to view hospitals and procedure prices based on their needs. 
 
 ### Filters
@@ -49,8 +53,6 @@ We decided to include four visualizations and 3 filters in our dashboard for use
 
 
 ### Visualizations
-
-Dashboard link: https://cse583-chargemaster.herokuapp.com/
 
 #### Geo Map
 

@@ -26,7 +26,7 @@ Chargemaster can be used to scrape CDM files from Washington State Hospital webp
  * __file_delete.py__        :  Sorts scraped files, and retains .csv and .xlsx data files.
  * __file_rename.py__      :  Renames and numbers scraped data files by hospital.
  * __file_formatting.py__  : Not yet developed - pulls relevant columns from individual datasets and merges into master dataset for analysis.
- * __dashboard.ipynb__   :  Dashboard to visualize hospital prices by Diagnosis-related Group (DRG) code.
+ * __app.py__   :  Dashboard to visualize hospital prices by Diagnosis-related Group (DRG) code.
 
 ## Use Case
 

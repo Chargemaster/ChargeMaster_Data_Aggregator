@@ -34,6 +34,9 @@ A prospective patient needing non-immediate medical attention may be more focuse
 
 This could be calculating the cost of a one-time procedure along with consistent medical attention needed like refilling prescriptions, check-ups every X months, along with hospital size and location (E.g. They probably don't want to drive hours to a hospital they have to go to somewhat regualrly). The user can look at the dashboard, filter by type of service, hospital size, and county in Washington state. They can then see the hospitals fitting the criteria, their locations, price distribution, and compare their costs side to side for the specific services and/or medical goods/attention they may need.
 
+## Workflow
+<p align="center"><img src="https://github.com/Chargemaster/ChargeMaster_Data_Aggregator/blob/b60b93df42b42aedea64e2d7741cc2796efa25c6/docs/Chargemaster%20Workflow-4.png" width=1000 alt="chargemaster logo"/></p>
+
 ## Dashboard Design
 
 We decided to include four visualizations and 3 filters in our dashboard for users to view hospitals and procedure prices based on their needs. 

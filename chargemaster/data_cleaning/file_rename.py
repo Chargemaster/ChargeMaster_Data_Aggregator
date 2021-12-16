@@ -3,15 +3,21 @@ This script is used to rename .csv and .xlsx data files that remain after all ot
 have been deleted, during the data cleaning process. """
 from os import renames, unlink
 import pathlib
+import os
 
-def rename_files(path_name):
+def rename_files():
     """
     The function iterates through each folder, and renames files with the same 
     name as the folder (hospital name) and a number, increasing by one for each file
     in the folder.
     """
-    path = pathlib.Path(path_name)
-    #print("This is the path: ", path)
+    path = pathlib.Path(__file__).parents[2]/"data"/"scraped_data"
+    isdir = os.path.isdir(path)
+    dirname1 = os.path.basename(path)
+    if isdir != True:
+        raise ValueError ("Not a valid directory")
+    if dirname1 != "scraped_data":
+        raise ValueError ("Wrong Directory Specified")
 
     for folder in path.iterdir():
         if folder.is_dir():
